@@ -4,7 +4,7 @@
 ---
 
 ### Purpose
-To free physical and energetic blockages and learn to stand without strain.
+To free the body from tension and learn to stand without strain.
 
 **Duration:** about 3–6 months.
 
