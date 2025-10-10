@@ -1,15 +1,17 @@
 site_name: The Practice Circle
 site_description: A network of people training attention, honesty, and compassion in ordinary life.
 site_author: The Practice Circle
-site_url: https://simondilhas.github.io/cultivation_circle
+site_url: https://simondilhas.github.io/practice_circle
 
 # Repository
-repo_name: simondilhas/cultivation_circle
-repo_url: https://github.com/simondilhas/cultivation_circle
+repo_name: simondilhas/practice_circle
+repo_url: https://github.com/simondilhas/practice_circle
 
 # Configuration
 theme:
   name: material
+  logo: material/meditation
+  favicon: material/meditation
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -92,4 +94,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/simondilhas/cultivation_circle
+      link: https://github.com/simondilhas/practice_circle
