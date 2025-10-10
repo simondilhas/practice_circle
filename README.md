@@ -23,10 +23,8 @@ Once you've read these foundational documents, explore the other sections based 
 ## Structure Overview
 
 - **Manifesto** Why we exist, and what principles guide us.  
-- **Framework** How circles operate and maintain integrity.  
-- **Participants** Guidance for members.  
+- **Framework** How circles operate and maintain integrity.   
 - **Facilitators** Guidance for those holding space.  
 - **Federation** Governance, transparency, and adaptation.
 - **Practice** – Structured stages of standing meditation practice.
 - **Research** – Shared learning, documentation, and metrics.  
-- **Public** – Pages for publication or GitBook frontend.
