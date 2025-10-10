@@ -53,7 +53,7 @@ Stillness, balance, and clarity now express themselves naturally in movement, co
 ---
 
 ### Periodic Calibration
-- Keep one formal standing session per week to maintain reference.  
+- Keep at least one formal standing session per week to maintain reference.  
 - Record brief notes on how the quality of awareness appears in daily life.  
 - Use the circle’s group sessions for reflection and alignment, not instruction.
 

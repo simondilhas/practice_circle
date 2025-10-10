@@ -56,7 +56,7 @@ Membership requires participation, not belief. You don't have to agree, only to 
 
 ## 4. Open Books, Open Doors
 
-Finances, decisions, curricula, and complaints are transparent. Any member can inspect records or attend governance meetings.
+Access, Finances, decisions, curricula, and complaints are transparent. Any member can inspect records or attend governance meetings.
 
 → Secrecy only for personal confidentiality, never for power.
 

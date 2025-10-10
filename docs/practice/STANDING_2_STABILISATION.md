@@ -36,8 +36,7 @@ Transition from *relaxation under gravity* to *strength through relaxation.*
 ### Eyes
 - Continue with **eyes open** as in Stage 1, lids slightly lowered, gaze soft.  
 - As the stance deepens and arms rise, you may find **closed eyes** help you sense the increased internal load more clearly.  
-- Experiment with both open and closed, especially when fatigue or trembling appears.  
-- Notice whether closed eyes deepen relaxation or create instability at this stage.
+- Experiment with both open and closed. Notice whether closed eyes deepen relaxation or create instability at this stage.
 
 ---
 
@@ -52,7 +51,7 @@ Transition from *relaxation under gravity* to *strength through relaxation.*
 ### Arms
 - After several weeks in Stage 2, when standing with arms down feels stable, begin to **lift arms slowly** — as if buoyed up by water or air.  
 - Stop when hands are roughly at **lower chest or solar plexus height**, elbows rounded,  
-  palms facing each other as though holding a large ball.  
+  palms facing each other/body as though holding a large ball.  
 - Shoulder-width distance between hands; wrists stay soft.  
 - Maintain only as long as relaxation remains.  
 - If tension appears in shoulders or wrists, lower the arms and rest.
@@ -68,17 +67,17 @@ Transition from *relaxation under gravity* to *strength through relaxation.*
   - Subtle sway or vibration of the body.  
   - Expansion of breath through ribs and back.
 - If the mind drifts, you may briefly recall earlier cues (roots, thread) to re-center, then release them again.  
-- The aim is **direct sensing**, not imagining.
+- The aim is **direct sensing**, not imagining (stop your visualizations - listen to the body)
 
 ---
 ### Feeling Sensation and Connection
 
 As tension dissolves and attention steadies, new sensations appear: warmth, vibration, tingling, subtle movement inside the body.  
-Tradition calls this *qi*, but it can be understood directly — as the nervous system perceiving itself more clearly.
+Tradition calls this *qi*, but it can be understood directly — as the nervous system perceiving itself more clearly. This can be:
 
-- **Warmth** — results from improved blood flow when muscles release.  
-- **Pulsing or vibration** — tiny rhythmic contractions and shifts in connective tissue.  
-- **Flow or expansion** — the body’s perception of continuous internal balance.  
+- **Warmth** 
+- **Pulsing or vibration**
+- **Flow or expansion**
 
 These are not mystical forces to control but feedback from the body.  
 The goal is not to chase them but to notice them calmly, without naming or interpreting.  
@@ -103,8 +102,8 @@ Trust the process: sensation is a side effect, not the goal.
 
 ### Routine
 - 20–40 minutes per session, 4–5 times weekly.  
-- End each session with slow mindful walking to integrate.  
-- Keep a brief log: duration, mood, key sensations.
+- End each session with laying down on your back (if possible) and listening to the body
+- Document what you did and what it did to you — contribute to collective understanding.
 
 ---
 

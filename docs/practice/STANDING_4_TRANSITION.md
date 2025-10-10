@@ -45,6 +45,14 @@
 3. **Side Stance** – step to the side, shifting load left/right evenly; trains lateral stability.  
 4. **Micro-Shifts** – within each stance, gently feel pressure flow forward/back without visible movement.
 
+---
+
+### Routine
+- 30–60 minutes 
+- Start with Standing parallel and end with standing parallel.
+- Document what you did and what it did to you — contribute to collective understanding.
+
+---
 
 ### Signs of Progress
 - Load feels springy, not heavy.  

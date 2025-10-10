@@ -14,7 +14,8 @@ To free the body from tension and learn to stand without strain.
 - Feet shoulder-width apart, knees soft, spine long.  
 - Weight evenly on both feet.  
 - Crown gently lifted, chin tucked slightly.  
-- Shoulders loose, arms hanging naturally or hands on belly.
+- Shoulders loose, arms hanging naturally. 
+- Experiment with rotating your palms to face inward toward your body or backward.
 
 ---
 
@@ -65,6 +66,7 @@ To free the body from tension and learn to stand without strain.
 - 10–20 minutes daily; short sessions better than one long hold.  
 - Gentle shaking or joint rotations before and after.  
 - Note sensations: warmth, trembling, relaxation.
+- Document what you did and what it did to you — contribute to collective understanding.
 
 ---
 
@@ -83,11 +85,12 @@ To free the body from tension and learn to stand without strain.
 | Tight shoulders | Exhale and drop weight |
 | Forcing breath | Return to natural rhythm |
 | Overtraining | Shorter, more frequent sessions |
+| Getting attached to sensations | Note them, let them pass |
 
 ---
 
 ### Goal
-A stable, relaxed frame where circulation and awareness can flow freely.
+Become aware of where you hold tension — and learn to let it dissolve.
 
 ---
 
