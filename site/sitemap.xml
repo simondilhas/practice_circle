@@ -1,91 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/facilitator/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/facilitator/FACILITATOR_GUIDE/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/facilitator/FACILITATOR_GUIDE/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/facilitator/MENTORSHIIP/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/facilitator/MENTORSHIIP/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/framework/CHARTA/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/framework/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/framework/DECISION_MEETING_PROTOCOL/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/framework/CHARTA/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/framework/HOW_WE_CHANGE/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/framework/DECISION_MEETING_PROTOCOL/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/framework/INSPIRATIONAL_TRADITIONS/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/framework/INSPIRATIONAL_TRADITIONS/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/manifesto/MANIFESTO/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/manifesto/MANIFESTO/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_0_INTRO/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_1_FOUNDATION/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_0_INTRO/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_2_STABILISATION/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_1_FOUNDATION/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_3_REFINEMENT/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_2_STABILISATION/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_4_TRANSITION/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_3_REFINEMENT/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_5_INTEGRATION/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_4_TRANSITION/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_AUTHOR_NOTES/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_5_INTEGRATION/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_BUDDHIST_CONCEPTS/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_APPENDIX_AUTHOR_NOTES/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_STOIC_CONCEPTS/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_APPENDIX_BUDDHIST_CONCEPTS/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_TAOIST_CONCEPTS/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_APPENDIX_STOIC_CONCEPTS/</loc>
-         <lastmod>2025-10-10</lastmod>
-    </url>
-    <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_APPENDIX_TAOIST_CONCEPTS/</loc>
-         <lastmod>2025-10-10</lastmod>
-    </url>
-    <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/STANDING_APPENDIX_YOGIC_CONCEPTS/</loc>
-         <lastmod>2025-10-10</lastmod>
-    </url>
-    <url>
-         <loc>https://simondilhas.github.io/cultivation_circle/practice/appendices/</loc>
+         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_YOGIC_CONCEPTS/</loc>
          <lastmod>2025-10-10</lastmod>
     </url>
 </urlset>
