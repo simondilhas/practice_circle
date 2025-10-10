@@ -5,7 +5,8 @@
 
 # Cultivation Circle Manifesto
 
-We meet regularly to train attention, honesty, and compassion so we act with clarity in the world.
+Our age rewards distraction, performance, and control — not clarity, integrity, or care.
+We stand to rebuild what was lost — beginning with attention to what is.
 
 ## Why We Exist
 
