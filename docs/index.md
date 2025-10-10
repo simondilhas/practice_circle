@@ -46,4 +46,4 @@ The core practice consists of six stages of standing meditation:
 
 This is a living repository. Content evolves through collective wisdom, practical experience, and peer review. All changes are tracked through version control.
 
-[View on GitHub](https://github.com/simondilhas/cultivation_circle)
+[View on GitHub](https://github.com/simondilhas/practice_circle)
