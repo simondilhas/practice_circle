@@ -100,6 +100,54 @@ Standing meditation requires minimal setup. The practice adapts to you, not the 
 
 > The body is the laboratory. The environment is secondary.
 
+## Tools for Self-Correction
+
+Standing is a feedback practice — not about following instructions perfectly but about learning to **listen**.  
+The body continuously offers information through tension, warmth, pressure, and movement.  
+Correction comes from perception, not imagination.
+
+### 1. Feel, Don’t Imagine
+- Sense what is **actually happening**, not what you think should happen.  
+- Notice physical sensations — pressure, tremor, warmth, or stillness — without naming them as “energy” or “flow.”  
+- Avoid visualizing lines, colors, or movements.  
+- Awareness itself changes posture; you do not need to make the body do anything.  
+
+> Stand as the body stands.  Feel, don’t perform.
+
+### 2. Micro-Adjustments
+- Explore subtle shifts to understand balance and relaxation:
+  - Move weight slightly **forward**, **backward**, or **side to side**; find where breath feels most open.  
+  - Tilt the **hips** a few millimeters forward or back; note when the lower back releases.  
+  - Roll **shoulders** gently or lift/drop the **sternum** to test how tension redistributes.  
+- Each change reveals how one joint influences the whole frame.  
+- Never chase a “correct” feeling — curiosity replaces correction.
+
+### 3. Scan and Release
+- Periodically sweep attention from **crown to soles**.  
+- Wherever tension appears, **exhale and soften** without collapsing.  
+- Keep awareness wide enough to feel the entire body, not just one problem area.  
+- If numbness or tightness persists, move lightly, then resume stillness.
+
+### 4. Reset When Needed
+If fatigue, dizziness, or confusion appears:
+1. Stop standing.  
+2. **Walk slowly** for one or two minutes.  
+3. **Circle** hands, shoulders, hips, and ankles.  
+4. Return to stillness — lighter, slower, more awake.
+
+### 5. Listen Across Sessions
+- Every session is different. Posture, mood, and stability change day to day.  
+- Treat each stand as a new conversation with the body.  
+- Keep a brief log of sensations or shifts — not as judgment, but as observation of process.
+
+### 6. External Feedback (Optional)
+- Occasionally record a short video or observe in a mirror.  
+- Compare what feels balanced with what looks balanced.  
+- Use sight as data, not authority — the goal is **internal accuracy**, not external symmetry.
+
+> A body that listens corrects itself.  
+> Awareness is the teacher; sensation is the guide.
+
 ## Progression Between Stages
 
 **Timing is individual.** The durations listed in each stage are averages, not requirements.  
