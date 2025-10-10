@@ -56,6 +56,28 @@ For the Circle's framework, standing offers:
 Other practices (sitting meditation, breathwork, movement) are valuable but often allow subtle escape.  
 Standing keeps you honest.
 
+## Relationship to Traditional Goals
+
+Union with either personalized god(s) or abstract concepts (Nirvana, Dao, Brahman, etc.) is the ultimate aim of these before mentioned spiritual traditions.  
+Standing practice, breathwork, and meditation were developed as methods to approach or realize these transcendent states.
+
+In the Western scientific tradition, we have pushed the unknowable further and further away. What once was divine mystery became natural law; what once was the moment of creation is now located just a few moments after the Big Bang. But we should not forget that these are hypotheses — right until proven wrong.
+
+So ultimately, the spiritual traditions and modern physics agree on one thing:  
+**We cannot fully know or understand what lies beyond with the means available in this world.**
+
+It boils down to belief.  
+You can choose to believe in a transcendent reality — divine, energetic, or metaphysical — or you can choose not to. Both are valid positions, but neither can be verified through direct, repeatable observation.
+
+For this framework:  
+**We focus on what is directly observable.**  
+The body, the breath, the quality of attention, the patterns of tension and release — these can be studied, tested, and refined.  
+We will see what we can discover through sustained practice and honest observation.
+
+This approach does not deny traditional goals. If your practice leads you toward experiences you interpret as spiritual, that is your path. But the method itself remains grounded in what can be felt, measured, and repeated — accessible to anyone, regardless of belief.
+
+> We honor the sources without requiring their metaphysics.
+
 ## How to Read the Stages
 
 The stages describe a clear progression of skill, not optional themes.  
