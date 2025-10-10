@@ -1,0 +1,59 @@
+- title: Getting Started
+  url: /
+- title: Manifesto
+  url: /manifesto/MANIFESTO.html
+- title: Charta
+  url: /framework/CHARTA.html
+- title: Practice Intro
+  url: /practice/STANDING_0_INTRO.html
+- title: Facilitator Guide
+  url: /facilitator/FACILITATOR_GUIDE.html
+
+- title: "---"
+  url: ""
+
+- title: Framework
+  url: /framework/CHARTA.html
+  subfolderitems:
+    - page: Charta
+      url: /framework/CHARTA.html
+    - page: Decision Meeting Protocol
+      url: /framework/DECISION_MEETING_PROTOCOL.html
+    - page: Inspirational Traditions
+      url: /framework/INSPIRATIONAL_TRADITIONS.html
+
+- title: Practice Stages
+  subfolderitems:
+    - page: "0. Introduction"
+      url: /practice/STANDING_0_INTRO.html
+    - page: "1. Foundation"
+      url: /practice/STANDING_1_FOUNDATION.html
+    - page: "2. Stabilisation"
+      url: /practice/STANDING_2_STABILISATION.html
+    - page: "3. Refinement"
+      url: /practice/STANDING_3_REFINEMENT.html
+    - page: "4. Transition"
+      url: /practice/STANDING_4_TRANSITION.html
+    - page: "5. Integration"
+      url: /practice/STANDING_5_INTEGRATION.html
+
+- title: Practice Appendices
+  subfolderitems:
+    - page: Author Notes
+      url: /practice/STANDING_APPENDIX_AUTHOR_NOTES.html
+    - page: Buddhist Concepts
+      url: /practice/STANDING_APPENDIX_BUDDHIST_CONCEPTS.html
+    - page: Stoic Concepts
+      url: /practice/STANDING_APPENDIX_STOIC_CONCEPTS.html
+    - page: Taoist Concepts
+      url: /practice/STANDING_APPENDIX_TAOIST_CONCEPTS.html
+    - page: Yogic Concepts
+      url: /practice/STANDING_APPENDIX_YOGIC_CONCEPTS.html
+
+- title: Facilitators
+  subfolderitems:
+    - page: Facilitator Guide
+      url: /facilitator/FACILITATOR_GUIDE.html
+    - page: Mentorship
+      url: /facilitator/MENTORSHIIP.html
+
