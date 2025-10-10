@@ -10,8 +10,6 @@ repo_url: https://github.com/simondilhas/practice_circle
 # Configuration
 theme:
   name: material
-  logo: material/meditation
-  favicon: material/meditation
   palette:
     # Palette toggle for light mode
     - scheme: default
