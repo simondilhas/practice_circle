@@ -64,10 +64,9 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Manifesto: index.md
-    - Charta: framework/CHARTA.md
-    - Practice: practice/STANDING_0_INTRO.md
-  - Getting Started: getting-started.md
+  - Home: index.md
+  - Getting Started:
+    - Overview: getting-started.md
     - Manifesto: index.md
     - Charta: framework/CHARTA.md
     - Practice: practice/STANDING_0_INTRO.md
