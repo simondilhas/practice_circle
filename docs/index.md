@@ -1,38 +1,47 @@
-# The Practice Circle
+# The Practice Circle Manifesto
 
-**The Practice Circle rebuilds resilience where power and doctrine erode it, through a shared, evolving tradition of attention.**
+Our age rewards distraction, performance, and control — not clarity, integrity, or care.
+We rebuild that balance **through practice, not belief**, beginning with attention to what is.
 
-## About This Project
+---
 
-This is an experiment in building an internal tradition rooted in Western values—where authority is procedural, not personal. The structure outlives and overrides any personality. This living repository evolves through collective wisdom, practical experience, and peer review. All content is public and tracked through version control.
+## Why We Exist
 
-[View on GitHub](https://github.com/simondilhas/practice_circle)
+Modern life excels at the outer tasks — researching, building, producing, optimizing — yet neglects the inner ones: seeing clearly, feeling deeply, acting with integrity.  
+We are surrounded by information but short on wisdom; connected to everyone yet disconnected from ourselves.
 
-## Getting Started
+Old religions once offered frameworks for reflection, community, and meaning. But over time, they hardened into hierarchies of belief and power. Returning to them is no solution — their structures, bound by dogma and excess, no longer serve the present.
 
-If you're new here, we recommend reading in this order:
+Yet without any shared framework for inner cultivation, we drift. The modern world has discarded the old forms and built nothing to replace them. In this vacuum, people search without orientation, moving from trend to trend, or surrendering to charisma instead of clarity.
 
-1. **[Manifesto](manifesto/MANIFESTO.md)** – Start here to understand why we exist and what principles guide us.
-2. **[Charta](framework/CHARTA.md)** – Learn how circles operate and maintain integrity.
-3. **[Practice Introduction](practice/STANDING_0_INTRO.md)** – Discover the core practice and progression stages.
+**We exist to change that**
 
-Once you've read these foundational documents, explore the other sections based on your interests and needs.
+---
 
-## Structure Overview
+## How We Proceed — Three Commitments
 
-- **[Manifesto](manifesto/MANIFESTO.md)** – Why we exist, and what principles guide us.
-- **[Framework](framework/CHARTA.md)** – How circles operate and maintain integrity.
-- **[Practice](practice/STANDING_0_INTRO.md)** – Structured stages of standing meditation practice.
-- **[Facilitators](facilitator/FACILITATOR_GUIDE.md)** – Guidance for those hosting circles.
-- **Federation** – Governance, transparency, and adaptation. (Coming soon)
-- **Research** – Shared learning, documentation, and metrics. (Coming soon)
+### 1. Practice  
+Cultivation of **body, mind, and soul** through **standing meditation** and disciplined attention.  
+Practice is the foundation — personal transformation through awareness.
 
-## Practice Stages
+### 2. Living Inquiry
+Continuous evolution of practice through **experiment, reflection, and grounding in lived experience**.  
+Principles are **tested, not preached**; what works is kept, what doesn’t is refined. No dogma!
 
-The core practice consists of five stages of standing meditation:
+### 3. Shared Power  
+An **adaptive collective structure** with **built-in accountability**, where **power is procedural, not personal**.  
+Decisions and authority flow through **transparent processes**, not individuals.
 
-1. [Foundation](practice/STANDING_1_FOUNDATION.md)
-2. [Stabilisation](practice/STANDING_2_STABILISATION.md)
-3. [Refinement](practice/STANDING_3_REFINEMENT.md)
-4. [Transition](practice/STANDING_4_TRANSITION.md)
-5. [Integration](practice/STANDING_5_INTEGRATION.md)
+---
+
+## What This Creates
+A path of continual practice and collective honesty that resists charisma and ideology, replacing them with **clear seeing, humble inquiry, and compassionate action**. This document is **provisional and living**: it guides without ruling and is revised by open review after real-world use. 
+
+---
+
+## Next Steps
+
+Ready to explore further?
+
+- **[Charta](framework/CHARTA.md)** – Learn how circles operate and maintain integrity
+- **[Practice](practice/STANDING_0_INTRO.md)** – Discover the core practice and progression stages

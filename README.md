@@ -11,10 +11,10 @@ All files are public, versioned, and open to peer review.
 
 If you're new here, we recommend reading in this order:
 
-1. **[Manifesto](manifesto/MANIFESTO.md)** – Start here to understand why we exist and what principles guide us.
-2. **[Charta](framework/CHARTA.md)** – Learn how circles operate and maintain integrity.
-3. **[Practice Intro](practice/STANDING_0_INTRO.md)** – Discover the core practice and progression stages.
-4. **[Facilitator Guide](facilitator/FACILITATOR_GUIDE.md)** – Understand how circles are facilitated (whether you plan to facilitate or not).
+1. **[Home](docs/index.md)** – Start here to understand why we exist and what principles guide us.
+2. **[Charta](docs/framework/CHARTA.md)** – Learn how circles operate and maintain integrity.
+3. **[Practice Intro](docs/practice/STANDING_0_INTRO.md)** – Discover the core practice and progression stages.
+4. **[Facilitator Guide](docs/facilitator/FACILITATOR_GUIDE.md)** – Understand how circles are facilitated (whether you plan to facilitate or not).
 
 Once you've read these foundational documents, explore the other sections based on your interests and needs.
 
