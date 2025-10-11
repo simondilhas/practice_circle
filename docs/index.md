@@ -12,16 +12,16 @@ We know more than ever, yet understand ourselves less.
 
 Religions once offered a shared structure for reflection, community, and meaning. Over time, many became rigid hierarchies of belief and power. Returning to them doesn’t solve today’s challenges — their forms no longer fit how we live, how we think, or the conditions that made progress possible.
 
-Modern culture has discarded those frameworks but built nothing to replace them. In this vacuum, people search without orientation, moving from trend to trend, or surrendering to charisma instead of clarity.
+Modern culture has discarded those frameworks but built nothing to replace them. In this vacuum, people search without orientation, moving from trend to trend, or surrendering to charisma instead of personal responsibility.
 
-We exist to change that!
+**We exist to change that!**
 
 ---
 
 ## How We Proceed — Three Commitments
 
 ### 1. Practice  
-Cultivation of **body and mind through **standing meditation** and disciplined attention.  
+Cultivation of body and mind through **standing meditation** and disciplined attention.  
 Practice is the foundation — personal transformation through awareness.
 
 ### 2. Living Inquiry
@@ -35,7 +35,7 @@ Decisions and authority flow through **transparent processes**, not individuals.
 ---
 
 
-## What This Creates — In the Body, Mind, and Circle
+## What This Creates — In the Body, Life, and Community
 
 Practice is not theory. What we create must be visible in how we move, act, and relate — otherwise it remains talk.
 

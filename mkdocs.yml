@@ -69,7 +69,6 @@ nav:
   - Manifesto: index.md
   - Getting Started:
     - Overview: getting-started.md
-    - Manifesto: index.md
     - Charta: framework/CHARTA.md
     - Practice: practice/STANDING_0_INTRO.md
   - Framework:
