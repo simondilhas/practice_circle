@@ -6,96 +6,37 @@
 # Cultivation Circle Manifesto
 
 Our age rewards distraction, performance, and control — not clarity, integrity, or care.
-We stand to rebuild what was lost — beginning with attention to what is.
+We rebuild that balance **through practice, not belief**, beginning with attention to what is.
 
 ## Why We Exist
 
-Modern western life excels at the outer tasks, building, producing, optimizing, yet neglects the inner ones: seeing clearly, feeling deeply, acting with integrity. We are surrounded by information but short on wisdom; connected to everyone yet disconnected from ourselves.
+Modern life excels at the outer tasks — researching, building, producing, optimizing — yet neglects the inner ones: seeing clearly, feeling deeply, acting with integrity.  
+We are surrounded by information but short on wisdom; connected to everyone yet disconnected from ourselves.
 
-Old religions once offered a framework for society, community and reflection but they come with dogma and hierarchy. Religion built a cache around spirituality and now they can't help us in our modern world. Going back to a religious framework, corrupted by excess and worldly powerplays is no option.
+Old religions once offered frameworks for reflection, community, and meaning. But over time, they hardened into hierarchies of belief and power. Returning to them is no solution — their structures, bound by dogma and excess, no longer serve the present.
 
-But having no framework for spirituality leaves us weak and without a clear path of progression. The modern world discarded those structures, and kept nothing to replace them. The result is that individuals search, stumble from trend to trend but can't progress. Or fall for charismatic leadership.
+Yet without any shared framework for inner cultivation, we drift. The modern world has discarded the old forms and built nothing to replace them. In this vacuum, people search without orientation, moving from trend to trend, or surrendering to charisma instead of clarity.
 
-We exist to restore the balance between the outer and inner worlds — not through belief, but through daily practice.
+**We exist to change that**
 
-- **Attention** grounds us in presence without distraction.
-- **Honesty** lets us see reality as it is, not as we wish it to be.
-- **Curiosity** keeps us questioning and guards against dogma.
-- **Humility** dissolves ego and makes shared leadership possible.
-- **Compassion** reminds us that strength without care is just hardness.
+## How We Proceed — Three Commitments
 
-Together, these principles form a path of continual practice, a way to live with clarity, integrity, and humanity in a noisy world.
+### 1. Practice  
+Cultivation of **body, mind, and soul** through **standing meditation** and disciplined attention.  
+Practice is the foundation — personal transformation through awareness.
 
-To give this inner practice a fitting organizational framework that is ready to grow healthy we came up with these guardrails:
+### 2. No Dogma  
+Continuous evolution of practice through **experiment, reflection, and grounding in lived experience**.  
+Principles are **tested, not preached**; what works is kept, what doesn’t is refined.
 
----
+### 3. Shared Power  
+An **adaptive collective structure** with **built-in accountability**, where **power is procedural, not personal**.  
+Decisions and authority flow through **transparent processes**, not individuals.
 
-## 1. No Dogma — Everything Is Provisional
-
-Nothing is "revealed truth." Every idea, method, or insight is a working hypothesis. If it can't be questioned or tested in experience, it's out.
-
-→ Truth is a verb, not a possession.
-
----
-
-## 2. Nobody Above the Framework
-
-The structure outlives and overrides any personality. All roles rotate; leadership has term limits; documents are public.
-
-→ Authority is procedural, not personal.
+## What This Creates
+A path of continual practice and collective honesty that resists charisma and ideology, replacing them with **clear seeing, humble inquiry, and compassionate action**. This document is **provisional and living**: it guides without ruling and is revised by open review after real-world use. 
 
 ---
 
-## 3. Shared Practice, Not Shared Belief
 
-Membership requires participation, not belief. You don't have to agree, only to show up and practice with honesty.
 
-→ Behavior over belief.
-
----
-
-## 4. Open Books, Open Doors
-
-Access, Finances, decisions, curricula, and complaints are transparent. Any member can inspect records or attend governance meetings.
-
-→ Secrecy only for personal confidentiality, never for power.
-
----
-
-## 5. Local Autonomy, Global Accountability
-
-Small circles of 10 self-govern but adhere to a short charter of ethics and audit. No central authority; only a federation for coordination and peer review.
-
-→ Unity through standards, not hierarchy.
-
----
-
-## 6. Rotation and Redundancy
-
-Facilitators, treasurers, and scribes rotate regularly. Every role has a backup; no one is indispensable.
-
-→ Power circulates or it stagnates.
-
----
-
-## 7. Service Over Status
-
-No career ladder, no special robes, no enlightenment badges. Contribution = cleaning the floor, taking minutes, helping others, marketing.
-
-→ Prestige measured by usefulness, not image.
-
----
-
-## 8. Integration With the World
-
-No retreat from ordinary life, no compounds. Members keep jobs, families, civic duties.
-
-→ The world is the monastery.
-
----
-
-## 9. Permanent Right to Leave
-
-Anyone can walk away without penalty, stigma, or fear of exclusion from social life. Leaving is treated as natural evolution, not betrayal.
-
-→ Freedom is the ultimate safeguard.
