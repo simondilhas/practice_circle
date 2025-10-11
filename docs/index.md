@@ -21,7 +21,7 @@ Yet without any shared framework for inner cultivation, we drift. The modern wor
 ## How We Proceed — Three Commitments
 
 ### 1. Practice  
-Cultivation of **body, mind, and soul** through **standing meditation** and disciplined attention.  
+Cultivation of **body and mind through **standing meditation** and disciplined attention.  
 Practice is the foundation — personal transformation through awareness.
 
 ### 2. Living Inquiry
