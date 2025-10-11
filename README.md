@@ -9,14 +9,12 @@ All files are public, versioned, and open to peer review.
 
 ## Getting Started
 
-If you're new here, we recommend reading in this order:
+If you're new here, we recommend:
 
-1. **[Home](docs/index.md)** – Start here to understand why we exist and what principles guide us.
-2. **[Charta](docs/framework/CHARTA.md)** – Learn how circles operate and maintain integrity.
-3. **[Practice Intro](docs/practice/STANDING_0_INTRO.md)** – Discover the core practice and progression stages.
-4. **[Facilitator Guide](docs/facilitator/FACILITATOR_GUIDE.md)** – Understand how circles are facilitated (whether you plan to facilitate or not).
-
-Once you've read these foundational documents, explore the other sections based on your interests and needs.
+- Make yourself familar with the practice and the framework: https://simondilhas.github.io/practice_circle/
+- Start practicing by yourself and document the progress with: 
+- Join or create a own circle.
+- 
 
 ---
 
