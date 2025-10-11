@@ -64,7 +64,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Manifesto: index.md
   - Getting Started:
     - Overview: getting-started.md
     - Manifesto: index.md
