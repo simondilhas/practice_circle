@@ -66,9 +66,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started:
+    - Manifesto: index.md
     - Charta: framework/CHARTA.md
-    - Practice Introduction: practice/STANDING_0_INTRO.md
-    - Facilitator Guide: facilitator/FACILITATOR_GUIDE.md
+    - Practice: practice/STANDING_0_INTRO.md
   - Framework:
     - Charta: framework/CHARTA.md
     - How We Change: framework/HOW_WE_CHANGE.md
