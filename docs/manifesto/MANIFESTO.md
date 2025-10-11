@@ -8,6 +8,8 @@
 Our age rewards distraction, performance, and control — not clarity, integrity, or care.
 We rebuild that balance **through practice, not belief**, beginning with attention to what is.
 
+---
+
 ## Why We Exist
 
 Modern life excels at the outer tasks — researching, building, producing, optimizing — yet neglects the inner ones: seeing clearly, feeling deeply, acting with integrity.  
@@ -18,6 +20,8 @@ Old religions once offered frameworks for reflection, community, and meaning. Bu
 Yet without any shared framework for inner cultivation, we drift. The modern world has discarded the old forms and built nothing to replace them. In this vacuum, people search without orientation, moving from trend to trend, or surrendering to charisma instead of clarity.
 
 **We exist to change that**
+
+---
 
 ## How We Proceed — Three Commitments
 
@@ -32,6 +36,8 @@ Principles are **tested, not preached**; what works is kept, what doesn’t is r
 ### 3. Shared Power  
 An **adaptive collective structure** with **built-in accountability**, where **power is procedural, not personal**.  
 Decisions and authority flow through **transparent processes**, not individuals.
+
+---
 
 ## What This Creates
 A path of continual practice and collective honesty that resists charisma and ideology, replacing them with **clear seeing, humble inquiry, and compassionate action**. This document is **provisional and living**: it guides without ruling and is revised by open review after real-world use. 
