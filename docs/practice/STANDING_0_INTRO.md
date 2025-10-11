@@ -8,9 +8,9 @@ Feet grounded, spine suspended, breath natural, attention resting in sensation.
 No belief, visualization, or mantra is required, only awareness of what is present.
 
 Purpose:
-- Reconnect body and mind.
-- Stabilize attention without escape into abstraction.
-- Cultivate honesty through direct contact with discomfort and stillness.
+  - Reconnect body and mind.
+  - Stabilize attention without escape into abstraction.
+  - Cultivate honesty through direct contact with discomfort and stillness.
 
 Standing is chosen because:
 1. **Universal:** everyone can stand or adapt it safely.
