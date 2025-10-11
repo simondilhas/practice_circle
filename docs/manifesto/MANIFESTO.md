@@ -25,9 +25,9 @@ Yet without any shared framework for inner cultivation, we drift. The modern wor
 Cultivation of **body, mind, and soul** through **standing meditation** and disciplined attention.  
 Practice is the foundation — personal transformation through awareness.
 
-### 2. No Dogma  
+### 2. Living Inquiry
 Continuous evolution of practice through **experiment, reflection, and grounding in lived experience**.  
-Principles are **tested, not preached**; what works is kept, what doesn’t is refined.
+Principles are **tested, not preached**; what works is kept, what doesn’t is refined. No dogma!
 
 ### 3. Shared Power  
 An **adaptive collective structure** with **built-in accountability**, where **power is procedural, not personal**.  
