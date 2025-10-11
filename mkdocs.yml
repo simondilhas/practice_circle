@@ -70,9 +70,11 @@ nav:
   - Getting Started:
     - Overview: getting-started.md
     - Charta: framework/CHARTA.md
+    - How to Create a Circle: framework/HOW_TO_CREATE_A_CIRCLE.md
     - Practice: practice/STANDING_0_INTRO.md
   - Framework:
     - Charta: framework/CHARTA.md
+    - How to Create a Circle: framework/HOW_TO_CREATE_A_CIRCLE.md
     - How We Change: framework/HOW_WE_CHANGE.md
     - Decision Meeting Protocol: framework/DECISION_MEETING_PROTOCOL.md
     - Inspirational Traditions: framework/INSPIRATIONAL_TRADITIONS.md

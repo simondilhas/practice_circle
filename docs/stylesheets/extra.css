@@ -1,13 +1,13 @@
-/* Custom link colors - earthy red */
+/* Custom link colors - using theme accent color */
 .md-content a {
-    color: #B85C38;
+    color: #DC4D01;
 }
 
 .md-content a:hover {
-    color: #A0522D;
+    color: #B83A00;
 }
 
 .md-content a:visited {
-    color: #8B4513;
+    color: #A03100;
 }
 
