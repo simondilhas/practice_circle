@@ -1,7 +1,7 @@
 # The Practice Circle Manifesto
 
-Modern life excels at the outer tasks — researching, producing, optimizing — yet forgets presence, balance, and connection.
-We rebuild that balance **through practice, not belief**, beginning with attention to what is.
+Modern life excels at the outer tasks — researching, producing, optimizing. Yet forgets presence, balance, and connection.
+We rebuild that balance **through basic standing practice, not belief**, beginning with attention to what is.
 
 ---
 
@@ -20,9 +20,14 @@ Modern culture has discarded those frameworks but built nothing to replace them.
 
 ## How We Proceed — Three Commitments
 
+The way forward isn’t a return to old systems or new ideologies.
+It begins where all genuine understanding starts, in attentive contact with what is.
+Rather than constructing another belief, we rebuild orientation from the ground up, through what can be practiced, tested, and shared.
+
 ### 1. Practice  
 Cultivation of body and mind through **standing meditation** and disciplined attention.  
-Practice is the foundation — personal transformation through awareness.
+Practice is the foundation. The baseline that enables personal transformation through awareness.
+-> Read why standing medidation
 
 ### 2. Living Inquiry
 Continuous evolution of practice through **experiment, reflection, and grounding in lived experience**.  
