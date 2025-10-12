@@ -1,47 +1,65 @@
 # Standing Introduction
 
-## Why Standing
-The foundation of all Circle work is **standing meditation**.
+## Why Standing  
 
-We stand upright, relaxed but awake.  
-Feet grounded, spine suspended, breath natural, attention resting in sensation.  
-No belief, visualization, or mantra is required, only awareness of what is present.
+Standing is the foundation of all Circle work.  
 
-Purpose:
-  - Reconnect body and mind.
-  - Stabilize attention without escape into abstraction.
-  - Cultivate honesty through direct contact with discomfort and stillness.
+To stand is simple, but not trivial. It is the first act that distinguished our species — **rising from the ground to meet the world.**  
+To stand is to orient, to take a position, to face reality directly.  
+Before words, beliefs, or methods, there is this: **the human capacity to stand up for oneself and with others.**  
 
-Standing is chosen because:
-1. **Universal:** everyone can stand or adapt it safely.
-2. **Neutral:** it favors no culture, religion, or technique.
-3. **Integrative:** it links awareness, gravity, and breath (the three constants of human life).
+We begin there.  
 
-> When in doubt, return to standing.  
-> It is the baseline that calibrates all other forms.
+Feet grounded. Spine suspended. Breath natural.  
+Attention resting in sensation — awake, relaxed, and present.  
+No belief, visualization, or mantra is required. Only awareness of what is.  
 
-## Origins and Evidence
+---
 
-Standing meditation appears independently across multiple traditions:
+### Purpose
+- Reconnect body and mind.  
+- Stabilize attention without escaping into abstraction.  
+- Cultivate honesty through direct contact with discomfort and stillness.  
 
-- **Taoist practice** (*Zhan Zhuang* — "standing like a tree") developed it as foundational energy work and martial conditioning.  
-- **Indian yoga** includes standing postures (*Tadasana* and variations) to cultivate grounding and presence.  
-- **Martial arts** (Tai Chi, Xing Yi, Karate) use static standing to build structure, resilience, and internal power.  
+---
 
-Though rooted in these traditions, standing meditation requires **no philosophical belief** to function.  
-The body's response to stillness and gravity is universal.
+### Why Standing
+Standing is chosen because it is:  
+- **Universal:** almost everyone can stand or adapt it safely.  
+- **Neutral:** it belongs to no culture, religion, or technique.  
+- **Integrative:** it links awareness, gravity, and breath — the three constants of human life.  
 
-### What Standing Does (Modern Understanding)
+When in doubt, return to standing.  
+It is the baseline that calibrates all other forms of practice.  
 
-Research and clinical observation show that prolonged, relaxed standing:
+---
 
-- **Regulates the nervous system:** shifts from sympathetic (stress) to parasympathetic (rest) activation.  
-- **Improves proprioception:** heightens awareness of body position, balance, and internal sensation.  
-- **Builds postural endurance:** strengthens deep stabilizers (core, hips, feet) without strain.  
-- **Enhances interoception:** trains attention on internal signals (breath, heartbeat, tension) rather than external distraction.  
-- **Supports mental clarity:** sustained physical stillness reduces cognitive noise and reactive thinking.
+### Origins and Evidence  
 
-> Standing is not mystical. It is systematic training of attention through the body.
+Across time and culture, the same principle appears: **to stand still before moving well.**  
+
+- **Taoist practice** (*Zhan Zhuang*, “standing like a tree”) used standing as foundational energy work — stillness that generates strength.  
+- **Indian yoga** begins with *Tadasana*, aligning the body through gravity before any dynamic posture.  
+- **Shaolin and internal martial arts** treat standing and holding positions as core conditioning — cultivating structure, breath, and intent until movement arises naturally from stability.  
+- **Japanese and Okinawan arts** like Karate preserve similar drills, training rooted power and calm focus under tension.  
+
+Across all of them, standing is not rest but preparation —  
+a way to unify body, breath, and attention before action.  
+Though developed in different contexts, the effect is consistent: **standing reveals what moves us.**
+
+---
+
+### What Standing Does — Modern Understanding  
+
+Research and clinical observation show that prolonged, relaxed standing:  
+- Regulates the nervous system — shifting from sympathetic (stress) to parasympathetic (rest) activation.  
+- Improves proprioception — awareness of balance, position, and internal sensation.  
+- Builds postural endurance — strengthening stabilizers of feet, hips, and core without strain.  
+- Enhances interoception — attention to internal signals like breath, heartbeat, and tension.  
+- Supports mental clarity — stillness of the body reduces cognitive noise and reactive thought.  
+
+Standing is not mystical.  
+It is **systematic training of attention through the body**, the most direct and honest way to begin.
 
 ### Why We Chose It
 
