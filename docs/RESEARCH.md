@@ -15,6 +15,8 @@ standing-based meditative practices influence **autonomic regulation**, **balanc
 The converging evidence across independent teams and methodologies suggests that the underlying physiological mechanisms are real, even if the current literature remains fragmented and underfunded.
 
 ---
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10634523/
+
 
 
 ---
