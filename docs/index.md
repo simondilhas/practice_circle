@@ -9,6 +9,13 @@ The Practice Circle offers a different path: **grounded, embodied practice** tha
 No gurus. No faith. No easy answers.  
 Just disciplined practice, honest documentation, and collective growth.
 
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2em 0;">
+  <iframe src="https://www.youtube.com/embed/tZyUOKveu5k?si=KC9dxclo8-Zp6mvJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## What We Do
@@ -33,29 +40,29 @@ From honest circles comes a freer world.
 
 <div class="grid cards" markdown>
 
--   :material-book-open-page-variant:{ .lg .middle } **Read the Manifesto**
+-   **Read the Manifesto**
 
     ---
 
     Understand why we exist and how we work
 
-    [:octicons-arrow-right-24: Explore the Manifesto](manifesto.md)
+    [→ Explore the Manifesto](manifesto.md)
 
--   :material-foot-print:{ .lg .middle } **Start Practicing**
+-   **Start Practicing**
 
     ---
 
     Learn the foundation: standing meditation
 
-    [:octicons-arrow-right-24: Begin Your Practice](getting-started.md)
+    [→ Begin Your Practice](getting-started.md)
 
--   :material-application:{ .lg .middle } **Track & Join**
+-   **Track & Join**
 
     ---
 
     Document your practice and connect with circles
 
-    [:octicons-arrow-right-24: Register on the App](https://practice-circle.softr.app/login)
+    [→ Register on the App](https://practice-circle.softr.app/login)
 
 </div>
 
@@ -69,6 +76,3 @@ Before diving into theory or structure, take a moment:
 
 Notice the tensions in your body. Awareness begins with direct experience, not concepts.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2em 0;">
-  <iframe src="https://www.youtube.com/embed/tZyUOKveu5k?si=KC9dxclo8-Zp6mvJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
-</div>

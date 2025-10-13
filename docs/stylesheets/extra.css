@@ -11,3 +11,58 @@
     color: #A03100;
 }
 
+/* Grid cards styling */
+.grid.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+@media (max-width: 1024px) {
+    .grid.cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 640px) {
+    .grid.cards {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
+
+.grid.cards > li {
+    list-style: none;
+    background: var(--md-default-bg-color);
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.grid.cards > li:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.grid.cards > li > strong {
+    font-size: 1.2rem;
+    color: var(--md-default-fg-color);
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.grid.cards > li > hr {
+    border: none;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    margin: 1rem 0;
+}
+
+.grid.cards > li > a {
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: 600;
+}
+
