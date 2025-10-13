@@ -62,7 +62,7 @@ Practice remains meaningful only when it can be **observed, shared, and refined*
 I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
 This record allows both personal reflection and collective refinement — turning data into insight, and effort into shared learning. 
 
-→ [How to document the practice](howto/organize/documentation.md)
+→ [How to document the practice](howto/organize/document_practices.md)
 
 
 ---
@@ -73,7 +73,7 @@ I take part in collective decision-making, follow agreed procedures, and keep my
 Authority is procedural, not personal; clarity and documentation hold power, not individuals.  
 By sharing decisions, accountability, and information, we prevent hierarchy, preserve trust, and ensure that the circle continues even when members change.  
 
-→ [How to reach decisions](howto/organize/decision_making.md)  
+→ [How to reach decisions](howto/organize/make_decisions.md)  
 
 ---
 
@@ -96,7 +96,7 @@ I contribute to revisions transparently and accept that others may continue diff
 Leaving the circle is always an honorable option;  
 freedom protects integrity, and evolution protects life.  
 
-→ [How we change](howto/organize/evolution.md)
+→ [How we change](howto/organize/evolve_the_circle.md)
 
 
 ---

@@ -7,7 +7,7 @@ Awareness begins with direct experience.
 ---
 
 ## 1. Manifesto — What We Stand For  
-Read the [Manifesto](index.md) to understand why The Practice Circle exists and what principles guide it.
+Read the [Manifesto](manifesto.md) to understand why The Practice Circle exists and what principles guide it.
 
 ## 2. How-To Guides — How We Practice and Organize  
 Visit the [How-To Guides](howto/) to learn the basic forms of practice and how circles work through shared responsibility and clear procedures.
