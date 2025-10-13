@@ -1,20 +1,21 @@
 # Getting Started
 
-Welcome to The Practice Circle. If you're new here, we recommend reading these three documents in order:
-
-## 1. Manifesto — Learn what we stand for
-
-Start with the [Manifesto](index.md) to understand why we exist and what principles guide us.
-
-## 2. How-To Guides — Learn how to practice and organize
-
-Explore the [How-To Guides](howto/) to understand how to practice standing meditation and how circles function with shared power and accountability.
-
-## 3. Practice — Discover the core practice and progression
-
-Explore the [Standing Meditation](howto/practice/standing_meditation/0_intro.md) to learn about the stages of standing meditation.
+**Practice first — read later.**  
+Before exploring theory or structure, take a few minutes to stand, breathe, and feel your weight on the ground. Feel the tensions in your body.
+Awareness begins with direct experience.
 
 ---
 
-Once you've read these foundational documents, explore the other sections based on your interests and needs.
+## 1. Manifesto — What We Stand For  
+Read the [Manifesto](index.md) to understand why The Practice Circle exists and what principles guide it.
 
+## 2. How-To Guides — How We Practice and Organize  
+Visit the [How-To Guides](howto/) to learn the basic forms of practice and how circles work through shared responsibility and clear procedures.
+
+## 3. Practice — The Core Method  
+Start with [Standing Meditation](howto/practice/standing_meditation/0_intro.md) to experience the foundational practice and its progression.
+
+---
+
+After these, explore any section that connects to your current questions or stage of practice.  
+Learning in The Practice Circle grows from experience — not the other way around.

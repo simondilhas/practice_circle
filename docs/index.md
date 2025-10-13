@@ -5,7 +5,7 @@
 
 # The Practice Circle Manifesto
 
-Modern life knows how to produce but not how to be.
+Modern life excels at production but has forgotten meaning.
 We work faster, know more, and feel less.
 The Practice Circle rebuilds that lost balance — through practice, not belief — grounding awareness in the body and structuring collective growth around clarity, accountability, and freedom.
 
@@ -28,15 +28,16 @@ We exist to rebuild spirituality, stripped of its packaging.
 
 ---
 
-## How We Proceed — Three Commitments
+## How We Proceed — Our Commitments
 
-The way forward is not a return to old systems or new ideologies.  
-We rebuild on two fronts:
+The Practice Circle is a federation of small, self-organizing groups that meet to practice, document, and refine awareness together.
 
-1. Through **direct observation** — training attention and critical thinking that tests, practices, and refines what proves true.  
-2. Through a **shared framework** that makes the structure itself adaptive and future-proof.
+It stands on two principles:
 
-These are our commitments:
+- Experience, not belief — grounding work in what can be observed, tested, and improved.
+- A shared framework — keeping the structure adaptive, transparent, and future-proof.
+
+From these foundations arise our core commitments:
 
 ---
 
@@ -101,26 +102,31 @@ freedom protects integrity, and evolution protects life.
 ---
 
 
-## What This Creates — In the Body, Life, and Community
+## What This Creates — In the Body, Life, Community, and the World
 
-Practice is not theory. What we create must be visible in how we move, act, and relate — otherwise it remains talk.
-
-### Relaxed and Resilient Body
+### Relaxed and Resilient Body  
 Practice begins in the body. Through standing meditation, breathing, and movement, tension releases and balance returns.  
-The nervous system settles; heart rate variability improves; the body becomes a stable base for awareness and action.
+The nervous system settles; the body becomes a stable base for awareness, action, and further development.
 
-### Skillful and Deliberate Living
+### Skillful and Deliberate Living  
 From this foundation, life becomes less reactive and more deliberate.  
 Awareness creates space between stimulus and response — decisions are made with proportion rather than impulse.  
 Calm attention carries into daily work, conflict, and rest.
 
-### Relational Clarity and Shared Integrity
+### Strong Community, Shared Integrity  
 In relating to others, communication grows transparent and grounded.  
-Power becomes procedural rather than personal; the circle itself learns, reflects, and corrects.  
+Power becomes procedural rather than personal; the circle learns, reflects, and corrects.  
 Integrity is shared — each voice heard, each accountable to the whole.
 
-A relaxed body supports a clear mind; clear minds form honest circles.  
-This is how practice becomes collective.
+### A Blueprint for a Different World  
+The circle becomes a living model of another way to organize human effort.  
+Authority rests on clarity, not charisma; structure replaces hierarchy.  
+When people change, the work continues — stable through transparency, adaptable through dialogue.  
+In a culture that demands leaders to follow, we demonstrate that cooperation, accountability, and freedom can sustain themselves.  
+
+A relaxed body supports a clear mind; clear minds form honest circles; honest circles model a freer world.  
+This is how practice becomes collective — and how freedom becomes sustainable.
+
 
 ---
 
