@@ -45,13 +45,13 @@ Notice the tensions in your body. Awareness begins with direct experience, not c
 
 <div class="grid cards" markdown>
 
--   **Start Practicing**
+-   **Start Here**
 
     ---
 
-    Learn the foundation: standing meditation
+    Learn about the practice, principles, and how we work together
 
-    [→ Begin Your Practice](getting-started.md)
+    [→ Get Started](getting-started.md)
 
 -   **Practice Circle App**
 
