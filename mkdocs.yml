@@ -67,36 +67,40 @@ markdown_extensions:
 # Page tree
 nav:
   - Manifesto: index.md
-  - Getting Started:
-    - Overview: getting-started.md
-    - Charta: framework/CHARTA.md
-    - How to Create a Circle: framework/HOW_TO_CREATE_A_CIRCLE.md
-    - Practice: practice/STANDING_0_INTRO.md
-  - Framework:
-    - Charta: framework/CHARTA.md
-    - How to Create a Circle: framework/HOW_TO_CREATE_A_CIRCLE.md
-    - How We Change: framework/HOW_WE_CHANGE.md
-    - Decision Meeting Protocol: framework/DECISION_MEETING_PROTOCOL.md
-    - Inspirational Traditions: framework/INSPIRATIONAL_TRADITIONS.md
-  - Practice:
-    - Introduction: practice/STANDING_0_INTRO.md
-    - 1. Foundation: practice/STANDING_1_FOUNDATION.md
-    - 2. Stabilisation: practice/STANDING_2_STABILISATION.md
-    - 3. Refinement: practice/STANDING_3_REFINEMENT.md
-    - 4. Transition: practice/STANDING_4_TRANSITION.md
-    - 5. Integration: practice/STANDING_5_INTEGRATION.md
-    - Appendices:
-      - Author Notes: practice/STANDING_APPENDIX_AUTHOR_NOTES.md
-      - Buddhist Concepts: practice/STANDING_APPENDIX_BUDDHIST_CONCEPTS.md
-      - Stoic Concepts: practice/STANDING_APPENDIX_STOIC_CONCEPTS.md
-      - Taoist Concepts: practice/STANDING_APPENDIX_TAOIST_CONCEPTS.md
-      - Yogic Concepts: practice/STANDING_APPENDIX_YOGIC_CONCEPTS.md
+  - Getting Started: getting-started.md
+  - How-To Guides:
+    - Overview: howto/index.md
+    - Practice:
+      - Overview: howto/practice/index.md
+      - Standing Meditation:
+        - Introduction: howto/practice/standing_meditation/0_intro.md
+        - 1. Foundation: howto/practice/standing_meditation/1_foundation.md
+        - 2. Stabilisation: howto/practice/standing_meditation/2_stabilisation.md
+        - 3. Refinement: howto/practice/standing_meditation/3_refinement.md
+        - 4. Transition: howto/practice/standing_meditation/4_transition.md
+        - 5. Integration: howto/practice/standing_meditation/5_integration.md
+      - Practice Formats: howto/practice/practice_formats.md
+      - Appendices:
+        - Overview: howto/practice/standing_meditation/appendices/index.md
+        - Author Notes: howto/practice/standing_meditation/appendices/author_notes.md
+        - Buddhist Concepts: howto/practice/standing_meditation/appendices/buddhist_concepts.md
+        - Stoic Concepts: howto/practice/standing_meditation/appendices/stoic_concepts.md
+        - Taoist Concepts: howto/practice/standing_meditation/appendices/taoist_concepts.md
+        - Yogic Concepts: howto/practice/standing_meditation/appendices/yogic_concepts.md
+    - Organize:
+      - Overview: howto/organize/index.md
+      - Creating a Circle: howto/organize/creating_a_circle.md
+      - Decision Making: howto/organize/decision_making.md
+      - Documentation: howto/organize/documentation.md
+      - Evolution: howto/organize/evolution.md
+      - Conflict Resolution: howto/organize/conflict_resolution.md
   - Facilitators:
     - Facilitator Guide: facilitator/FACILITATOR_GUIDE.md
     - Mentorship: facilitator/MENTORSHIIP.md
   - Research:
     - Practice Methodology: research/PRACTICE_METHODOLOGY.md
     - Literature Review: research/LITERATURE_REVIEW.md
+    - Inspirational Traditions: research/INSPIRATIONAL_TRADITIONS.md
 
 # Extra
 extra:

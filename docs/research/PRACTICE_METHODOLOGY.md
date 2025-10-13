@@ -194,10 +194,10 @@ The goal is to understand **what it does, for whom, under what conditions** — 
 
 ## Related Documents
 
-- [STANDING_0_INTRO.md](../practice/STANDING_0_INTRO.md) — Personal account and practice foundations
-- [LITERATURE_REVIEW.md](LITERATURE_REVIEW.md) — Scientific research on standing meditation
-- [HOW_WE_CHANGE.md](../framework/HOW_WE_CHANGE.md) — Process for testing and integrating changes
-- [CHARTA.md](../framework/CHARTA.md) — Documentation and research within circles
+- [Standing Introduction](../howto/practice/standing_meditation/0_intro.md) — Personal account and practice foundations
+- [Literature Review](LITERATURE_REVIEW.md) — Scientific research on standing meditation
+- [How We Change](../howto/organize/evolution.md) — Process for testing and integrating changes
+- [Documentation Guide](../howto/organize/documentation.md) — Documentation and research within circles
 
 ---
 

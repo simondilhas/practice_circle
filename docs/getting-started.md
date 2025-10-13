@@ -6,13 +6,13 @@ Welcome to The Practice Circle. If you're new here, we recommend reading these t
 
 Start with the [Manifesto](index.md) to understand why we exist and what principles guide us.
 
-## 2. Charta — Learn how circles operate and maintain integrity
+## 2. How-To Guides — Learn how to practice and organize
 
-Read the [Charta](framework/CHARTA.md) to understand how circles function with shared power and accountability.
+Explore the [How-To Guides](howto/) to understand how to practice standing meditation and how circles function with shared power and accountability.
 
 ## 3. Practice — Discover the core practice and progression
 
-Explore the [Practice](practice/STANDING_0_INTRO.md) to learn about the stages of standing meditation.
+Explore the [Standing Meditation](howto/practice/standing_meditation/0_intro.md) to learn about the stages of standing meditation.
 
 ---
 

@@ -137,7 +137,7 @@ The In-Person Fixed Circle is the primary format for:
 - Systematic documentation and research contribution
 - Long-term practitioner relationships
 
-This is the "full" format described in the main CHARTA document.
+This is the "full" format for in-person practice circles.
 
 ### Core Commitments
 
@@ -160,7 +160,7 @@ This is the "full" format described in the main CHARTA document.
 
 ### Session Structure
 
-Full structure is detailed in CHARTA Section 4:
+Full structure for in-person sessions:
 
 #### Opening (10 minutes)
 Each person states:

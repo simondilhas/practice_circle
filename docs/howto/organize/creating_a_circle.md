@@ -26,7 +26,7 @@ Ask yourself:
 
 ### 2. Understand the Formats
 
-From the [Charta](CHARTA.md), three formats exist:
+Three practice formats exist:
 
 **Solo Practice**
 - Individual daily practice (minimum 15 minutes)
@@ -49,10 +49,9 @@ This guide focuses primarily on **In-Person Fixed Circles**, but principles appl
 ### 3. Study the Core Documents
 
 Before founding, read thoroughly:
-- [Manifesto](../index.md) — Core principles and purpose
-- [Charta](CHARTA.md) — Operational structure
-- [Practice Introduction](../practice/STANDING_0_INTRO.md) — What you'll actually be doing
-- [How We Change](HOW_WE_CHANGE.md) — How the circle evolves
+- [Manifesto](../../index.md) — Core principles and commitments
+- [Standing Meditation](../practice/standing_meditation/0_intro.md) — What you'll actually be doing
+- [How We Change](evolution.md) — How the circle evolves
 
 ---
 
@@ -92,7 +91,7 @@ Requirements:
 
 - Timer/phone with timer (for practice sessions)
 - Notebooks and pens (for reflections)
-- Copy of [Charta](CHARTA.md) (printed or digital access)
+- Copy of [Manifesto](../../index.md) (printed or digital access)
 - Attendance sheet template
 - Contact list for members
 
@@ -134,7 +133,7 @@ When someone expresses interest, have an honest conversation:
 - "We share roles and decisions transparently."
 
 **Share the documents**:
-- Send them the [Manifesto](../index.md) and [Charta](CHARTA.md)
+- Send them the [Manifesto](../../index.md) and relevant [how-to guides](../)
 - Ask them to read before committing
 
 **Ask questions**:
@@ -151,7 +150,7 @@ When someone expresses interest, have an honest conversation:
 Once 6+ people have committed:
 1. **Send a calendar invite** with first meeting date, time, location
 2. **Share all core documents** via email or shared folder
-3. **Ask everyone to read** the Charta and Practice Introduction before the first meeting
+3. **Ask everyone to read** the Manifesto and Practice Introduction before the first meeting
 4. **Set expectations**: "First meeting is about starting, not perfection."
 
 ---
@@ -174,7 +173,7 @@ The first session sets the tone. Keep it simple, honest, and aligned with the st
 Speak simply:
 > "Welcome. This is our first session as a practice circle. We're here to train attention, honesty, and compassion. We're all beginners at this specific format, including me. There's no teacher here. We'll learn together.
 >
-> I've prepared based on the Charta, but after today, we'll decide together how to proceed. For now, let's follow the basic structure."
+> I've prepared based on the Manifesto, but after today, we'll decide together how to proceed. For now, let's follow the basic structure."
 
 **2. Brief Introductions (10 min)**
 
@@ -253,11 +252,11 @@ A simple bow or silent pause together.
 
 **Third Session**:
 - First **role rotation**: New person facilitates, someone else keeps time
-- Review the [Charta](CHARTA.md) together briefly (10 min before or after practice)
+- Review the [Manifesto](../../index.md) together briefly (10 min before or after practice)
 - Discuss: "Is this structure working? What needs adjustment?"
 
 **Fourth Session**:
-- Establish **decision-making process**: Read [Decision Meeting Protocol](DECISION_MEETING_PROTOCOL.md) together
+- Establish **decision-making process**: Read [Decision Meeting Protocol](decision_making.md) together
 - Begin **documentation**: Decide how to store reflections and attendance (shared folder, notebook, etc.)
 
 ### Week 5-8: Deepening Commitment
@@ -274,7 +273,7 @@ A simple bow or silent pause together.
 - Are there any conflicts or unclear expectations?
 
 **Consider**:
-- Introducing **formal review of the Charta**: Does this document reflect our intention? Should we propose any adaptations?
+- Introducing **formal review of the Manifesto**: Does this document reflect our intention? Should we propose any adaptations?
 
 ### Week 9-12: Becoming Autonomous
 
@@ -338,7 +337,7 @@ As your circle matures, consider:
 
 ### "What if someone wants to leave after a few weeks?"
 
-From the [Charta](CHARTA.md):
+From the [Conflict Resolution guide](conflict_resolution.md):
 > "Members may leave at any time without stigma or penalty. Leaving is part of growth — freedom is the safeguard of integrity."
 
 - Normalize leaving as acceptable
@@ -347,16 +346,16 @@ From the [Charta](CHARTA.md):
 
 ### "What if there's a conflict?"
 
-Follow [Charta Section 8: Conflict Resolution](CHARTA.md):
+Follow the [Conflict Resolution guide](conflict_resolution.md):
 1. Address within the circle through open dialogue
 2. If unresolved, mediation by two members from other circles
 3. Leaving is always an accepted outcome
 
-**Early on**: Conflicts often arise from unclear expectations. Revisit the Charta together.
+**Early on**: Conflicts often arise from unclear expectations. Revisit the Manifesto together.
 
 ### "What if we want to change the structure?"
 
-From [How We Change](HOW_WE_CHANGE.md):
+From [How We Change](evolution.md):
 - Small tweaks (timing, location): Decide internally
 - Structural changes: Test as an experiment, document results
 - Core principle changes: Requires testing, formal review, and federation input
@@ -381,13 +380,12 @@ From [How We Change](HOW_WE_CHANGE.md):
 ### "Can we start without reading everything?"
 
 **Minimum required**:
-- [Manifesto](../index.md)
-- [Charta](CHARTA.md)
-- [Practice Introduction](../practice/STANDING_0_INTRO.md)
+- [Manifesto](../../index.md)
+- [Standing Meditation Introduction](../practice/standing_meditation/0_intro.md)
 
 **Recommended within first month**:
-- [How We Change](HOW_WE_CHANGE.md)
-- [Decision Meeting Protocol](DECISION_MEETING_PROTOCOL.md)
+- [How We Change](evolution.md)
+- [Decision Meeting Protocol](decision_making.md)
 
 **Over time**:
 - Practice stages (Foundation through Integration)
@@ -400,7 +398,7 @@ You don't need to master everything before starting. Circles learn as they pract
 ## Checklist for Founding Members
 
 ### Before First Meeting
-- [ ] Read Manifesto, Charta, and Practice Introduction
+- [ ] Read Manifesto and Practice Introduction
 - [ ] Secure a space and set a time
 - [ ] Gather 6+ interested people
 - [ ] Share documents with all members
@@ -414,7 +412,7 @@ You don't need to master everything before starting. Circles learn as they pract
 
 ### First Month
 - [ ] Rotate facilitator role at least twice
-- [ ] Review Charta together as a group
+- [ ] Review Manifesto together as a group
 - [ ] Establish documentation system
 - [ ] Check-in on daily practice commitment
 
@@ -446,14 +444,14 @@ You don't need to master everything before starting. Circles learn as they pract
 
 ## Additional Resources
 
-- [Charta](CHARTA.md) — Full operational charter
-- [How We Change](HOW_WE_CHANGE.md) — Governance and change process
-- [Decision Meeting Protocol](DECISION_MEETING_PROTOCOL.md) — How to make collective decisions
-- [Facilitator Guide](../facilitator/FACILITATOR_GUIDE.md) — Detailed role guidance
-- [Practice Stages](../practice/STANDING_0_INTRO.md) — Progression through standing practice
+- [Manifesto](../../index.md) — Core principles and commitments
+- [How We Change](evolution.md) — Governance and change process
+- [Decision Meeting Protocol](decision_making.md) — How to make collective decisions
+- [Facilitator Guide](../../facilitator/FACILITATOR_GUIDE.md) — Detailed role guidance
+- [Standing Meditation](../practice/standing_meditation/0_intro.md) — Progression through standing practice
 - [GitHub Repository](https://github.com/simondilhas/practice_circle) — Central hub for all documentation
 
 ---
 
-> *This document is itself subject to revision. If you found this guide helpful or confusing, please propose improvements through the process described in [How We Change](HOW_WE_CHANGE.md).*
+> *This document is itself subject to revision. If you found this guide helpful or confusing, please propose improvements through the process described in [How We Change](evolution.md).*
 

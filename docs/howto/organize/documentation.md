@@ -74,7 +74,7 @@ Features will evolve based on what practitioners actually need.
 - What challenged me?
 - What intention arises for the week?
 
-These are written during the **Closing** segment of each session (see [CHARTA.md](CHARTA.md#4-session-structure-in-person-fixed-circles)).
+These are written during the **Closing** segment of each session (see [Practice Formats](../practice/practice_formats.md)).
 
 Sharing reflections with the group is optional.  
 Logging them for yourself is essential.
@@ -390,10 +390,10 @@ It does not determine what we see.
 
 ## Related Documents
 
-- [CHARTA.md](CHARTA.md) — Documentation and research commitment
-- [PRACTICE_METHODOLOGY.md](../research/PRACTICE_METHODOLOGY.md) — Research principles and logging standards
-- [HOW_WE_CHANGE.md](HOW_WE_CHANGE.md) — Testing and integrating changes
-- [STANDING_0_INTRO.md](../practice/STANDING_0_INTRO.md) — Example of personal account documentation
+- [Manifesto](../../index.md) — Documentation commitment
+- [Practice Methodology](../../research/PRACTICE_METHODOLOGY.md) — Research principles and logging standards
+- [How We Change](evolution.md) — Testing and integrating changes
+- [Standing Introduction](../practice/standing_meditation/0_intro.md) — Example of personal account documentation
 
 ---
 

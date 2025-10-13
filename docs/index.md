@@ -5,8 +5,9 @@
 
 # The Practice Circle Manifesto
 
-Modern life excels at the outer tasks — researching, producing, optimizing. Yet forgets presence, balance, and connection.
-We rebuild that balance **through basic standing practice, not belief**, beginning with attention to what is.
+Modern life knows how to produce but not how to be.
+We work faster, know more, and feel less.
+The Practice Circle rebuilds that lost balance — through practice, not belief — grounding awareness in the body and structuring collective growth around clarity, accountability, and freedom.
 
 ---
 
@@ -35,31 +36,66 @@ We rebuild on two fronts:
 1. Through **direct observation** — training attention and critical thinking that tests, practices, and refines what proves true.  
 2. Through a **shared framework** that makes the structure itself adaptive and future-proof.
 
-These are our core commitments:
+These are our commitments:
 
 ---
 
-### 1. Practice  
-Cultivation of body and mind through **standing meditation** and disciplined attention.  
-Standing practice is our starting point — a simple, direct way to train presence and awareness.  
-From there, any form that deepens embodied clarity and grounded attention is welcomed.  
-Practice is the foundation: the baseline that enables personal transformation through awareness.  
-→ [Learn why we use standing meditation](practice/STANDING_0_INTRO.md)
+### 1. I Practice Every Day — Because It Unites Body and Mind, Cultivating Skillful Living  
+Practice means any disciplined method that cultivates embodied awareness and attentive presence.  
+All members begin with **daily standing practice** as a direct, physical entry point into awareness —  
+learning to root attention in stillness, balance, and breath.  
+If standing is not possible, use sitting; if sitting is not possible, use lying down.  
+What matters is the uprightness of attention, not the posture itself.  
+
+From this stable base, practice may expand into other forms that connect mind and body —  
+any method that trains presence and deepens clarity in relation to life and work.  
+Continuity, not variety, is the measure of progress.  
+Practice remains meaningful only when it can be **observed, shared, and refined**.  
+
+→ [How we practice](howto/practice/practice_formats.md)
+→ [How to do standing](howto/practice/standing_meditation/)
 
 ---
 
-### 2. Living Evolution  
-Continuous improvement of practice through **experiment, reflection, and grounding in lived experience**.  
-Principles are **tested, not preached**; what works is kept, what doesn’t is refined.  
-Critical thinking and shared documentation ensure that growth never ossifies into belief.  
-No dogma — only living method.
+### 2. I Document My Practice — To Make It Visible and Enable Collective Improvement 
+I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
+This record allows both personal reflection and collective refinement — turning data into insight, and effort into shared learning. 
+
+→ [How to document the practice](howto/organize/documentation.md)
+
 
 ---
 
-### 3. Shared Power  
-An **adaptive collective structure** with **built-in accountability**, where **power is procedural, not personal**.  
-Decisions and authority flow through **transparent processes**, not individuals.  
-Structure serves practice — it evolves as understanding deepens, ensuring resilience over time.
+### 3. I Share Decisions, Responsibility, and Information — To Keep the Work Stable and Prevent Dependence on Strong Leaders  
+
+I take part in collective decision-making, follow agreed procedures, and keep my work visible to others.  
+Authority is procedural, not personal; clarity and documentation hold power, not individuals.  
+By sharing decisions, accountability, and information, we prevent hierarchy, preserve trust, and ensure that the circle continues even when members change.  
+
+→ [How to reach decisions](howto/organize/decision_making.md)  
+
+---
+
+### 4. I Commit to Conflict Resolution Through Dialogue —  To Protect Trust and Prevent Corruption
+When conflict arises, I address it directly and with honesty.  
+I seek understanding before judgment, clarity before reaction.  
+If resolution cannot be found within the circle, I support mediation by two peers from other circles.  
+Mediation seeks clarity, not victory.  
+Leaving is always an honorable option — freedom safeguards integrity.  
+
+→ [How to resolve conflicts](howto/organize/conflict_resolution.md)
+
+---
+
+### 5. I Support Evolution and Freedom — To Keep the Circle Alive and Honest  
+
+I recognize that everything we build must remain open to change.  
+The framework evolves through testing, reflection, and collective consent, not through authority.  
+I contribute to revisions transparently and accept that others may continue differently.  
+Leaving the circle is always an honorable option;  
+freedom protects integrity, and evolution protects life.  
+
+→ [How we change](howto/organize/evolution.md)
 
 
 ---
@@ -92,5 +128,6 @@ This is how practice becomes collective.
 
 Ready to explore further?
 
-- **[Charta](framework/CHARTA.md)** – Learn how circles operate and maintain integrity
-- **[Practice](practice/STANDING_0_INTRO.md)** – Discover the core practice and progression stages
+- **[How-To Guides](howto/)** – Practical guides for practice and organizing circles
+- **[Standing Meditation](howto/practice/standing_meditation/)** – The core practice and progression stages
+- **[Circle Organization](howto/organize/)** – How to create and maintain a Practice Circle
