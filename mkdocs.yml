@@ -68,7 +68,6 @@ nav:
   - Home: index.md
   - Manifesto: manifesto.md
   - Getting Started: getting-started.md
-  - Join Circles: https://practice-circle.softr.app/login
   - How-To Guides:
     - Overview: howto/index.md
     - Practice:
@@ -101,8 +100,6 @@ nav:
     - Practice Methodology: research/PRACTICE_METHODOLOGY.md
     - Literature Review: research/LITERATURE_REVIEW.md
     - Inspirational Traditions: research/INSPIRATIONAL_TRADITIONS.md
-
-  - Impressum: impressum.md
   - The Practice Circle App: https://practice-circle.softr.app/login
 
 # Extra
@@ -110,3 +107,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/simondilhas/practice_circle
+  generator: false
+
+# Copyright/Footer
+copyright: <a href="/practice_circle/impressum/">Impressum</a>
