@@ -41,7 +41,9 @@ From these foundations arise our core commitments:
 
 ---
 
-### 1. I Practice Every Day — Because It Unites Body and Mind, Cultivating Skillful Living  
+### 1. I Practice Every Day
+> Because It Unites Body and Mind, Cultivating Skillful Living  
+
 Practice means any disciplined method that cultivates embodied awareness and attentive presence.  
 All members begin with **daily standing practice** as a direct, physical entry point into awareness —  
 learning to root attention in stillness, balance, and breath.  
@@ -58,7 +60,9 @@ Practice remains meaningful only when it can be **observed, shared, and refined*
 
 ---
 
-### 2. I Document My Practice — To Make It Visible and Enable Collective Improvement 
+### 2. I Document My Practice
+> To Make It Visible and Enable Collective Improvement 
+
 I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
 This record allows both personal reflection and collective refinement — turning data into insight, and effort into shared learning. 
 
@@ -67,7 +71,8 @@ This record allows both personal reflection and collective refinement — turnin
 
 ---
 
-### 3. I Share Decisions, Responsibility, and Information — To Keep the Work Stable and Prevent Dependence on Strong Leaders  
+### 3. I Share Decisions, Responsibility, and Information
+> To Keep the Work Stable and Prevent Dependence on Strong Leaders  
 
 I take part in collective decision-making, follow agreed procedures, and keep my work visible to others.  
 Authority is procedural, not personal; clarity and documentation hold power, not individuals.  
@@ -77,7 +82,9 @@ By sharing decisions, accountability, and information, we prevent hierarchy, pre
 
 ---
 
-### 4. I Commit to Conflict Resolution Through Dialogue —  To Protect Trust and Prevent Corruption
+### 4. I Commit to Conflict Resolution Through Dialogue
+> To Protect Trust and Prevent Corruption
+
 When conflict arises, I address it directly and with honesty.  
 I seek understanding before judgment, clarity before reaction.  
 If resolution cannot be found within the circle, I support mediation by two peers from other circles.  
@@ -88,7 +95,8 @@ Leaving is always an honorable option — freedom safeguards integrity.
 
 ---
 
-### 5. I Support Evolution and Freedom — To Keep the Circle Alive and Honest  
+### 5. I Support Evolution and Freedom
+> To Keep the Circle Alive and Honest  
 
 I recognize that everything we build must remain open to change.  
 The framework evolves through testing, reflection, and collective consent, not through authority.  
