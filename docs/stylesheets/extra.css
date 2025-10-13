@@ -114,8 +114,10 @@
     display: none !important;
 }
 
-/* Style Impressum link as subtle footer link */
-.md-nav__link[href="impressum.md"] {
+/* Style footer links as subtle links */
+.md-nav__link[href="imprint.md"],
+.md-nav__link[href="privacy-notice.md"],
+.md-nav__link[href="disclaimer.md"] {
     background: none !important;
     color: var(--md-default-fg-color--light) !important;
     padding: 0.25rem 0.5rem !important;
@@ -127,14 +129,18 @@
     transition: color 0.2s ease !important;
 }
 
-.md-nav__link[href="impressum.md"]:hover {
+.md-nav__link[href="imprint.md"]:hover,
+.md-nav__link[href="privacy-notice.md"]:hover,
+.md-nav__link[href="disclaimer.md"]:hover {
     background: var(--md-default-bg-color--lightest) !important;
     color: var(--md-default-fg-color) !important;
     transform: none !important;
     box-shadow: none !important;
 }
 
-.md-nav__link[href="impressum.md"]:after {
+.md-nav__link[href="imprint.md"]:after,
+.md-nav__link[href="privacy-notice.md"]:after,
+.md-nav__link[href="disclaimer.md"]:after {
     content: none !important;
 }
 

@@ -108,7 +108,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/simondilhas/practice_circle
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@ThePracticeCircle
   generator: false
 
 # Copyright/Footer
-copyright: <a href="/practice_circle/impressum/">Impressum</a>
+copyright: <a href="/practice_circle/imprint/">Imprint</a> · <a href="/practice_circle/privacy-notice/">Privacy Policy</a> · <a href="/practice_circle/disclaimer/">Liability Notice</a>
