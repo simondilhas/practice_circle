@@ -7,30 +7,33 @@ We rebuild that balance **through basic standing practice, not belief**, beginni
 
 ## Why We Exist
 
-We live surrounded by data and constant communication, but wisdom and orientation are missing.  
-We know more than ever, yet understand ourselves less.
+We live surrounded by data and constant communication, yet wisdom and orientation are missing.
+We know more than ever, but understand ourselves less.
 
-Religions once offered a shared structure for reflection, community, and meaning. Over time, many became rigid hierarchies of belief and power. Returning to them doesn’t solve today’s challenges — their forms no longer fit how we live, how we think, or the conditions that made progress possible.
+Religions once offered a shared framework for reflection, community, and meaning.
+As that anchor disappeared, many lost their grounding, living in constant stress, trapped in a permanent fight-or-flight state, lonely and disconnected. We chase energy with coffee, push our bodies through extremes, and treat recovery as optional. Meanwhile, the endless stream of global catastrophes and attention-hijacking apps drives us toward burnout and emptiness.
 
-Modern culture has discarded those frameworks but built nothing to replace them. In this vacuum, people search without orientation, moving from trend to trend, or surrendering to charisma instead of personal responsibility.
+But returning to religion does not solve today’s challenges. Its forms no longer fit how we live, think, or progress. What once nurtured reflection hardened into hierarchies of belief and power.
 
-**We exist to change that!**
+Modern culture discarded those frameworks but built nothing to replace them.
+In this emptiness, people search without orientation, drifting from trend to trend. Some retreat into religion and reject modern achievements; others surrender to charisma and easy answers in the form of politicians, gurus, or conspiracy theories, instead of embracing personal responsibility.
+
+We exist to rebuild spirituality, stripped of its packaging.
 
 ---
 
 ## How We Proceed — Three Commitments
 
-The way forward isn’t a return to old systems or new ideologies.
-It begins where all genuine understanding starts, in attentive contact with what is.
-Rather than constructing another belief, we rebuild orientation from the ground up, through what can be practiced, tested, and shared.
+The way forward is not a return to old systems or new ideologies.
+We rebuild spirituality through its essence, attention to what is and through the discipline of critical thinking that tests, practices, and refines what proves true.
 
 ### 1. Practice  
 Cultivation of body and mind through **standing meditation** and disciplined attention.  
 Practice is the foundation. The baseline that enables personal transformation through awareness.  
 → [Learn why we use standing meditation](practice/STANDING_0_INTRO.md)
 
-### 2. Living Inquiry
-Continuous evolution of practice through **experiment, reflection, and grounding in lived experience**.  
+### 2. Living Evolution
+Continuous improovment of practice through **experiment, reflection, and grounding in lived experience**.  
 Principles are **tested, not preached**; what works is kept, what doesn’t is refined. No dogma!
 
 ### 3. Shared Power  

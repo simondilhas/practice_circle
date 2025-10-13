@@ -71,12 +71,12 @@ Purpose: simple honesty and presence.
 ---
 
 ## 5. Daily Practice Commitment
-Members of fixed circles maintain an individual practice (minimum 15 minutes daily) between sessions.  
-Form is flexible — standing, walking, sitting, journaling — but consistency is essential.
+Members of fixed circles maintain an individual practice (minimum 15 minutes daily) between sessions. 
 
 ---
 
-## 6. Documentation and Research (In-Person Fixed Circles)
+## 6. Documentation and Research commitment
+- Members commit to document their progress systematically.
 - Each circle keeps basic records: attendance, anonymized reflections, and group changes.  
 - Data is used to refine understanding and improve methods.  
 - Structural changes are introduced **one at a time** and tested in practice.  
