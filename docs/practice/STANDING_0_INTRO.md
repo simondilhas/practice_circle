@@ -42,7 +42,7 @@ Across time and culture, the same principle appears: **to stand still before mov
 - **Indian yoga** begins with *Tadasana*, aligning the body through gravity before any dynamic posture.  
 - **Shaolin and internal martial arts** treat standing and holding positions as core conditioning — cultivating structure, breath, and intent until movement arises naturally from stability.  
 - **Japanese and Okinawan arts** like Karate preserve similar drills, training rooted power and calm focus under tension.
-- *Modern somatic education**, such as the Alexander Technique, uses standing to reveal habitual tension and restore natural coordination. It treats upright posture not as holding still but as dynamic equilibrium, an ongoing dialogue between attention and gravity. Through conscious inhibition and directed thought, standing becomes a mirror for how we meet every situation: grounded, aware, and unforced.  
+- **Modern somatic education**, such as the Alexander Technique, uses standing to reveal habitual tension and restore natural coordination. It treats upright posture not as holding still but as dynamic equilibrium, an ongoing dialogue between attention and gravity. Through conscious inhibition and directed thought, standing becomes a mirror for how we meet every situation: grounded, aware, and unforced.  
 
 Across lineages, a shared human pattern emerges: standing is not rest but readiness, stillness not as withdrawal but as awareness. From ancient sentinels to modern guards, the posture of standing watch embodies attentive presence under responsibility. It unites body, breath, and attention before action, revealing in its simplicity what truly moves us — a state both protective and connective, awake and grounded.
 
