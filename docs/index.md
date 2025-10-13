@@ -1,3 +1,8 @@
+> *This document is a provisional draft written before the formal establishment of the first circle.  
+> It defines the initial structure for collective refinement.  
+> Upon founding, the circle will review, amend, and formally adopt or reject each section.*
+
+
 # The Practice Circle Manifesto
 
 Modern life excels at the outer tasks — researching, producing, optimizing. Yet forgets presence, balance, and connection.
@@ -24,21 +29,38 @@ We exist to rebuild spirituality, stripped of its packaging.
 
 ## How We Proceed — Three Commitments
 
-The way forward is not a return to old systems or new ideologies.
-We rebuild spirituality through its essence, attention to what is and through the discipline of critical thinking that tests, practices, and refines what proves true.
+The way forward is not a return to old systems or new ideologies.  
+We rebuild on two fronts:
+
+1. Through **direct observation** — training attention and critical thinking that tests, practices, and refines what proves true.  
+2. Through a **shared framework** that makes the structure itself adaptive and future-proof.
+
+These are our core commitments:
+
+---
 
 ### 1. Practice  
 Cultivation of body and mind through **standing meditation** and disciplined attention.  
-Practice is the foundation. The baseline that enables personal transformation through awareness.  
+Standing practice is our starting point — a simple, direct way to train presence and awareness.  
+From there, any form that deepens embodied clarity and grounded attention is welcomed.  
+Practice is the foundation: the baseline that enables personal transformation through awareness.  
 → [Learn why we use standing meditation](practice/STANDING_0_INTRO.md)
 
-### 2. Living Evolution
-Continuous improovment of practice through **experiment, reflection, and grounding in lived experience**.  
-Principles are **tested, not preached**; what works is kept, what doesn’t is refined. No dogma!
+---
+
+### 2. Living Evolution  
+Continuous improvement of practice through **experiment, reflection, and grounding in lived experience**.  
+Principles are **tested, not preached**; what works is kept, what doesn’t is refined.  
+Critical thinking and shared documentation ensure that growth never ossifies into belief.  
+No dogma — only living method.
+
+---
 
 ### 3. Shared Power  
 An **adaptive collective structure** with **built-in accountability**, where **power is procedural, not personal**.  
-Decisions and authority flow through **transparent processes**, not individuals.
+Decisions and authority flow through **transparent processes**, not individuals.  
+Structure serves practice — it evolves as understanding deepens, ensuring resilience over time.
+
 
 ---
 
