@@ -1,137 +1,74 @@
-> *This document is a provisional draft written before the formal establishment of the first circle.  
-> It defines the initial structure for collective refinement.  
-> Upon founding, the circle will review, amend, and formally adopt or reject each section.*
+# The Practice Circle
 
+**Modern life lost its balance. We rebuild it through practice, not belief.**
 
-# The Practice Circle Manifesto
+We live in a world of constant production — working faster, knowing more, feeling less. The structures that once grounded meaning have dissolved, leaving many adrift in stress, disconnection, and burnout.
 
-Modern life excels at production but has forgotten meaning.
-We work faster, know more, and feel less.
-The Practice Circle rebuilds that lost balance — through practice, not belief — grounding awareness in the body and structuring collective growth around clarity, accountability, and freedom.
+The Practice Circle offers a different path: **grounded, embodied practice** that trains attention, restores balance, and rebuilds connection.
 
----
-
-## Why We Exist
-
-We live surrounded by data and constant communication, yet wisdom and orientation are missing.
-We know more than ever, but understand ourselves less.
-
-Religions once offered a shared framework for reflection, community, and meaning.
-As that anchor disappeared, many lost their grounding, living in constant stress, trapped in a permanent fight-or-flight state, lonely and disconnected. We chase energy with coffee, push our bodies through extremes, and treat recovery as optional. Meanwhile, the endless stream of global catastrophes and attention-hijacking apps drives us toward burnout and emptiness.
-
-But returning to religion does not solve today’s challenges. Its forms no longer fit how we live, think, or progress. What once nurtured reflection hardened into hierarchies of belief and power.
-
-Modern culture discarded those frameworks but built nothing to replace them.
-In this emptiness, people search without orientation, drifting from trend to trend. Some retreat into religion and reject modern achievements; others surrender to charisma and easy answers in the form of politicians, gurus, or conspiracy theories, instead of embracing personal responsibility.
-
-We exist to rebuild spirituality, stripped of its packaging.
+No gurus. No faith. No easy answers.  
+Just disciplined practice, honest documentation, and collective growth.
 
 ---
 
-## How We Proceed — Our Commitments
+## What We Do
 
-The Practice Circle is a federation of small, self-organizing groups that meet to practice, document, and refine awareness together.
+The Practice Circle is a **federation of small, self-organizing groups** that meet to practice, document, and refine awareness together.
 
-It stands on two principles:
+We ground our work in:
 
-- Practice, Experience, not belief — grounding work in what can be observed, tested, and improved.
-- A shared framework — keeping the structure adaptive, transparent, and future-proof.
+- **Daily practice** — standing meditation and other embodied methods that unite body and mind
+- **Documentation** — making our process visible, testable, and improvable
+- **Shared responsibility** — distributed decision-making that prevents hierarchy and dependence
+- **Conflict resolution** — addressing tensions with honesty and clarity
+- **Evolution** — keeping the framework adaptive, transparent, and future-proof
 
-From these foundations arise our core commitments:
-
----
-
-### 1. I Practice Every Day — Because It Unites Body and Mind, Cultivating Skillful Living  
-Practice means any disciplined method that cultivates embodied awareness and attentive presence.  
-All members begin with **daily standing practice** as a direct, physical entry point into awareness —  
-learning to root attention in stillness, balance, and breath.  
-If standing is not possible, use sitting; if sitting is not possible, use lying down.  
-What matters is the uprightness of attention, not the posture itself.  
-
-From this stable base, practice may expand into other forms that connect mind and body —  
-any method that trains presence and deepens clarity in relation to life and work.  
-Continuity, not variety, is the measure of progress.  
-Practice remains meaningful only when it can be **observed, shared, and refined**.  
-
-→ [How we practice](howto/practice/practice_formats.md)
-→ [How to do standing](howto/practice/standing_meditation/)
+From relaxed bodies come clear minds.  
+From clear minds come honest circles.  
+From honest circles comes a freer world.
 
 ---
 
-### 2. I Document My Practice — To Make It Visible and Enable Collective Improvement 
-I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
-This record allows both personal reflection and collective refinement — turning data into insight, and effort into shared learning. 
+## Get Started
 
-→ [How to document the practice](howto/organize/documentation.md)
+<div class="grid cards" markdown>
 
+-   :material-book-open-page-variant:{ .lg .middle } **Read the Manifesto**
 
----
+    ---
 
-### 3. I Share Decisions, Responsibility, and Information — To Keep the Work Stable and Prevent Dependence on Strong Leaders  
+    Understand why we exist and how we work
 
-I take part in collective decision-making, follow agreed procedures, and keep my work visible to others.  
-Authority is procedural, not personal; clarity and documentation hold power, not individuals.  
-By sharing decisions, accountability, and information, we prevent hierarchy, preserve trust, and ensure that the circle continues even when members change.  
+    [:octicons-arrow-right-24: Explore the Manifesto](manifesto.md)
 
-→ [How to reach decisions](howto/organize/decision_making.md)  
+-   :material-foot-print:{ .lg .middle } **Start Practicing**
 
----
+    ---
 
-### 4. I Commit to Conflict Resolution Through Dialogue —  To Protect Trust and Prevent Corruption
-When conflict arises, I address it directly and with honesty.  
-I seek understanding before judgment, clarity before reaction.  
-If resolution cannot be found within the circle, I support mediation by two peers from other circles.  
-Mediation seeks clarity, not victory.  
-Leaving is always an honorable option — freedom safeguards integrity.  
+    Learn the foundation: standing meditation
 
-→ [How to resolve conflicts](howto/organize/conflict_resolution.md)
+    [:octicons-arrow-right-24: Begin Your Practice](getting-started.md)
 
----
+-   :material-application:{ .lg .middle } **Track & Join**
 
-### 5. I Support Evolution and Freedom — To Keep the Circle Alive and Honest  
+    ---
 
-I recognize that everything we build must remain open to change.  
-The framework evolves through testing, reflection, and collective consent, not through authority.  
-I contribute to revisions transparently and accept that others may continue differently.  
-Leaving the circle is always an honorable option;  
-freedom protects integrity, and evolution protects life.  
+    Document your practice and connect with circles
 
-→ [How we change](howto/organize/evolution.md)
+    [:octicons-arrow-right-24: Register on the App](https://practice-circle.softr.app/login)
 
+</div>
 
 ---
 
+## Before You Continue
 
-## What This Creates — In the Body, Life, Community, and the World
+Before diving into theory or structure, take a moment:
 
-### Relaxed and Resilient Body  
-Practice begins in the body. Through standing meditation, breathing, and movement, tension releases and balance returns.  
-The nervous system settles; the body becomes a stable base for awareness, action, and further development.
+**Stand. Breathe. Feel your weight on the ground.**
 
-### Skillful and Deliberate Living  
-From this foundation, life becomes less reactive and more deliberate.  
-Awareness creates space between stimulus and response — decisions are made with proportion rather than impulse.  
-Calm attention carries into daily work, conflict, and rest.
+Notice the tensions in your body. Awareness begins with direct experience, not concepts.
 
-### Strong Community, Shared Integrity  
-In relating to others, communication grows transparent and grounded.  
-Power becomes procedural rather than personal; the circle learns, reflects, and corrects.  
-Integrity is shared — each voice heard, each accountable to the whole.
-
-### A Blueprint for a Different World  
-The circle becomes a living model of another way to organize human effort.  
-Authority rests on clarity, not charisma; structure replaces hierarchy.  
-When people change, the work continues — stable through transparency, adaptable through dialogue.  
-In a culture that demands leaders to follow, we demonstrate that cooperation, accountability, and freedom can sustain themselves.  
-
-A relaxed body supports a clear mind; clear minds form honest circles; honest circles model a freer world.  
-This is how practice becomes collective — and how freedom becomes sustainable.
-
-
----
-
-## Next Steps
-
-Ready to explore further?
-Before exploring theory or structure, take a few minutes to stand, breathe, and feel your weight on the ground. Feel the tensions in your body.
-Awareness begins with direct experience.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2em 0;">
+  <iframe src="https://www.youtube.com/embed/tZyUOKveu5k?si=KC9dxclo8-Zp6mvJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
