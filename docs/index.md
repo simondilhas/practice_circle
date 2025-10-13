@@ -7,19 +7,18 @@ We rebuild that balance **through basic standing practice, not belief**, beginni
 
 ## Why We Exist
 
-
 We live surrounded by data and constant communication, yet wisdom and orientation are missing.
 We know more than ever, but understand ourselves less.
 
 Religions once offered a shared framework for reflection, community, and meaning.
-As that anchor disappeared, many lost their grounding — living in constant stress, trapped in a permanent fight-or-flight state, lonely and disconnected. We chase energy with coffee, push our bodies through extremes, and treat recovery as optional. Meanwhile, the endless stream of global catastrophes and attention-hijacking apps drives us toward burnout and emptiness.
+As that anchor disappeared, many lost their grounding, living in constant stress, trapped in a permanent fight-or-flight state, lonely and disconnected. We chase energy with coffee, push our bodies through extremes, and treat recovery as optional. Meanwhile, the endless stream of global catastrophes and attention-hijacking apps drives us toward burnout and emptiness.
 
-But returning to religion doesn’t solve today’s challenges — its forms no longer fit how we live, think, or progress. What once nurtured reflection hardened into hierarchies of belief and power.
+But returning to religion does not solve today’s challenges. Its forms no longer fit how we live, think, or progress. What once nurtured reflection hardened into hierarchies of belief and power.
 
 Modern culture discarded those frameworks but built nothing to replace them.
-In this emptiness, people search without orientation — drifting from trend to trend. Some retreat into religion and reject modern achievements; others surrender to charisma and easy answers — in the form of politicians, gurus, or conspiracy theories — instead of embracing personal responsibility.
+In this emptiness, people search without orientation, drifting from trend to trend. Some retreat into religion and reject modern achievements; others surrender to charisma and easy answers in the form of politicians, gurus, or conspiracy theories, instead of embracing personal responsibility.
 
-We exist to rebuild spirituality — stripped of its packaging.
+We exist to rebuild spirituality, stripped of its packaging.
 
 ---
 
