@@ -38,6 +38,12 @@ From honest circles comes a freer world.
 
 ## Get Started
 
+Before diving into theory or structure, take a moment:
+
+**Stand. Breathe. Feel your weight on the ground.**
+
+Notice the tensions in your body. Awareness begins with direct experience, not concepts.
+
 <div class="grid cards" markdown>
 
 -   **Start Practicing**
@@ -58,13 +64,6 @@ From honest circles comes a freer world.
 
 </div>
 
----
 
-## Before You Continue
 
-Before diving into theory or structure, take a moment:
-
-**Stand. Breathe. Feel your weight on the ground.**
-
-Notice the tensions in your body. Awareness begins with direct experience, not concepts.
 
