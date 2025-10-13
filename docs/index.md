@@ -24,18 +24,16 @@ We exist to rebuild spirituality, stripped of its packaging.
 
 ## How We Proceed — Three Commitments
 
-The way forward isn’t a return to old systems or new ideologies.
-We rebuild spirituality stripped of its packaging by restoring balance — strengthening inner life without dimming intellect.
-Guided by critical thinking, we rebuild from the ground up — through what can be practiced, tested, and shared.
-
+The way forward is not a return to old systems or new ideologies.
+We rebuild spirituality through its essence, attention to what is and through the discipline of critical thinking that tests, practices, and refines what proves true.
 
 ### 1. Practice  
 Cultivation of body and mind through **standing meditation** and disciplined attention.  
 Practice is the foundation. The baseline that enables personal transformation through awareness.
 -> Read why standing medidation
 
-### 2. Living Inquiry
-Continuous evolution of practice through **experiment, reflection, and grounding in lived experience**.  
+### 2. Living Evolution
+Continuous improovment of practice through **experiment, reflection, and grounding in lived experience**.  
 Principles are **tested, not preached**; what works is kept, what doesn’t is refined. No dogma!
 
 ### 3. Shared Power  
