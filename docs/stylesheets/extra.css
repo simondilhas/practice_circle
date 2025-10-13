@@ -66,3 +66,32 @@
     font-weight: 600;
 }
 
+/* External navigation link styling */
+.md-header__title a[href^="https://"],
+.md-nav__link[href^="https://"] {
+    background: linear-gradient(135deg, #DC4D01, #FF6B35);
+    color: white !important;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.md-header__title a[href^="https://"]:hover,
+.md-nav__link[href^="https://"]:hover {
+    background: linear-gradient(135deg, #B83A00, #E55A2B);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(220, 77, 1, 0.3);
+}
+
+.md-header__title a[href^="https://"]:after,
+.md-nav__link[href^="https://"]:after {
+    content: "↗";
+    font-size: 0.8em;
+    opacity: 0.8;
+}
+

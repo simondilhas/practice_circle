@@ -40,14 +40,6 @@ From honest circles comes a freer world.
 
 <div class="grid cards" markdown>
 
--   **Read the Manifesto**
-
-    ---
-
-    Understand why we exist and how we work
-
-    [→ Explore the Manifesto](manifesto.md)
-
 -   **Start Practicing**
 
     ---
@@ -56,11 +48,11 @@ From honest circles comes a freer world.
 
     [→ Begin Your Practice](getting-started.md)
 
--   **Track & Join**
+-   **Practice Circle App**
 
     ---
 
-    Document your practice and connect with circles
+    Document your sessions, join or create circles
 
     [→ Register on the App](https://practice-circle.softr.app/login)
 
