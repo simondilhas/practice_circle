@@ -5,7 +5,7 @@ Every person who joins a Practice Circle is a **co-creator**.
 We don’t follow leaders or fixed methods — we practice awareness, dialogue, and shared responsibility together.  
 Each circle evolves through the people who show up.
 
-[Join a Circle](#how-to-join)
+[Join a Circle](how_to_join.md)
 
 ---
 
@@ -69,9 +69,9 @@ Choose your path:
 
 | Path | Description | |
 |------|--------------|--|
-| **Join a Circle** | Experience a living, co-created practice group | [Join a Circle](#) |
-| **Start a Circle** | Use our starter kit to form your own group | [Start a Circle](#) |
-| **Multiply** | Help others start circles in your region | [Multiply the Practice](#) |
+| **Join a Circle** | Experience a living, co-created practice group | [Join a Circle](how_to_join.md) |
+| **Start a Circle** | Use our starter kit to form your own group | [Start a Circle](howto/organize/create_a_circle.md) |
+| **Multiply** | Help others start circles in your region | [Multiply the Practice](howto/organize/facilitate_sessions.md) |
 
 > **Everyone in the Practice Circle is a co-creator.**  
 > The structure is shared, facilitation rotates, and learning evolves through the people who show up.
@@ -103,9 +103,9 @@ The first circles are forming now. Each participant becomes part of the story.
 
 For those who want to dive deeper:
 
-- [How-To Guides](#) — create, host, and evolve circles  
-- [Appendices](#) — tools for facilitation and documentation  
-- [Research & Practice Methodology](#) — the theory behind the practice  
+- [How-To Guides](howto/index.md) — create, host, and evolve circles  
+- [Practice Methodology](research/PRACTICE_METHODOLOGY.md) — the theory behind the practice  
+- [Inspirational Traditions](research/INSPIRATIONAL_TRADITIONS.md) — philosophical foundations  
 
 ---
 
@@ -114,4 +114,4 @@ For those who want to dive deeper:
 Join the first wave of Practice Circles.  
 Bring your curiosity, your attention, and your willingness to co-create.
 
-[Join a Circle](#how-to-join)
+[Join a Circle](how_to_join.md)
