@@ -24,45 +24,14 @@ Ask yourself:
 
 **Important**: Starting a circle is not about being an expert or teacher. You're inviting people to practice together, not to follow you.
 
-### 2. Understand the Formats
-
-Three practice formats exist:
-
-**Solo Practice**
-- Individual daily practice (minimum 15 minutes)
-- No group needed, just personal commitment
-- Foundation for all other formats
-
-**Online Ad Hoc Circle**
-- Flexible, drop-in format
-- Scheduled sessions (e.g., daily or weekly time slots)
-- No long-term commitment required
-- Minimal structure: brief check-in, timed practice, closing
-
-**In-Person Fixed Circle**
-- Committed weekly group of 6–10 members
-- Full session structure with governance and documentation
-- Primary format for depth, accountability, and collective refinement
-
-This guide focuses primarily on **In-Person Fixed Circles**, but principles apply to all formats.
-
-### 3. Study the Core Documents
-
-Before founding, read thoroughly:
-- [Manifesto](../../index.md) — Core principles and commitments
-- [Standing Meditation](../practice/standing_meditation/0_intro.md) — What you'll actually be doing
-- [How We Change](evolution.md) — How the circle evolves
-
----
-
-## Phase 1: Preparation (1-2 Weeks)
+## Phase 1: Preparation 
 
 ### Choose a Format
 
 Decide which format you're starting:
 - **In-Person Fixed Circle**: Requires space, 6–10 committed members, weekly meetings
 - **Online Ad Hoc Circle**: Requires video call platform, flexible schedule
-- **Solo Practice**: Start alone, potentially invite others later
+
 
 ### Secure a Space (for In-Person Circles)
 
@@ -90,18 +59,17 @@ Requirements:
 ### Prepare Materials
 
 - Timer/phone with timer (for practice sessions)
-- Notebooks and pens (for reflections)
 - Copy of [Manifesto](../../index.md) (printed or digital access)
 - Attendance sheet template
 - Contact list for members
 
 ---
 
-## Phase 2: Gathering Members (2-4 Weeks)
+## Phase 2: Gathering Members
 
 ### How Many People?
 
-- **Minimum**: 6 members (provides stability when people miss sessions)
+- **Minimum**: 3 members (provides stability when people miss sessions)
 - **Maximum**: 10 members (when exceeding 10, split into two autonomous circles)
 - **Starting point**: Aim for 6–8 to allow room for growth
 
@@ -147,7 +115,7 @@ When someone expresses interest, have an honest conversation:
 
 ### Forming the Initial Group
 
-Once 6+ people have committed:
+Once people have committed:
 1. **Send a calendar invite** with first meeting date, time, location
 2. **Share all core documents** via email or shared folder
 3. **Ask everyone to read** the Manifesto and Practice Introduction before the first meeting
@@ -213,7 +181,7 @@ When timer ends:
 
 **1. Written Reflection (5 min)**
 
-Provide notebooks or paper. Ask everyone to write briefly:
+Online
 - What did I notice?
 - What challenged me?
 - What intention arises for next week?
@@ -228,7 +196,7 @@ Explain: "Sharing is optional. Writing is for you, but it helps to have a record
 
 Address:
 - **Next meeting**: Confirm date, time, location
-- **Roles**: "We need a facilitator, timekeeper, and scribe. These rotate. I'll do it next week, but we should rotate starting soon."
+- **Roles**: "We need a facilitator. These rotate. I'll do it next week, but we should rotate starting soon."
 - **Documentation**: "We'll track attendance and reflections simply. I'll set up a basic system and share."
 - **Questions**: Open for brief practical questions
 
@@ -447,7 +415,7 @@ You don't need to master everything before starting. Circles learn as they pract
 - [Manifesto](../../index.md) — Core principles and commitments
 - [How We Change](evolution.md) — Governance and change process
 - [Decision Meeting Protocol](decision_making.md) — How to make collective decisions
-- [Facilitator Guide](../../facilitator/FACILITATOR_GUIDE.md) — Detailed role guidance
+- [Facilitator Guide](facilitator_guide.md) — Detailed role guidance
 - [Standing Meditation](../practice/standing_meditation/0_intro.md) — Progression through standing practice
 - [GitHub Repository](https://github.com/simondilhas/practice_circle) — Central hub for all documentation
 

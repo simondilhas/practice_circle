@@ -30,7 +30,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.highlight
     - search.share
@@ -89,14 +88,13 @@ nav:
         - Yogic Concepts: howto/practice/standing_meditation/appendices/yogic_concepts.md
     - Organize:
       - Overview: howto/organize/index.md
-      - Creating a Circle: howto/organize/creating_a_circle.md
-      - Decision Making: howto/organize/decision_making.md
-      - Documentation: howto/organize/documentation.md
-      - Evolution: howto/organize/evolution.md
-      - Conflict Resolution: howto/organize/conflict_resolution.md
-  - Facilitators:
-    - Facilitator Guide: facilitator/FACILITATOR_GUIDE.md
-    - Mentorship: facilitator/MENTORSHIIP.md
+      - Create a Circle: howto/organize/create_a_circle.md
+      - Make Decisions: howto/organize/make_decisions.md
+      - Document Practices: howto/organize/document_practices.md
+      - Evolve the Circle: howto/organize/evolve_the_circle.md
+      - Resolve Conflicts: howto/organize/resolve_conflicts.md
+      - Facilitate Sessions: howto/organize/facilitate_sessions.md
+      - Mentor Members: howto/organize/mentor_members.md
   - Research:
     - Practice Methodology: research/PRACTICE_METHODOLOGY.md
     - Literature Review: research/LITERATURE_REVIEW.md

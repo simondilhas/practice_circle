@@ -34,7 +34,7 @@ The Practice Circle is a federation of small, self-organizing groups that meet t
 
 It stands on two principles:
 
-- Experience, not belief — grounding work in what can be observed, tested, and improved.
+- Practice, Experience, not belief — grounding work in what can be observed, tested, and improved.
 - A shared framework — keeping the structure adaptive, transparent, and future-proof.
 
 From these foundations arise our core commitments:
@@ -133,7 +133,5 @@ This is how practice becomes collective — and how freedom becomes sustainable.
 ## Next Steps
 
 Ready to explore further?
-
-- **[How-To Guides](howto/)** – Practical guides for practice and organizing circles
-- **[Standing Meditation](howto/practice/standing_meditation/)** – The core practice and progression stages
-- **[Circle Organization](howto/organize/)** – How to create and maintain a Practice Circle
+Before exploring theory or structure, take a few minutes to stand, breathe, and feel your weight on the ground. Feel the tensions in your body.
+Awareness begins with direct experience.

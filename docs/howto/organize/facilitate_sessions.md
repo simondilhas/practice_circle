@@ -7,7 +7,7 @@ Their function is to protect the integrity of the practice session:
 time, rhythm, safety, and respect.
 
 Facilitation is a **rotating duty**, not a status.  
-Anyone with basic experience in the Circle’s method can serve.
+Anyone with basic experience in the Circle's method can serve.
 
 > The facilitator holds the frame so others can hold attention.
 
@@ -23,13 +23,13 @@ Anyone with basic experience in the Circle’s method can serve.
 2. **Open the session**
    - Start on time.  
    - Invite each participant to say one line:  
-     “My name is … Today I’m here for …”
+     "My name is … Today I'm here for …"
    - Remind everyone of duration, silence, and right to rest if needed.
 
 3. **Keep time**
    - Maintain 40 minutes of standing meditation (or agreed duration).
-   - Use a neutral timer sound (no gong apps with “spiritual” branding).
-   - Signal start and end with one calm tone or phrase: “We begin.” / “We close.”
+   - Use a neutral timer sound (no gong apps with "spiritual" branding).
+   - Signal start and end with one calm tone or phrase: "We begin." / "We close."
 
 4. **Ensure safety**
    - Observe participants discreetly.
@@ -52,7 +52,7 @@ Anyone with basic experience in the Circle’s method can serve.
 
 ## 3. What the Facilitator Does *Not* Do
 
-- Interpret experiences (“That warmth means energy moving”)  
+- Interpret experiences ("That warmth means energy moving")  
 - Correct posture unless someone risks injury  
 - Offer therapy or spiritual advice  
 - Dominate debrief discussions  
@@ -65,7 +65,7 @@ Anyone with basic experience in the Circle’s method can serve.
 ## 4. Handling Difficult Situations
 
 ### 4.1 Physical distress
-- Ask quietly: “Would you like to sit or step outside?”
+- Ask quietly: "Would you like to sit or step outside?"
 - Never physically adjust without consent.
 - If fainting or strong dizziness occurs:
   1. Support them to sit or lie flat.
@@ -81,7 +81,7 @@ Anyone with basic experience in the Circle’s method can serve.
 
 ### 4.3 Conflict or disruption
 - If someone speaks or moves repeatedly:
-  - Quietly remind: “Please return to silence.”
+  - Quietly remind: "Please return to silence."
   - If persistent, invite them to step out until ready.
 - Document any conflict for peer review.
 
@@ -94,7 +94,7 @@ Anyone with basic experience in the Circle’s method can serve.
    - Only practical feedback is recorded publicly.
 
 2. **Neutrality**
-   - Facilitator’s opinions, politics, and beliefs stay outside the session.
+   - Facilitator's opinions, politics, and beliefs stay outside the session.
 
 3. **Rotation**
    - Each Circle member should facilitate at least once per cycle.
@@ -141,8 +141,9 @@ If any event requires medical, psychological, or legal attention:
 
 ## 9. Reminder
 
-> The facilitator’s success is measured by absence —  
+> The facilitator's success is measured by absence —  
 > when the group forgets there was a facilitator at all.
 
 Standing meditation teaches self-regulation.  
-The facilitator’s task is simply to make that possible, safely and consistently.
+The facilitator's task is simply to make that possible, safely and consistently.
+

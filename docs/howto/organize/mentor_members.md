@@ -34,7 +34,7 @@ A **mentorship** is a temporary, transparent learning relationship between two m
 
 ### 2.3 Conduct
 - Mentor shares perspective, not doctrine.  
-  > “This is what I’ve found useful,” not “This is the right way.”  
+  > "This is what I've found useful," not "This is the right way."  
 - Mentee remains responsible for their own interpretation and experience.  
 - Both reflect and record what they learned at the end of the period.
 
@@ -92,9 +92,9 @@ Use phrasing that reflects provisional authority:
 
 | Avoid | Use Instead |
 |-------|--------------|
-| “Our teacher said…” | “In one session, [Name] observed…” |
-| “This is correct.” | “This is what we’re testing.” |
-| “Ask [Name], they know.” | “Let’s compare experiences.” |
+| "Our teacher said…" | "In one session, [Name] observed…" |
+| "This is correct." | "This is what we're testing." |
+| "Ask [Name], they know." | "Let's compare experiences." |
 
 ---
 
@@ -107,3 +107,4 @@ Use phrasing that reflects provisional authority:
 - Growth is collective, not individual prestige.
 
 > **Power circulates, or it stagnates.**
+

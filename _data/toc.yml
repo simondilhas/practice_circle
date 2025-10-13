@@ -6,8 +6,6 @@
   url: /framework/CHARTA.html
 - title: Practice Intro
   url: /practice/STANDING_0_INTRO.html
-- title: Facilitator Guide
-  url: /facilitator/FACILITATOR_GUIDE.html
 
 - title: "---"
   url: ""
@@ -49,11 +47,3 @@
       url: /practice/STANDING_APPENDIX_TAOIST_CONCEPTS.html
     - page: Yogic Concepts
       url: /practice/STANDING_APPENDIX_YOGIC_CONCEPTS.html
-
-- title: Facilitators
-  subfolderitems:
-    - page: Facilitator Guide
-      url: /facilitator/FACILITATOR_GUIDE.html
-    - page: Mentorship
-      url: /facilitator/MENTORSHIIP.html
-
