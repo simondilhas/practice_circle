@@ -1,66 +1,117 @@
-# The Practice Circle
+# Practice Circle  
+*A living network of small, self-organizing circles for presence, dialogue, and shared learning.*
 
-**Modern life lost its balance. We rebuild it through practice, not belief.**
+Every person who joins a Practice Circle is a **co-creator**.  
+We don’t follow leaders or fixed methods — we practice awareness, dialogue, and shared responsibility together.  
+Each circle evolves through the people who show up.
 
-We live in a world of constant production — working faster, knowing more, feeling less. The structures that once grounded meaning have dissolved, leaving many adrift in stress, disconnection, and burnout.
-
-The Practice Circle offers a different path: **grounded, embodied practice** that trains attention, restores balance, and rebuilds connection.
-
-No gurus. No faith. No easy answers.  
-Just disciplined practice, honest documentation, and collective growth.
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2em 0;">
-  <iframe src="https://youtu.be/dN_vEH6IrgQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
-</div>
-
+[Join a Circle](#how-to-join)
 
 ---
 
-## What We Do
+## Why Practice Circles?
 
-The Practice Circle is a **federation of small, self-organizing groups** that meet to practice, document, and refine awareness together.
+Because awareness, listening, and shared power can’t be taught — they have to be practiced.
 
-We ground our work in:
+Each circle is:
 
-- **Daily practice** — standing meditation and other embodied methods that unite body and mind
-- **Documentation** — making our process visible, testable, and improvable
-- **Shared responsibility** — distributed decision-making that prevents hierarchy and dependence
-- **Conflict resolution** — addressing tensions with honesty and clarity
-- **Evolution** — keeping the framework adaptive, transparent, and future-proof
+- Small (4–8 people)  
+- Self-organizing and peer-led  
+- Focused on lived experience, not ideology  
+- Supported by simple tools for documentation and reflection
 
-From relaxed bodies come clear minds.  
-From clear minds come honest circles.  
-From honest circles comes a freer world.
+Together, these circles form a decentralized learning network — one that grows through shared practice, not hierarchy.
 
 ---
 
-## Get Started
+## What Happens in a Circle
 
-Before diving into theory or structure, take a moment:
+- Meet weekly or bi-weekly (online or local)  
+- Begin with a shared practice of attention or embodiment  
+- Explore an open question or theme  
+- Rotate facilitation — everyone leads sometimes  
+- Capture insights in a shared pad or notebook  
+- Reflect together on how the process evolves
 
-**Stand. Breathe. Feel your weight on the ground.**
+The circle is both **method and mirror** — we learn about ourselves by practicing together.
 
-Notice the tensions in your body. Awareness begins with direct experience, not concepts.
+---
 
-<div class="grid cards" markdown>
+## Who This Is For
 
-- **How to Begin**
-  ---
-  Learn the principles and daily practices.
-  [→ Get Started](getting-started.md)
+- People curious about **presence, inquiry, and embodied learning**  
+- Facilitators, teachers, or learners who value **shared power**  
+- Practitioners from **movement, mindfulness, education, or systems work**  
+- Anyone tired of passive learning and ready to **co-create**  
 
-- **Join the Circle**
-  ---
-  Document sessions, join, or create your own.
-  [→ Practice Circle App](https://practice-circle.softr.app/login)
+In every circle, everyone contributes — through listening, speaking, documenting, or simply showing up fully.
 
-- **Invite a Friend**
-  ---
-  Print or share a simple invitation postcard. 
-  [→ Download or personalize Postcard with a free canvas account](https://www.canva.com/design/DAG1r-_0yEk/D-JzeWIXGkw9MK9sEsKKrQ/edit?utm_content=DAG1r-_0yEk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-</div>
+---
 
+## Why Join Now
 
+We’re in the **early wave** — refining the language, rhythm, and structure of the Practice Circle.  
+By joining now, you can:
 
+- Help shape how circles work  
+- Be listed as a **founding participant**  
+- Access the **Circle Starter Kit**  
+- Contribute to the shared documentation and evolving handbook  
+- Connect with others building similar practices worldwide  
 
+This is the stage where the form is still fluid — and your participation truly shapes it.
+
+---
+
+## How to Join
+
+Choose your path:
+
+| Path | Description | |
+|------|--------------|--|
+| **Join a Circle** | Experience a living, co-created practice group | [Join a Circle](#) |
+| **Start a Circle** | Use our starter kit to form your own group | [Start a Circle](#) |
+| **Multiply** | Help others start circles in your region | [Multiply the Practice](#) |
+
+> **Everyone in the Practice Circle is a co-creator.**  
+> The structure is shared, facilitation rotates, and learning evolves through the people who show up.
+
+---
+
+## The Practice Circle Ethos
+
+**1. Practice** — attention, presence, and embodiment come first  
+**2. Inquiry** — we question together instead of seeking fixed answers  
+**3. Shared Power** — leadership and authorship circulate  
+**4. Documentation** — reflection is how the network learns  
+**5. Evolution** — every circle adapts to its members and context
+
+These principles hold the form while allowing it to grow.
+
+---
+
+## Who’s Behind the Initiative
+
+**Simon Dilhas** – Architect, project manager, and founder of the Practice Circle initiative.  
+Focused on bringing presence, structure, and shared responsibility into how we work and learn.
+
+The first circles are forming now. Each participant becomes part of the story.
+
+---
+
+## Learn More
+
+For those who want to dive deeper:
+
+- [How-To Guides](#) — create, host, and evolve circles  
+- [Appendices](#) — tools for facilitation and documentation  
+- [Research & Practice Methodology](#) — the theory behind the practice  
+
+---
+
+## Ready to Begin?
+
+Join the first wave of Practice Circles.  
+Bring your curiosity, your attention, and your willingness to co-create.
+
+[Join a Circle](#how-to-join)
