@@ -12,6 +12,7 @@ theme:
   name: material
   logo: assets/images/fav.svg
   favicon: assets/images/fav.svg
+  breadcrumbs: false
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -31,7 +32,6 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
-    - navigation.breadcrumbs: false
     - search.highlight
     - search.share
     - search.suggest
