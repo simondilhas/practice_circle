@@ -82,6 +82,8 @@ Form is flexible — standing, walking, sitting, journaling — but consistency 
 - Structural changes are introduced **one at a time** and tested in practice.  
 > *One adaptation at a time, never compromising existing principles.*
 
+For guidelines on personal practice logs and experiential research, see **[PRACTICE_METHODOLOGY.md](../research/PRACTICE_METHODOLOGY.md)**.
+
 ---
 
 ## 7. Governance (In-Person Fixed Circles)

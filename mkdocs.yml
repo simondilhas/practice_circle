@@ -94,6 +94,9 @@ nav:
   - Facilitators:
     - Facilitator Guide: facilitator/FACILITATOR_GUIDE.md
     - Mentorship: facilitator/MENTORSHIIP.md
+  - Research:
+    - Practice Methodology: research/PRACTICE_METHODOLOGY.md
+    - Literature Review: research/LITERATURE_REVIEW.md
 
 # Extra
 extra:

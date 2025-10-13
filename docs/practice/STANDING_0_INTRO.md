@@ -50,15 +50,54 @@ Across lineages, a shared human pattern emerges: standing is not rest but readin
 
 ### What Standing Does — Modern Understanding  
 
-Research and clinical observation show that prolonged, relaxed standing:  
-- Regulates the nervous system — shifting from sympathetic (stress) to parasympathetic (rest) activation.  
-- Improves proprioception — awareness of balance, position, and internal sensation.  
-- Builds postural endurance — strengthening stabilizers of feet, hips, and core without strain.  
-- Enhances interoception — attention to internal signals like breath, heartbeat, and tension.  
-- Supports mental clarity — stillness of the body reduces cognitive noise and reactive thought.  
+Research and clinical observation show that prolonged, relaxed standing produces measurable physiological and psychological changes. While the available studies are often small-scale and conducted with limited resources, their findings **converge consistently** across independent teams and methodologies — pointing to real underlying mechanisms.
+
+#### Nervous System Regulation
+
+Standing meditation shifts autonomic balance from sympathetic (stress/activation) to parasympathetic (rest/recovery) dominance. Studies using heart rate variability analysis demonstrate this transition occurs through sustained postural attention combined with slowed breathing patterns. The practice attenuates HPA axis stress reactivity — the body's primary stress response system — reducing cortisol release and inflammatory markers over time.
+
+Neuroimaging studies using fNIRS (functional near-infrared spectroscopy) show activation in prefrontal regions associated with interoceptive awareness and emotion regulation, alongside reduced reactivity in limbic structures linked to anxiety and rumination. The effect is not immediate dissociation or relaxation, but **systematic recalibration** — training the nervous system to sustain calm alertness under load.
+
+#### Balance and Proprioception
+
+A dedicated 5-week study with older adults (mean age 69) found that standing meditation alone — without the complex choreography of Tai Chi — produced significant improvements in balance scores (FAB scale: 30.9 to 37.8). Participants reported feeling steadier in daily activities like walking, suggesting the practice enhances not just test performance but functional stability.
+
+This happens because standing builds postural endurance in the stabilizing muscles of feet, ankles, hips, and core **without deliberate strengthening exercises**. The body learns to distribute load efficiently through small, constant micro-adjustments — improving proprioception (awareness of position and movement) through direct feedback rather than instruction.
+
+#### Interoception and Mental Clarity
+
+Standing trains **interoception** — the ability to sense internal states like breath, heartbeat, muscle tension, and fatigue. By anchoring attention to these sensations while maintaining an upright posture, practitioners develop nonreactivity to discomfort and aversive thoughts. The stillness reduces cognitive noise; habitual mental patterns become visible simply because there is less external distraction to sustain them.
+
+EEG studies measuring brain wave complexity show that standing meditation produces changes in prefrontal-limbic coordination, suggesting improved top-down regulation of emotional and attentional processes. The practice appears to enhance what researchers call "mind-body coordination" — the synchronized integration of bodily awareness and cognitive control.
+
+#### Neuroplasticity and Long-Term Changes
+
+Eight-week interventions show structural and functional brain changes in regions associated with interoception, self-regulation, and autonomic control. Gene expression studies reveal alterations in inflammatory and stress-related pathways, suggesting the effects go beyond transient states to create lasting physiological adaptation.
 
 Standing is not mystical.  
-It is **systematic training of attention through the body**, the most direct and honest way to begin.
+It is **systematic training of attention through the body** — the most direct and honest way to begin.
+
+The available research remains fragmented and underfunded, but its direction is clear: **prolonged, relaxed standing systematically regulates the nervous system, enhances proprioception and interoception, and supports cognitive clarity.** The field is young, but it points consistently toward the same insight: **attention through the body changes both.**
+
+*For detailed citations, methodology notes, and full study summaries, see the [Research Literature Review](../research/LITERATURE_REVIEW.md).*
+
+---
+
+### One Account Among Many
+
+Research describes mechanisms. Practice reveals patterns. Here is one trajectory — not prescriptive, but honest.
+
+I returned to standing practice while overworked and slightly depressed, carrying digestive issues (histamine intolerance), excess weight, and poor impulse control. Food had become my primary coping mechanism. The first session felt awkward and uncomfortable, but afterward — something lighter. A small shift, but real.
+
+After one month: noticeably more relaxed. After two: more physical flexibility, but also an energetic low — fatigue surfacing as the nervous system recalibrated. After three months: tension reappeared in my back (not everything resolves linearly), but my legs felt stronger, more stable. Mental balance improved. Impulse control steadied. Mood lifted without needing to force it.
+
+The changes were not dramatic or mystical. They were gradual, sometimes frustrating, but consistently observable. Standing did not fix everything, but it created space where other changes became possible.
+
+Your path will differ. This is simply one example of what sustained, honest practice can surface.
+
+The journey continues. If you develop your own practice, consider sharing your experience — honest accounts from different bodies and circumstances help others understand what is possible.
+
+---
 
 ### Why We Chose It
 

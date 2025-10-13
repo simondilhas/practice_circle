@@ -26,8 +26,8 @@ Rather than constructing another belief, we rebuild orientation from the ground 
 
 ### 1. Practice  
 Cultivation of body and mind through **standing meditation** and disciplined attention.  
-Practice is the foundation. The baseline that enables personal transformation through awareness.
--> Read why standing medidation
+Practice is the foundation. The baseline that enables personal transformation through awareness.  
+→ [Learn why we use standing meditation](practice/STANDING_0_INTRO.md)
 
 ### 2. Living Inquiry
 Continuous evolution of practice through **experiment, reflection, and grounding in lived experience**.  
