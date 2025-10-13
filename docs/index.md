@@ -45,22 +45,20 @@ Notice the tensions in your body. Awareness begins with direct experience, not c
 
 <div class="grid cards" markdown>
 
--   **Start Here**
+- **How to Begin**
+  ---
+  Learn the principles and daily practices.
+  [→ Get Started](getting-started.md)
 
-    ---
+- **Join the Circle**
+  ---
+  Document sessions, join, or create your own.
+  [→ Practice Circle App](https://practice-circle.softr.app/login)
 
-    Learn about the practice, principles, and how we work together
-
-    [→ Get Started](getting-started.md)
-
--   **Practice Circle App**
-
-    ---
-
-    Document your sessions, join or create circles
-
-    [→ Register on the App](https://practice-circle.softr.app/login)
-
+- **Invite a Friend**
+  ---
+  Print or share a simple invitation postcard. 
+  [→ Download or personalize Postcard with a free canvas account](https://www.canva.com/design/DAG1r-_0yEk/D-JzeWIXGkw9MK9sEsKKrQ/edit?utm_content=DAG1r-_0yEk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 </div>
 
 

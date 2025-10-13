@@ -22,7 +22,7 @@ Read the [Manifesto](manifesto.md) to understand the reason for The Practice Cir
 Visit the [How-To Guides](howto/index.md) to learn how circles practice, document, and make decisions through shared responsibility and clear procedures.
 
 ## 5. Invite Others  
-Download the [Postcard](assets/flyers/STOP.pdf) and send it to someone you care about — maybe even by real mail.
+Download the [Postcard](https://www.canva.com/design/DAG1r-_0yEk/D-JzeWIXGkw9MK9sEsKKrQ/edit) and send it to someone you care about — maybe even by real mail.
 
 ---
 
