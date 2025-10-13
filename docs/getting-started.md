@@ -7,16 +7,16 @@ Awareness begins with direct experience.
 
 ---
 
-## 1. Manifesto — Why We Exist  
-Read the [Manifesto](manifesto.md) to understand the reason for The Practice Circle and the principles that guide it.
-
-## 2. Practice — The Core Method  
+## 1. Practice — The Core Method  
 Begin with [Standing Meditation](howto/practice/standing_meditation/0_intro.md).  
 This is the foundation — awareness rooted in the body.
 
-## 3. Document — Make Your Practice Visible  
+## 2. Document — Make Your Practice Visible  
 Keep a simple record of what you do and notice.  
 Use the official app to start your journal: [Register now](https://practice-circle.softr.app/sign-up)
+
+## 3. Manifesto — Why We Exist  
+Read the [Manifesto](manifesto.md) to understand the reason for The Practice Circle and the principles that guide it.
 
 ## 4. How-To Guides — Practicing and Organizing Together  
 Visit the [How-To Guides](howto/index.md) to learn how circles practice, document, and make decisions through shared responsibility and clear procedures.
