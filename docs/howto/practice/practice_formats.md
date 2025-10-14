@@ -4,356 +4,95 @@ This appendix provides detailed guidance for the three complementary practice fo
 
 ---
 
-## Overview
-
-The Practice Circles framework recognizes that different practitioners have different circumstances, needs, and capacities. The three formats create a flexible ecosystem:
-
-- **Solo Practice**: The foundation — individual daily cultivation
-- **Online Ad Hoc Circle**: The gateway — flexible, accessible connection
-- **In-Person Fixed Circle**: The crucible — committed depth and collective refinement
-
-Members may participate in multiple formats simultaneously. Each format stands on its own while supporting the others.
+The Practice Circle recognizes several complementary formats of meeting.  
+Each serves a specific purpose — from individual practice to collective discernment.
 
 ---
 
-## 1. Solo Practice
+## 1. Private Practice
+The foundation of all other work.  
+Each member maintains a **daily individual practice** — standing, sitting, walking, or another mindful form — to train attention and presence.  
+Personal stability supports every group session.
+
+---
+
+## 2. Ad Hoc Circle
+A **flexible, drop-in session** for shared practice and connection.  
+Used for orientation, support, or maintaining rhythm between fixed circles.  
+- Online or in-person  
+- Open to all levels  
+- Simple structure: check-in → silent practice → brief reflection  
+
+No commitment, no hierarchy — only shared presence.
+
+---
+
+## 3. Permanent Circle
+A **committed, recurring group** that meets weekly or biweekly.  
+Its purpose is **depth, accountability, and collective refinement.**  
+Members rotate roles (facilitator, scribe, treasurer) and document practice together.  
+This is the primary container for steady, embodied development.
+
+---
+
+## 4. Review Circle (Internal Discernment)
+A **periodic reflection meeting within a permanent circle**, held every 1–3 months.  
+It pauses regular practice to review what has been learned and how the circle functions.
 
 ### Purpose
-Individual daily practice is the foundation of all other formats. Without consistent personal practice, group sessions become social gatherings rather than shared cultivation spaces.
+- Reflect on individual and collective progress  
+- Review practice logs and documentation  
+- Identify tensions or patterns in participation  
+- Adjust rhythm, structure, or commitments as needed  
 
 ### Structure
-- **Duration**: Minimum 15 minutes daily
-- **Forms**: Self-directed choice among:
-  - Standing meditation (zhan zhuang)
-  - Walking meditation
-  - Sitting meditation
-  - Contemplative journaling
-  - Other mindful movement practices
+- Short check-in  
+- Review of notes and logs  
+- Shared reflection and dialogue  
+- Clarify next steps or changes  
+- Document conclusions in the circle record  
 
-### Guidelines
-- **Consistency over intensity**: Daily practice is more valuable than occasional long sessions
-- **No formal structure required**: Practice should adapt to your life, not dominate it
-- **Self-accountability**: Track your practice honestly, but without self-judgment
-- **Foundation for participation**: Solo practice supports meaningful engagement in group formats
-
-### Documentation (Optional)
-While solo practitioners are not required to document, basic tracking supports progress:
-- Simple log of practice time and form
-- Brief notes on observations or challenges
-- Patterns noticed over weeks or months
-
-See [PRACTICE_METHODOLOGY.md](../research/PRACTICE_METHODOLOGY.md) for detailed guidance.
-
-### Integration
-- Solo practice may begin before joining any circle
-- It continues between and beyond group sessions
-- Personal insights inform collective understanding
-- Individual consistency supports group stability
+> Reflection keeps the circle honest.  
+> Regular review prevents drift and deepens trust.
 
 ---
 
-## 2. Online Ad Hoc Circle
+## 5. Federation Discernment (Between Circles)
+When multiple circles meet to **share experience, coordinate decisions, or refine the shared framework.**  
+These meetings keep the federation connected without hierarchy.
 
 ### Purpose
-The Online Ad Hoc Circle provides flexible, accessible practice sessions for those who:
-- Are exploring whether to commit to a fixed circle
-- Cannot attend in-person sessions regularly
-- Want supplemental practice between fixed circle meetings
-- Live in areas without established circles
-- Prefer low-commitment connection with fellow practitioners
+- Exchange learning between circles  
+- Discuss proposed framework revisions  
+- Address inter-circle conflicts or mediation  
+- Strengthen transparency and collective direction  
 
 ### Structure
-- **Format**: Drop-in video sessions (Zoom, Jitsi, or similar)
-- **Duration**: 30-60 minutes
-- **Schedule**: Regular time slots (e.g., daily 7am, or weekly Sunday 6pm)
-- **Group Size**: Flexible, typically 3-15 participants
-- **Commitment**: No long-term obligation — attend when it serves you
+- Opening silence and check-in  
+- Reports or brief summaries from each circle  
+- Shared discernment on key topics  
+- Recording of outcomes and next steps  
 
-### Session Flow
-
-#### Opening (5 minutes)
-- Brief tech check (mics muted, cameras optional)
-- Each person states their name and brief intention (one sentence)
-- Facilitator announces practice duration
-
-#### Practice (20-45 minutes)
-- Cameras on or off based on personal preference
-- Mics muted
-- Timed silent practice:
-  - Standing meditation (camera helpful for shared presence)
-  - Sitting meditation
-  - Walking (if space allows)
-- Timer/bell to mark beginning and end
-
-#### Closing (5 minutes)
-- Optional brief sharing: "What did I notice?"
-- Acknowledgment of collective practice
-- Announcement of next session time
-
-### Facilitation
-- Rotating volunteer facilitators
-- Minimal role: 
-  - Send link/reminder
-  - Keep time
-  - Hold space (no teaching or guidance)
-- Training not required, but clarity about format is essential
-
-### Technology Considerations
-- Use stable, accessible platforms
-- Provide clear joining instructions
-- Backup plan for technical failures
-- Consider recording policy (default: no recordings)
-
-### Documentation
-- Basic attendance records (optional, for understanding patterns)
-- No formal reflections required
-- Participants may keep personal notes
-
-### Boundaries
-What Ad Hoc Circles **are not**:
-- Not therapy or counseling sessions
-- Not teaching or instruction forums
-- Not social chatting groups
-- Not spaces for proselytizing or recruiting
-- Not substitutes for consistent solo practice
-
-### Starting an Online Ad Hoc Circle
-1. Choose a regular time slot
-2. Set up consistent meeting link
-3. Share in practice community channels
-4. Prepare brief format description for newcomers
-5. Find 1-2 backup facilitators
-6. Maintain the schedule reliably (or announce pauses)
+> The federation coordinates through clarity, not control.  
+> Decisions emerge from attention, not authority.
 
 ---
 
-## 3. In-Person Fixed Circle
+## 6. Circle Meeting Structure
 
-### Purpose
-The In-Person Fixed Circle is the primary format for:
-- Deep, sustained practice development
-- Collective accountability and mutual support
-- Governance participation and skill development
-- Systematic documentation and research contribution
-- Long-term practitioner relationships
+All circle sessions — practice, review, or discernment — follow a shared rhythm.
 
-This is the "full" format for in-person practice circles.
+### 1. Check-In (5–10 min)
+Short silence to arrive, then brief statements of intention.
 
-### Core Commitments
+### 2. Practice (30–45 min)
+Shared silent practice; facilitator keeps time and neutrality.
 
-#### Practice Commitment
-- **Daily individual practice**: Minimum 15 minutes
-- **Weekly attendance**: Once per week, 60-90 minutes
-- **Consistency**: Regular participation (communicate absences)
+### 3. Documentation (10 min)
+Each member notes personal observations; scribe records anonymized notes if relevant.
 
-#### Governance Participation
-- Share in rotating roles (facilitator, treasurer, scribe)
-- Participate in circle decisions using discernment process
-- Contribute to document reviews when changes affect circle practice
-- Maintain transparency in finances and records
+### 4. Sharing / Discussion (15–30 min)
+Brief reflection round or discernment dialogue, depending on session type.
 
-#### Documentation Commitment
-- Keep practice logs (see [PRACTICE_METHODOLOGY.md](../research/PRACTICE_METHODOLOGY.md))
-- Write brief weekly reflections
-- Contribute to circle records and anonymized research data
-- Support systematic understanding of practice development
-
-### Session Structure
-
-Full structure for in-person sessions:
-
-#### Opening (10 minutes)
-Each person states:
-> "My name is [name]. Today I'm here for [intention]."
-
-#### Practice (40 minutes)
-- Silent standing meditation (sitting allowed if needed)
-- Minimal movement, phones off, full attention
-- One facilitator keeps time; no guidance during session
-
-#### Closing (10-15 minutes)
-- Written reflection:
-  - What did I notice?
-  - What challenged me?
-  - What intention arises for the week?
-- Optional sharing
-- Brief closing acknowledgment
-
-### Group Size and Scaling
-- **Optimal size**: 6-10 members
-- **Below 6**: Consider merging with another circle or recruiting
-- **Above 10**: Plan to split into two autonomous circles
-  - Allow 2-3 months for transition
-  - Form new leadership roles organically
-  - Maintain connection between circles
-
-### Role Rotation
-Every 3 months, roles rotate:
-- **Facilitator**: Timekeeping, space preparation, session flow
-- **Treasurer**: Finances (space rental, supplies), transparent accounting
-- **Scribe**: Record-keeping, documentation, anonymized research logs
-
-All members cycle through all roles. Experience is shared.
-
-### Meeting Logistics
-- **Location**: Quiet, stable space (community center, private space, outdoors if weather permits)
-- **Scheduling**: Fixed day and time (consistency enables attendance)
-- **Space requirements**:
-  - Enough room for all to stand with arms extended
-  - Minimal distractions (visual, auditory)
-  - Comfortable temperature
-  - Seating available for closing reflection
-
-### Financial Model
-- **Principle**: Cost-sharing, not profit
-- **Typical costs**:
-  - Space rental (if needed)
-  - Basic supplies (timer, cushions, tea)
-  - Document printing (optional)
-- **Sliding scale**: Those with more support those with less
-- **Transparency**: All expenses visible to all members
-- **No payment for teaching**: Facilitation is service, not profession
-
-### Conflict and Resolution
-- Address tensions directly and early
-- Use circle dialogue first
-- Seek mediation from two members of other circles if needed
-- Prioritize clarity over comfort
-- Remember: leaving is always acceptable
-
-### Connection with Other Circles
-- Share insights, tools, and documentation openly
-- Participate in inter-circle reviews of framework changes
-- Offer mediation support when requested
-- Coordinate through federation, not hierarchy
-- Learn from other circles' experiments and adaptations
-
-### Starting an In-Person Fixed Circle
-See [HOW_TO_CREATE_A_CIRCLE.md](HOW_TO_CREATE_A_CIRCLE.md) for detailed guidance on:
-- Finding initial members
-- Establishing first sessions
-- Setting up governance
-- Creating documentation systems
-- Connecting with existing circles
-
----
-
-## 4. Format Transitions and Combinations
-
-### From Solo to Group
-- Begin with solo practice to establish foundation
-- Attend Online Ad Hoc sessions to experience collective practice
-- When ready for commitment, join or form Fixed Circle
-- Continue solo practice throughout
-
-### Parallel Participation
-Many practitioners engage in multiple formats:
-- Daily solo practice (foundation)
-- Weekly Fixed Circle (depth and accountability)
-- Occasional Ad Hoc sessions (supplemental connection)
-
-This is natural and encouraged. Different formats serve different needs.
-
-### Stepping Back
-Life circumstances change. Options include:
-- Move from Fixed Circle to Ad Hoc participation
-- Maintain only solo practice for a period
-- Pause all structured practice mindfully
-- Return when circumstances allow
-
-No stigma attaches to any transition. The practice serves life, not vice versa.
-
-### Format Innovation
-These three formats are not exhaustive. Possible adaptations might include:
-- Monthly extended practice (half-day or full-day sessions)
-- Walking meditation circles in nature
-- Silent retreats organized by multiple circles
-- Workplace lunchtime drop-in sessions
-
-**Important**: New formats should:
-- Maintain core intention (attention, honesty, compassion)
-- Be tested experimentally before formal adoption
-- Be documented and shared for collective learning
-- Remain accessible and non-hierarchical
-
-See [HOW_WE_CHANGE.md](HOW_WE_CHANGE.md) for experimental adaptation process.
-
----
-
-## 5. Common Questions
-
-### Can I practice alone without joining any circle?
-Yes. Solo practice is complete in itself. Group formats enhance but don't replace individual practice.
-
-### How do I know which format is right for me?
-Start where you are:
-- New to practice → Solo, then Ad Hoc
-- Seeking consistency → Ad Hoc, then Fixed
-- Ready for commitment → Fixed Circle
-- Limited time → Solo with occasional Ad Hoc
-
-### Can children participate?
-- Solo practice: Yes, adapted to age and capacity
-- Ad Hoc: Ages 16+ (with younger if accompanied by guardian)
-- Fixed Circle: Ages 18+ (or 16+ with circle consensus and guardian awareness)
-
-### What if my city has no circles?
-1. Establish solo practice
-2. Join online Ad Hoc circles
-3. When ready, start a Fixed Circle (see HOW_TO_CREATE_A_CIRCLE.md)
-
-### Are there teachers or advanced practitioners?
-No. We have **experienced practitioners**, but no formal hierarchy. 
-- Those who have practiced longer may share experience
-- All interpretations are provisional, tested in practice
-- No one holds authority over another's practice
-
-### What about accessibility needs?
-All formats adapt to physical capacity:
-- Standing can become sitting
-- Movement practices can be modified
-- Online options support those unable to travel
-- Costs are shared (sliding scale, no one excluded for finances)
-
-### How do formats interact with research?
-- Solo practice: Optional documentation
-- Ad Hoc: Basic attendance patterns (anonymous)
-- Fixed Circle: Systematic logs and reflections
-- All data: Anonymized, used only for collective understanding
-
----
-
-## 6. Format Principles
-
-Across all three formats, certain principles remain constant:
-
-### Practice Principles
-- **Attention**: Full presence to direct experience
-- **Honesty**: Clear seeing without self-deception  
-- **Compassion**: Kindness toward self and others
-
-### Structural Principles
-- **Autonomy**: Each circle self-governs
-- **Accessibility**: No barriers of money, dogma, or hierarchy
-- **Transparency**: All decisions, finances, and changes are visible
-- **Evolution**: Structures adapt based on practice experience
-- **Non-coercion**: Freedom to participate, to leave, to return
-
-### Relational Principles
-- **Mutual support**: We practice together, not in competition
-- **Shared responsibility**: Roles rotate, all contribute
-- **Direct communication**: Address tensions honestly and kindly
-- **Collective learning**: Share insights and challenges openly
-
----
-
-## Closing Note
-
-These formats are **tools for practice, not institutions to defend**. They serve attention, honesty, and compassion. When a format no longer serves, it should change or be released.
-
-Practice comes first. Structure follows.
-
----
-
-*This appendix is a living document, refined through collective experience. Propose changes through the process described in [HOW_WE_CHANGE.md](HOW_WE_CHANGE.md).*
-
+### 5. Closing (2–3 min)
+Short silence; confirm documentation and next session.

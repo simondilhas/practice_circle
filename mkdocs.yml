@@ -90,13 +90,22 @@ nav:
         - Yogic Concepts: howto/practice/standing_meditation/appendices/yogic_concepts.md
     - Organize:
       - Overview: howto/organize/index.md
-      - Create a Circle: howto/organize/create_a_circle.md
-      - Make Decisions: howto/organize/make_decisions.md
-      - Document Practices: howto/organize/document_practices.md
-      - Evolve the Circle: howto/organize/evolve_the_circle.md
-      - Resolve Conflicts: howto/organize/resolve_conflicts.md
-      - Facilitate Sessions: howto/organize/facilitate_sessions.md
-      - Mentor Members: howto/organize/mentor_members.md
+      - Circle Roles:
+        - Facilitator: howto/organize/roles/facilitator.md
+        - Scribe: howto/organize/roles/scribe.md
+        - Treasurer: howto/organize/roles/treasurer.md
+      - Circle Lifecycle:
+        - Create a Circle: howto/organize/lifecycle/create_a_circle.md
+        - Evolve the Circle: howto/organize/lifecycle/evolve_the_circle.md
+        - Document Practices: howto/organize/lifecycle/document_practices.md
+      - Protocols:
+        - Make Decisions: howto/organize/protocols/make_decisions.md
+        - Resolve Conflicts: howto/organize/protocols/resolve_conflicts.md
+        - Mentor Members: howto/organize/protocols/mentor_members.md
+        - Use LLM Assistance: howto/organize/protocols/use_llm_assistance.md
+      - Financial Management:
+        - Circle Finances: howto/organize/finances/circle_finances.md
+        - Federation Finances: howto/organize/finances/federation_finances.md
   - Research:
     - Practice Methodology: research/PRACTICE_METHODOLOGY.md
     - Literature Review: research/LITERATURE_REVIEW.md

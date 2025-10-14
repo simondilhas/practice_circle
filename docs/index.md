@@ -15,7 +15,7 @@ Because awareness, listening, and shared power can’t be taught — they have t
 
 Each circle is:
 
-- Small (4–8 people)  
+- Small (10 people, if bigger the circle is split in two)  
 - Self-organizing and peer-led  
 - Focused on lived experience, not ideology  
 - Supported by simple tools for documentation and reflection
@@ -26,25 +26,44 @@ Together, these circles form a decentralized learning network — one that grows
 
 ## What Happens in a Circle
 
+
 - Meet weekly or bi-weekly (online or local)  
-- Begin with a shared practice of attention or embodiment  
+- Check-in
+- Begin with a shared practice of standing medidation
 - Explore an open question or theme  
 - Rotate facilitation — everyone leads sometimes  
-- Capture insights in a shared pad or notebook  
+- Capture the practice in a shared repository  
 - Reflect together on how the process evolves
 
 The circle is both **method and mirror** — we learn about ourselves by practicing together.
 
 ---
 
-## Who This Is For
+## This Practice Is For
 
-- People curious about **presence, inquiry, and embodied learning**  
-- Facilitators, teachers, or learners who value **shared power**  
-- Practitioners from **movement, mindfulness, education, or systems work**  
-- Anyone tired of passive learning and ready to **co-create**  
+### 1. The Overloaded Modern Individual  
+Feeling **disconnected, anxious, or exhausted** by the pace of modern life?  
+This practice offers a **grounded, embodied way to rebuild clarity, balance, and calm** —  
+a return to presence without retreating into old belief systems.  
 
-In every circle, everyone contributes — through listening, speaking, documenting, or simply showing up fully.
+---
+
+### 2. The Reflective Practitioner  
+Facilitators, educators, and practitioners in **mindfulness, movement, therapy, design, or creative work**  
+who value **shared responsibility over hierarchy**.  
+Here you’ll find a **transparent framework** for collaboration, documentation, and collective learning.  
+
+---
+
+### 3. The Seeker Beyond Religion  
+Those looking for **spiritual depth and community** beyond traditional religion or commercial self-help.  
+The Practice Circle offers **meaning without dogma**, **structure without control**, and **freedom with accountability** —  
+a living practice instead of fixed belief.  
+
+---
+
+In every circle, everyone contributes — by listening, speaking, documenting, and showing up fully.  
+
 
 ---
 
@@ -53,11 +72,9 @@ In every circle, everyone contributes — through listening, speaking, documenti
 We’re in the **early wave** — refining the language, rhythm, and structure of the Practice Circle.  
 By joining now, you can:
 
-- Help shape how circles work  
-- Be listed as a **founding participant**  
-- Access the **Circle Starter Kit**  
-- Contribute to the shared documentation and evolving handbook  
-- Connect with others building similar practices worldwide  
+- **Times won’t get quieter** — learn to stay grounded and clear amid uncertainty.  
+- **Systems won’t fix themselves** — help shape a way of working and relating that actually sustains people.  
+- **Meaning won’t return on its own** — rebuild depth and connection through shared, embodied practice.  
 
 This is the stage where the form is still fluid — and your participation truly shapes it.
 
@@ -70,32 +87,39 @@ Choose your path:
 | Path | Description | |
 |------|--------------|--|
 | **Join a Circle** | Experience a living, co-created practice group | [Join a Circle](how_to_join.md) |
-| **Start a Circle** | Use our starter kit to form your own group | [Start a Circle](howto/organize/create_a_circle.md) |
-| **Multiply** | Help others start circles in your region | [Multiply the Practice](howto/organize/facilitate_sessions.md) |
+| **Start a Circle** | Use our starter kit to form your own group | [Start a Circle](howto/organize/lifecycle/create_a_circle.md) |
+| **Multiply** | Help others start circles in your region | [Multiply the Practice](howto/organize/roles/facilitator.md) |
 
-> **Everyone in the Practice Circle is a co-creator.**  
-> The structure is shared, facilitation rotates, and learning evolves through the people who show up.
 
 ---
 
-## The Practice Circle Ethos
+## The Practice Circle Ethos  
 
-**1. Practice** — attention, presence, and embodiment come first  
-**2. Inquiry** — we question together instead of seeking fixed answers  
-**3. Shared Power** — leadership and authorship circulate  
-**4. Documentation** — reflection is how the network learns  
-**5. Evolution** — every circle adapts to its members and context
+**1. Practice** — grounding awareness in the body through direct experience, not belief.  
+**2. Documentation** — making practice visible so reflection becomes shared learning.  
+**3. Shared Decisions and Responsibility** — authority remains procedural, not personal; clarity and accountability hold power.  
+**4. Conflict Resolution Through Dialogue** — trust is protected by honesty, understanding, and mediation, not dominance.  
+**5. Evolution and Freedom** — the framework stays open to change; freedom safeguards integrity, and evolution protects life.  
 
-These principles hold the form while allowing it to grow.
+These principles hold the structure steady while allowing it to remain alive, honest, and adaptable.
 
 ---
 
 ## Who’s Behind the Initiative
 
-**Simon Dilhas** – Architect, project manager, and founder of the Practice Circle initiative.  
-Focused on bringing presence, structure, and shared responsibility into how we work and learn.
+## Who’s Behind the Initiative
 
-The first circles are forming now. Each participant becomes part of the story.
+- **Simon Dilhas** — Architect, project manager, and founder of a software consultancy — now initiator of the Practice Circle.  
+His work bridges structure and presence: how we can build systems that support awareness, accountability, and freedom rather than suppress them.
+
+The Practice Circle grew from personal necessity.  
+After years of overwork, tension, and disconnection, Simon returned to standing practice — not as a cure, but as a way to rebuild stability from the ground up.  
+The results were gradual and real: less anxiety, steadier focus, and a clearer sense of proportion in work and life.  
+
+This experience became the seed for a collective experiment — to explore how **individual practice and shared structure** can sustain each other.  
+
+The first circles are now forming — each participant becomes part of the story.  
+Your name could be here as well.
 
 ---
 
@@ -103,8 +127,9 @@ The first circles are forming now. Each participant becomes part of the story.
 
 For those who want to dive deeper:
 
+- [Manifesto](manifesto.md)
 - [How-To Guides](howto/index.md) — create, host, and evolve circles  
-- [Practice Methodology](research/PRACTICE_METHODOLOGY.md) — the theory behind the practice  
+- [Practice Methodology](howto/practice/practice_formats.md) — the theory behind the practice  
 - [Inspirational Traditions](research/INSPIRATIONAL_TRADITIONS.md) — philosophical foundations  
 
 ---

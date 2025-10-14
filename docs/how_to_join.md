@@ -10,7 +10,7 @@ There are two simple ways to begin:
 2. Create a short profile — just your name, email, and a few words about your interest.  
 3. You can then:
    - **Join an existing circle** near you or online  
-   - **Start a new circle** with the help of our [Starter Kit](../docs/howto/organize/create_a_circle.md)
+   - **Start a new circle** with the help of our [Starter Kit](../docs/howto/organize/lifecycle/create_a_circle.md)
    - **Connect** with others exploring similar practices
 
 The app helps circles stay connected and share their learnings with the wider network.

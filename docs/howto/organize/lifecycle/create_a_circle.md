@@ -224,7 +224,7 @@ A simple bow or silent pause together.
 - Discuss: "Is this structure working? What needs adjustment?"
 
 **Fourth Session**:
-- Establish **decision-making process**: Read [Decision Meeting Protocol](decision_making.md) together
+- Establish **decision-making process**: Read [Decision Meeting Protocol](../protocols/make_decisions.md) together
 - Begin **documentation**: Decide how to store reflections and attendance (shared folder, notebook, etc.)
 
 ### Week 5-8: Deepening Commitment
@@ -305,7 +305,7 @@ As your circle matures, consider:
 
 ### "What if someone wants to leave after a few weeks?"
 
-From the [Conflict Resolution guide](conflict_resolution.md):
+From the [Conflict Resolution guide](../protocols/resolve_conflicts.md):
 > "Members may leave at any time without stigma or penalty. Leaving is part of growth — freedom is the safeguard of integrity."
 
 - Normalize leaving as acceptable
@@ -314,7 +314,7 @@ From the [Conflict Resolution guide](conflict_resolution.md):
 
 ### "What if there's a conflict?"
 
-Follow the [Conflict Resolution guide](conflict_resolution.md):
+Follow the [Conflict Resolution guide](../protocols/resolve_conflicts.md):
 1. Address within the circle through open dialogue
 2. If unresolved, mediation by two members from other circles
 3. Leaving is always an accepted outcome
@@ -323,7 +323,7 @@ Follow the [Conflict Resolution guide](conflict_resolution.md):
 
 ### "What if we want to change the structure?"
 
-From [How We Change](evolution.md):
+From [How We Change](evolve_the_circle.md):
 - Small tweaks (timing, location): Decide internally
 - Structural changes: Test as an experiment, document results
 - Core principle changes: Requires testing, formal review, and federation input
@@ -413,13 +413,13 @@ You don't need to master everything before starting. Circles learn as they pract
 ## Additional Resources
 
 - [Manifesto](../../index.md) — Core principles and commitments
-- [How We Change](evolution.md) — Governance and change process
-- [Decision Meeting Protocol](decision_making.md) — How to make collective decisions
-- [Facilitator Guide](facilitator_guide.md) — Detailed role guidance
+- [How We Change](evolve_the_circle.md) — Governance and change process
+- [Decision Meeting Protocol](../protocols/make_decisions.md) — How to make collective decisions
+- [Facilitator Guide](../roles/facilitator.md) — Detailed role guidance
 - [Standing Meditation](../practice/standing_meditation/0_intro.md) — Progression through standing practice
 - [GitHub Repository](https://github.com/simondilhas/practice_circle) — Central hub for all documentation
 
 ---
 
-> *This document is itself subject to revision. If you found this guide helpful or confusing, please propose improvements through the process described in [How We Change](evolution.md).*
+> *This document is itself subject to revision. If you found this guide helpful or confusing, please propose improvements through the process described in [How We Change](evolve_the_circle.md).*
 

@@ -84,7 +84,7 @@ I take part in collective decision-making, follow agreed procedures, and keep my
 Authority is procedural, not personal; clarity and documentation hold power, not individuals.  
 By sharing decisions, accountability, and information, we prevent hierarchy, preserve trust, and ensure that the circle continues even when members change.  
 
-→ [How to reach decisions](howto/organize/make_decisions.md)  
+→ [How to reach decisions](howto/organize/protocols/make_decisions.md)  
 
 ---
 
@@ -97,7 +97,7 @@ If resolution cannot be found within the circle, I support mediation by two peer
 Mediation seeks clarity, not victory.  
 Leaving is always an honorable option — freedom safeguards integrity.  
 
-→ [How to resolve conflicts](howto/organize/conflict_resolution.md)
+→ [How to resolve conflicts](howto/organize/protocols/resolve_conflicts.md)
 
 ---
 
@@ -110,7 +110,7 @@ I contribute to revisions transparently and accept that others may continue diff
 Leaving the circle is always an honorable option;  
 freedom protects integrity, and evolution protects life.  
 
-→ [How we change](howto/organize/evolve_the_circle.md)
+→ [How we change](howto/organize/lifecycle/evolve_the_circle.md)
 
 
 ---

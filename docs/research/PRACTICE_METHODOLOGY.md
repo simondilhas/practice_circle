@@ -196,7 +196,7 @@ The goal is to understand **what it does, for whom, under what conditions** — 
 
 - [Standing Introduction](../howto/practice/standing_meditation/0_intro.md) — Personal account and practice foundations
 - [Literature Review](LITERATURE_REVIEW.md) — Scientific research on standing meditation
-- [How We Change](../howto/organize/evolution.md) — Process for testing and integrating changes
+- [How We Change](../howto/organize/lifecycle/evolve_the_circle.md) — Process for testing and integrating changes
 - [Documentation Guide](../howto/organize/documentation.md) — Documentation and research within circles
 
 ---

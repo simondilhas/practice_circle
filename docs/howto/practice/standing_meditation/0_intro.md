@@ -87,7 +87,7 @@ The available research remains fragmented and underfunded, but its direction is 
 
 Research describes mechanisms. Practice reveals patterns. Here is one trajectory — not prescriptive, but honest.
 
-I returned to standing practice while overworked and slightly depressed, carrying digestive issues (histamine intolerance), excess weight, and poor impulse control. Food had become my primary coping mechanism. The first session felt awkward and uncomfortable, but afterward — something lighter. A small shift, but real.
+I returned to standing practice while overworked and depressed, carrying digestive issues (histamine intolerance), excess weight, and poor impulse control. Food had become my primary coping mechanism. The first session felt awkward and uncomfortable, but afterward — something lighter. A small shift, but real.
 
 After one month: noticeably more relaxed. After two: more physical flexibility, but also an energetic low — fatigue surfacing as the nervous system recalibrated. After three months: tension reappeared in my back (not everything resolves linearly), but my legs felt stronger, more stable. Mental balance improved. Impulse control steadied. Mood lifted without needing to force it.
 
