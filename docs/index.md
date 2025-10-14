@@ -45,30 +45,18 @@ The circle is both **method and mirror**: we learn about ourselves by practicing
 <div class="info-cards-container">
 
 <div class="info-card">
-
-### 1. The Overloaded Modern Individual
-
-For those feeling **disconnected, anxious, or exhausted** by the pace of modern life.  
-This practice offers a **grounded, embodied way** to rebuild clarity, balance, and calm — without retreating into old belief systems.
-
+<h3>The Overloaded Individual</h3>
+<p>For those feeling disconnected, anxious, or exhausted by modern life's pace. This practice offers a grounded, embodied way to rebuild clarity, balance, and calm — without retreating into old belief systems.</p>
 </div>
 
 <div class="info-card">
-
-### 2. The Reflective Practitioner
-
-Facilitators, educators, and practitioners in **mindfulness, movement, therapy, design, or creative work** who value **shared responsibility over hierarchy**.  
-Here you'll find a **transparent framework** for collaboration, documentation, and collective learning.
-
+<h3>The Reflective Practitioner</h3>
+<p>Facilitators, educators, and practitioners in mindfulness, movement, therapy, design, or creative work who value shared responsibility over hierarchy. Here you'll find a transparent framework for collaboration, documentation, and collective learning.</p>
 </div>
 
 <div class="info-card">
-
-### 3. The Seeker Beyond Religion
-
-Those seeking **spiritual depth and community** beyond traditional religion or commercial self-help.  
-The Practice Circle offers **meaning without dogma**, **structure without control**, and **freedom with accountability** — a living practice instead of fixed belief.
-
+<h3>The Seeker Beyond Religion</h3>
+<p>Those seeking spiritual depth and community beyond traditional religion or commercial self-help. The Practice Circle offers meaning without dogma, structure without control, and freedom with accountability — a living practice instead of fixed belief.</p>
 </div>
 
 </div>
@@ -106,7 +94,7 @@ This is the stage where the form is still fluid — and your participation truly
 <div class="action-card primary">
 <h3>Multiply</h3>
 <p>Help spread the practice organically</p>
-<a href="howto/spread_the_practice.md" class="btn">Learn More →</a>
+<a href="howto/organize/lifecycle/spread_the_practice.md" class="btn">Learn More →</a>
 </div>
 
 </div>
@@ -138,20 +126,20 @@ The first circles are now forming. Each participant becomes part of the story �
 
 <div class="info-card">
 <h3>Manifesto</h3>
-<p>The guiding principles and vision behind Practice Circle</p>
-<a href="manifesto.md">Read the Manifesto →</a>
+<p>The guiding principles and vision behind Practice Circle.</p>
+<p><a href="manifesto.md">Read the Manifesto →</a></p>
 </div>
 
 <div class="info-card">
 <h3>How-To Guides</h3>
-<p>Practical guides for organizing and facilitating circles</p>
-<a href="howto/index.md">Explore Guides →</a>
+<p>Practical guides for organizing and facilitating circles.</p>
+<p><a href="howto/index.md">Explore Guides →</a></p>
 </div>
 
 <div class="info-card">
 <h3>Practice Methodology</h3>
-<p>Learn about different practice formats and approaches</p>
-<a href="howto/practice/practice_formats.md">Discover Practices →</a>
+<p>Learn about different practice formats and approaches.</p>
+<p><a href="howto/practice/practice_formats.md">Discover Practices →</a></p>
 </div>
 
 </div>

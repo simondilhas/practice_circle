@@ -155,7 +155,7 @@
 /* Info cards container - for persona/feature cards */
 .info-cards-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 1.5rem;
     margin: 2rem 0;
 }
@@ -164,26 +164,39 @@
 .info-card {
     border-radius: 8px;
     padding: 1.5rem;
-    border: 2px solid var(--md-default-fg-color--lightest);
+    border: 1px solid var(--md-default-fg-color--lightest);
     background: var(--md-default-bg-color);
     transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
 .info-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-    border-color: #DC4D01;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-color: var(--md-default-fg-color--light);
 }
 
 .info-card h3 {
     margin-top: 0;
-    color: #DC4D01;
-    font-size: 1.3rem;
+    margin-bottom: 0.75rem;
+    color: var(--md-default-fg-color);
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
 .info-card p {
-    margin: 0.75rem 0;
+    margin: 0.5rem 0;
     line-height: 1.6;
+    color: var(--md-default-fg-color--light);
+}
+
+.info-card a {
+    color: #DC4D01;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.info-card a:hover {
+    text-decoration: underline;
 }
 
 /* Base action card styling */
