@@ -77,24 +77,24 @@ This is the stage where the form is still fluid — and your participation truly
 
 ## How to Join
 
-<div class="action-cards-container">
+<div class="info-cards-container">
 
-<div class="action-card primary">
+<div class="info-card">
 <h3>Join a Circle</h3>
-<p>Experience a living, co-created group</p>
-<a href="how_to_join.md" class="btn">Join →</a>
+<p>Experience a living, co-created group.</p>
+<p><a href="how_to_join.md">Join →</a></p>
 </div>
 
-<div class="action-card secondary">
+<div class="info-card">
 <h3>Start a Circle</h3>
-<p>Form your own practice group</p>
-<a href="howto/organize/lifecycle/create_a_circle.md" class="btn">Start →</a>
+<p>Form your own practice group.</p>
+<p><a href="howto/organize/lifecycle/create_a_circle.md">Start →</a></p>
 </div>
 
-<div class="action-card primary">
+<div class="info-card">
 <h3>Multiply</h3>
-<p>Help spread the practice organically</p>
-<a href="howto/organize/lifecycle/spread_the_practice.md" class="btn">Learn More →</a>
+<p>Help spread the practice organically.</p>
+<p><a href="howto/organize/lifecycle/spread_the_practice.md">Learn More →</a></p>
 </div>
 
 </div>
@@ -151,18 +151,18 @@ The first circles are now forming. Each participant becomes part of the story �
 Join the first wave of Practice Circles.  
 Bring your curiosity, your attention, and your willingness to co-create.
 
-<div class="action-cards-container">
-  
-  <div class="action-card primary">
-    <h3>Register on the App</h3>
-    <p>Join or create a circle through our platform</p>
-    <a href="https://practice-circle.softr.app/sign-up" class="btn">Get Started →</a>
-  </div>
+<div class="info-cards-container">
 
-  <div class="action-card secondary">
-    <h3>Contact Simon</h3>
-    <p>Get personal guidance and support</p>
-    <a href="mailto:simon.dilhas@gmail.com" class="btn">Send Email →</a>
-  </div>
+<div class="info-card">
+<h3>Register on the App</h3>
+<p>Join or create a circle through our platform.</p>
+<p><a href="https://practice-circle.softr.app/sign-up">Get Started →</a></p>
+</div>
+
+<div class="info-card">
+<h3>Contact Simon</h3>
+<p>Get personal guidance and support.</p>
+<p><a href="mailto:simon.dilhas@gmail.com">Send Email →</a></p>
+</div>
 
 </div>

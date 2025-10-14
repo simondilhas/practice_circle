@@ -53,18 +53,18 @@ If you’re curious but not ready to commit, you can:
 
 **→ Ready?**
 
-<div class="action-cards-container">
-  
-  <div class="action-card primary">
-    <h3>Register on the App</h3>
-    <p>Join or create a circle through our platform</p>
-    <a href="https://practice-circle.softr.app/sign-up" class="btn">Get Started →</a>
-  </div>
+<div class="info-cards-container">
 
-  <div class="action-card secondary">
-    <h3>Contact Simon</h3>
-    <p>Get personal guidance and support</p>
-    <a href="mailto:simon.dilhas@gmail.com" class="btn">Send Email →</a>
-  </div>
+<div class="info-card">
+<h3>Register on the App</h3>
+<p>Join or create a circle through our platform.</p>
+<p><a href="https://practice-circle.softr.app/sign-up">Get Started →</a></p>
+</div>
+
+<div class="info-card">
+<h3>Contact Simon</h3>
+<p>Get personal guidance and support.</p>
+<p><a href="mailto:simon.dilhas@gmail.com">Send Email →</a></p>
+</div>
 
 </div>

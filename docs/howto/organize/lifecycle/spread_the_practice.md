@@ -25,18 +25,18 @@ This isn't about recruitment — it's about **making the door visible** to those
 
 We've created simple, printable flyers you can share:
 
-<div class="action-cards-container">
+<div class="info-cards-container">
 
-<div class="action-card primary">
+<div class="info-card">
 <h3>STOP Flyer (PDF)</h3>
-<p>Print and post where people pause and reflect</p>
-<a href="../assets/flyers/STOP.pdf" class="btn" download>Download PDF →</a>
+<p>Print and post where people pause and reflect.</p>
+<p><a href="../../../assets/flyers/STOP.pdf" download>Download PDF →</a></p>
 </div>
 
-<div class="action-card secondary">
+<div class="info-card">
 <h3>STOP Flyer (PNG)</h3>
-<p>Share digitally or print in high quality</p>
-<a href="../assets/flyers/stop-1.png" class="btn" download>Download Image →</a>
+<p>Share digitally or print in high quality.</p>
+<p><a href="../../../assets/flyers/stop-1.png" download>Download Image →</a></p>
 </div>
 
 </div>
