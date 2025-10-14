@@ -135,6 +135,12 @@ The first circles are now forming. Each participant becomes part of the story �
 <p><a href="howto/">Explore Guides →</a></p>
 </div>
 
+<div class="info-card">
+<h3>Contribute</h3>
+<p>Help improve these documents—no technical skills needed.</p>
+<p><a href="howto/organize/protocols/contribute_changes/">Contribute →</a></p>
+</div>
+
 </div>
 
 ---

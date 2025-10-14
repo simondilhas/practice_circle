@@ -25,6 +25,7 @@ Structured approaches to collective decision-making and support:
 - **[Make Decisions](protocols/make_decisions.md)** — How to reach collective decisions through structured protocols
 - **[Resolve Conflicts](protocols/resolve_conflicts.md)** — How to address conflicts through dialogue and mediation
 - **[Mentor Members](protocols/mentor_members.md)** — How to provide mentorship and support to circle members
+- **[Contribute Changes](protocols/contribute_changes.md)** — How to suggest improvements to these documents (beginner-friendly)
 - **[Use LLM Assistance](protocols/use_llm_assistance.md)** — How to use language models for documentation support
 
 ## Financial Management

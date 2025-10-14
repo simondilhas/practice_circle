@@ -26,30 +26,19 @@ This process protects core principles while enabling adaptation.
 
 ## How to Propose Changes
 
+**→ New to GitHub?** See [**How to Contribute Changes**](../protocols/contribute_changes.md) for a step-by-step guide with screenshots.
+
 ### Starting a Discussion
 
 Before proposing changes (especially for Tier 2 and above), start by opening a **GitHub Issue** to discuss your idea with the community.
 
-**What is a GitHub Issue?**  
-Think of it as a discussion thread or suggestion box. Anyone can:
-- Propose an idea for improvement
-- Ask questions about existing practices
+Think of it as a discussion thread or suggestion box where anyone can:
+- Propose ideas for improvement
+- Ask questions about existing practices  
 - Share what's working or not working in their circle
 - Discuss whether a change aligns with core principles
 
-**How to use it** (simple steps for non-developers):
-1. Go to: [**practice_circle/issues**](https://github.com/simondilhas/practice_circle/issues)
-2. Click the green **"New issue"** button (top right)
-3. Give it a clear title (e.g., "Suggestion: Shorten session length to 60 minutes")
-4. Describe your proposal:
-   - What problem does this solve?
-   - What change are you suggesting?
-   - How does it align with core principles?
-5. Click **"Submit new issue"** to post it
-6. The community can comment, ask questions, and discuss
-7. If there's support, you or someone else can create a pull request (formal proposal)
-
-**You don't need to know how to code** to open an issue. You're sharing an idea, not making technical changes. Someone else can help with the technical implementation if the idea gets support.
+**You don't need technical skills** to open an issue—you're just sharing an idea. If there's support, you or someone else can create a formal proposal (pull request) later.
 
 ---
 

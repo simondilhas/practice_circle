@@ -24,7 +24,12 @@ Visit the [How-To Guides](howto/index.md) to learn how circles practice, documen
 ## 5. Invite Others  
 Download the [Postcard](https://www.canva.com/design/DAG1r-_0yEk/D-JzeWIXGkw9MK9sEsKKrQ/edit) and send it to someone you care about — maybe even by real mail.
 
+## 6. Contribute (Optional)  
+Found something unclear? See a typo? Have an idea for improvement?  
+Help shape these documents: [How to Contribute Changes](howto/organize/protocols/contribute_changes.md)  
+No technical skills needed — we'll guide you through it.
+
 ---
 
-Once you’ve taken these first steps, explore any section that resonates with your current stage of practice.  
+Once you've taken these first steps, explore any section that resonates with your current stage of practice.  
 In The Practice Circle, understanding grows from experience — not the other way around.
