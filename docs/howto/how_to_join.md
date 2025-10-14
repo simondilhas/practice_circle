@@ -10,7 +10,7 @@ There are two simple ways to begin:
 2. Create a short profile — just your name, email, and a few words about your interest.  
 3. You can then:
    - **Join an existing circle** near you or online  
-   - **Start a new circle** with the help of our [Starter Kit](../docs/howto/organize/lifecycle/create_a_circle.md)
+   - **Start a new circle** with the help of our [Starter Kit](organize/lifecycle/create_a_circle.md)
    - **Connect** with others exploring similar practices
 
 The app helps circles stay connected and share their learnings with the wider network.
@@ -22,7 +22,7 @@ The app helps circles stay connected and share their learnings with the wider ne
 If you prefer a personal start, reach out to:
 
 **Simon Dilhas**  
-[simon.dilhas@gmail.com](mailto:simon.dilhas@simon.dilhas@gmail.com)
+[simon.dilhas@gmail.com](mailto:simon.dilhas@gmail.com)
 
 You can write in English or German.  
 Simon can:
@@ -46,7 +46,7 @@ Simon can:
 ## Still Unsure?
 
 If you're curious but not ready to commit, you can:
-- Read the [How-To Guides](howto/index.md)  
+- Read the [How-To Guides](index.md)  
 - Or simply reach out to Simon for a short conversation.
 
 ---
