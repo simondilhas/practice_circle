@@ -53,18 +53,18 @@ If you’re curious but not ready to commit, you can:
 
 **→ Ready?**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<div class="action-cards-container">
   
-  <div style="border: 2px solid #4A90E2; border-radius: 8px; padding: 1.5rem; text-align: center; background: linear-gradient(135deg, #f5f9ff 0%, #e8f2ff 100%);">
-    <h3 style="margin-top: 0; color: #2c5aa0;">Register on the App</h3>
-    <p style="margin: 1rem 0;">Join or create a circle through our platform</p>
-    <a href="https://practice-circle.softr.app/sign-up" style="display: inline-block; background: #4A90E2; color: white; padding: 0.75rem 1.5rem; border-radius: 5px; text-decoration: none; font-weight: bold;">Get Started →</a>
+  <div class="action-card primary">
+    <h3>Register on the App</h3>
+    <p>Join or create a circle through our platform</p>
+    <a href="https://practice-circle.softr.app/sign-up" class="btn">Get Started →</a>
   </div>
 
-  <div style="border: 2px solid #50C878; border-radius: 8px; padding: 1.5rem; text-align: center; background: linear-gradient(135deg, #f5fff9 0%, #e8ffe8 100%);">
-    <h3 style="margin-top: 0; color: #2d6e3f;">Contact Simon</h3>
-    <p style="margin: 1rem 0;">Get personal guidance and support</p>
-    <a href="mailto:simon.dilhas@gmail.com" style="display: inline-block; background: #50C878; color: white; padding: 0.75rem 1.5rem; border-radius: 5px; text-decoration: none; font-weight: bold;">Send Email →</a>
+  <div class="action-card secondary">
+    <h3>Contact Simon</h3>
+    <p>Get personal guidance and support</p>
+    <a href="mailto:simon.dilhas@gmail.com" class="btn">Send Email →</a>
   </div>
 
 </div>
