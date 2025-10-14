@@ -3,11 +3,6 @@
 
 > Small groups exploring awareness, dialogue, and shared responsibility — a framework for rebuilding meaning without belief.
 
-<div class="cta-button-container">
-<a href="how_to_join.md" class="cta-button">Join a Circle</a>
-</div>
-
-
 ---
 
 ## Why This Exists
@@ -59,6 +54,12 @@ The circle is both **method and mirror**: we learn about ourselves by practicing
 <p>Those seeking spiritual depth and community beyond traditional religion or commercial self-help. The Practice Circle offers meaning without dogma, structure without control, and freedom with accountability — a living practice instead of fixed belief.</p>
 </div>
 
+<div class="info-card">
+<h3>You?</h3>
+<p>Tell us your reason</p>
+<p><a href="how_to_join/">Join →</a></p>
+</div>
+
 </div>
 
 ---
@@ -71,8 +72,6 @@ The circle is both **method and mirror**: we learn about ourselves by practicing
 
 This is the stage where the form is still fluid — and your participation truly shapes it.
 
-[Join a Circle](how_to_join.md)
-
 ---
 
 ## How to Join
@@ -82,19 +81,19 @@ This is the stage where the form is still fluid — and your participation truly
 <div class="info-card">
 <h3>Join a Circle</h3>
 <p>Experience a living, co-created group.</p>
-<p><a href="how_to_join.md">Join →</a></p>
+<p><a href="how_to_join/">Join →</a></p>
 </div>
 
 <div class="info-card">
 <h3>Start a Circle</h3>
 <p>Form your own practice group.</p>
-<p><a href="howto/organize/lifecycle/create_a_circle.md">Start →</a></p>
+<p><a href="howto/organize/lifecycle/create_a_circle/">Start →</a></p>
 </div>
 
 <div class="info-card">
 <h3>Multiply</h3>
 <p>Help spread the practice organically.</p>
-<p><a href="howto/organize/lifecycle/spread_the_practice.md">Learn More →</a></p>
+<p><a href="howto/organize/lifecycle/spread_the_practice/">Learn More →</a></p>
 </div>
 
 </div>
@@ -127,19 +126,19 @@ The first circles are now forming. Each participant becomes part of the story �
 <div class="info-card">
 <h3>Manifesto</h3>
 <p>The guiding principles and vision behind Practice Circle.</p>
-<p><a href="manifesto.md">Read the Manifesto →</a></p>
+<p><a href="manifesto/">Read the Manifesto →</a></p>
 </div>
 
 <div class="info-card">
 <h3>How-To Guides</h3>
 <p>Practical guides for organizing and facilitating circles.</p>
-<p><a href="howto/index.md">Explore Guides →</a></p>
+<p><a href="howto/">Explore Guides →</a></p>
 </div>
 
 <div class="info-card">
 <h3>Practice Methodology</h3>
 <p>Learn about different practice formats and approaches.</p>
-<p><a href="howto/practice/practice_formats.md">Discover Practices →</a></p>
+<p><a href="howto/practice/practice_formats/">Discover Practices →</a></p>
 </div>
 
 </div>
@@ -156,7 +155,7 @@ Bring your curiosity, your attention, and your willingness to co-create.
 <div class="info-card">
 <h3>Register on the App</h3>
 <p>Join or create a circle through our platform.</p>
-<p><a href="https://practice-circle.softr.app/sign-up">Get Started →</a></p>
+<p><a href="https://practice-circle.softr.app/sign-up" target="_blank">Get Started →</a></p>
 </div>
 
 <div class="info-card">

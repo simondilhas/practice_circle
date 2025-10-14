@@ -58,7 +58,7 @@ If you’re curious but not ready to commit, you can:
 <div class="info-card">
 <h3>Register on the App</h3>
 <p>Join or create a circle through our platform.</p>
-<p><a href="https://practice-circle.softr.app/sign-up">Get Started →</a></p>
+<p><a href="https://practice-circle.softr.app/sign-up" target="_blank">Get Started →</a></p>
 </div>
 
 <div class="info-card">

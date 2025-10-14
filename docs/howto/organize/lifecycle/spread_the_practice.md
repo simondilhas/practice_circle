@@ -30,13 +30,13 @@ We've created simple, printable flyers you can share:
 <div class="info-card">
 <h3>STOP Flyer (PDF)</h3>
 <p>Print and post where people pause and reflect.</p>
-<p><a href="../../../assets/flyers/STOP.pdf" download>Download PDF →</a></p>
+<p><a href="/practice_circle/assets/flyers/STOP.pdf" download>Download PDF →</a></p>
 </div>
 
 <div class="info-card">
 <h3>STOP Flyer (PNG)</h3>
 <p>Share digitally or print in high quality.</p>
-<p><a href="../../../assets/flyers/stop-1.png" download>Download Image →</a></p>
+<p><a href="/practice_circle/assets/flyers/stop-1.png" download>Download Image →</a></p>
 </div>
 
 </div>
