@@ -29,7 +29,7 @@ The Practice Circle provides a web app for documenting practice:
 
 Visit [https://practice-circle.softr.app](https://practice-circle.softr.app) and sign up with your email.
 
-![Login Screen](../../assets/images/circle_app_login_signup.jpg)
+![Login Screen](/assets/images/circle_app_login_signup.jpg)
 
 Enter your email and follow the sign-up process. Once registered, you can access the app from any device.
 
@@ -37,7 +37,7 @@ Enter your email and follow the sign-up process. Once registered, you can access
 
 For quick access on your phone, add the app to your home screen — it works like a native app.
 
-![Add to Home Screen](../../assets/images/circle_app_add_to_home.jpg)
+![Add to Home Screen](/assets/images/circle_app_add_to_home.jpg)
 
 **On iOS:**
 1. Open the app in Safari
@@ -53,7 +53,7 @@ For quick access on your phone, add the app to your home screen — it works lik
 
 After practicing, record what you observed:
 
-![Add Record Screen](../../assets/images/circle_app_add_record.jpg)
+![Add Record Screen](/assets/images/circle_app_add_record.jpg)
 
 **To add a record:**
 1. Tap the orange "Add record" button
@@ -64,7 +64,7 @@ After practicing, record what you observed:
    - **Duration in Minutes**: How long you practiced
 3. Tap "Add" to save
 
-![Record Form Details](../../assets/images/circle_app_add_record_2.jpg)
+![Record Form Details](/assets/images/circle_app_add_record_2.jpg)
 
 Remember: Record observations, not interpretations.
 
@@ -72,7 +72,7 @@ Remember: Record observations, not interpretations.
 
 View your practice patterns over time on the Dashboard:
 
-![Dashboard View](../../assets/images/circle_app_dashbord.png)
+![Dashboard View](/assets/images/circle_app_dashbord.png)
 
 The dashboard shows:
 - **Total days and hours practiced**
@@ -86,7 +86,7 @@ Use these metrics to recognize patterns and stay accountable to your practice.
 
 Create or join practice circles to share documentation with your group:
 
-![Circles Interface](../../assets/images/circle_app_new_circle.png)
+![Circles Interface](/assets/images/circle_app_new_circle.png)
 
 **To join a circle:**
 1. Navigate to "Circles" in the top menu

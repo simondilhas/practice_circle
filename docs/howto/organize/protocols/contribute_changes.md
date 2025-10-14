@@ -40,7 +40,7 @@ Anyone can:
 2. **Click "New issue"**  
    Look for the green button (top right)
    
-   ![GitHub issues page](../../assets/images/github_issue.png)
+   ![GitHub issues page](/assets/images/github_issue.png)
 
 3. **Give it a clear title**  
    Examples:
@@ -54,7 +54,7 @@ Anyone can:
    - **What are you suggesting?** (e.g., "Offer a 60-minute beginner option")
    - **How does it align with core principles?** (e.g., "Makes practice more accessible")
 
-   ![New issue form filled out](../../assets/images/github_issue_filled_out.png)
+   ![New issue form filled out](/assets/images/github_issue_filled_out.png)
 
 5. **Submit the issue**  
    Click the green "Submit new issue" button
@@ -87,7 +87,7 @@ This is perfect for:
    Click the "Fork" button in the top right corner  
    This creates your own copy where you can make changes safely
    
-   ![Fork the repository](../../assets/images/github_fork.png)
+   ![Fork the repository](/assets/images/github_fork.png)
    
    **Note**: If you've already forked it, skip this step!
 
@@ -121,7 +121,7 @@ This is perfect for:
    [Link text](https://example.com)
    ```
 
-   ![GitHub web editor](../../assets/images/github_make_changes.png)
+   ![GitHub web editor](/assets/images/github_make_changes.png)
 
 6. **Preview your changes** (optional)  
    Click the "Preview" tab to see how it looks
@@ -133,7 +133,7 @@ This is perfect for:
    - Make sure "Create a new branch for this commit" is selected
    - Click the green "Commit changes" button
 
-   ![Commit changes form](../../assets/images/github_commit.png)
+   ![Commit changes form](/assets/images/github_commit.png)
 
 8. **Create a pull request**  
    - On the next page, click "Create pull request"

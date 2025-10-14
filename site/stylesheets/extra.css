@@ -1,36 +1,309 @@
-/* Custom link colors - earthy red */
+/* Custom link colors - using theme accent color */
 .md-content a {
-    color: #B85C38;
+    color: #DC4D01;
 }
 
 .md-content a:hover {
-    color: #A0522D;
+    color: #B83A00;
 }
 
 .md-content a:visited {
-    color: #8B4513;
+    color: #A03100;
 }
 
-/* Fix navigation alignment */
-.md-nav__item {
-    padding-left: 0;
+/* Grid cards styling - optimized for 2 cards */
+.grid.cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin: 2rem 0;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.md-nav__item--nested > .md-nav__link {
-    padding-left: 1.5rem !important;
+@media (max-width: 640px) {
+    .grid.cards {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        max-width: none;
+    }
 }
 
-.md-nav__item--nested .md-nav__item--nested > .md-nav__link {
-    padding-left: 2.5rem !important;
+.grid.cards > li {
+    list-style: none;
+    background: var(--md-default-bg-color);
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Ensure consistent indentation for all nested items */
-.md-nav--primary .md-nav__item--nested .md-nav__link {
-    padding-left: 1.5rem !important;
+.grid.cards > li:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 }
 
-/* Fix the specific case where same page appears at different levels */
-.md-nav__item--active.md-nav__item--nested .md-nav__link {
-    padding-left: 1.5rem !important;
+.grid.cards > li > strong {
+    font-size: 1.2rem;
+    color: var(--md-default-fg-color);
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.grid.cards > li > hr {
+    border: none;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    margin: 1rem 0;
+}
+
+.grid.cards > li > a {
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: 600;
+}
+
+/* External navigation link styling - Button format */
+.md-header__title a[href^="https://"],
+.md-nav__link[href^="https://"] {
+    background: linear-gradient(135deg, #DC4D01, #FF6B35);
+    color: white !important;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.75rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    border: 2px solid transparent;
+    box-shadow: 0 2px 8px rgba(220, 77, 1, 0.2);
+    text-transform: none;
+    font-size: 0.9rem;
+    margin: 0.25rem 0;
+}
+
+.md-header__title a[href^="https://"]:hover,
+.md-nav__link[href^="https://"]:hover {
+    background: linear-gradient(135deg, #B83A00, #E55A2B);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(220, 77, 1, 0.4);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.md-header__title a[href^="https://"]:after,
+.md-nav__link[href^="https://"]:after {
+    content: "↗";
+    font-size: 0.9em;
+    opacity: 0.9;
+    margin-left: 0.25rem;
+}
+
+/* Ensure button styling in mobile navigation too */
+@media (max-width: 768px) {
+    .md-nav__link[href^="https://"] {
+        margin: 0.5rem 0;
+        padding: 1rem 1.5rem;
+        font-size: 1rem;
+    }
+}
+
+/* Hide "Made with Material for MkDocs" footer */
+.md-footer__inner:not([hidden]) {
+    display: none !important;
+}
+
+/* Style footer links as subtle links */
+.md-nav__link[href="imprint.md"],
+.md-nav__link[href="privacy-notice.md"],
+.md-nav__link[href="disclaimer.md"] {
+    background: none !important;
+    color: var(--md-default-fg-color--light) !important;
+    padding: 0.25rem 0.5rem !important;
+    border-radius: 0.25rem !important;
+    font-weight: 400 !important;
+    font-size: 0.85rem !important;
+    margin: 0.5rem 0 !important;
+    text-decoration: none !important;
+    transition: color 0.2s ease !important;
+}
+
+.md-nav__link[href="imprint.md"]:hover,
+.md-nav__link[href="privacy-notice.md"]:hover,
+.md-nav__link[href="disclaimer.md"]:hover {
+    background: var(--md-default-bg-color--lightest) !important;
+    color: var(--md-default-fg-color) !important;
+    transform: none !important;
+    box-shadow: none !important;
+}
+
+.md-nav__link[href="imprint.md"]:after,
+.md-nav__link[href="privacy-notice.md"]:after,
+.md-nav__link[href="disclaimer.md"]:after {
+    content: none !important;
+}
+
+/* Action cards container */
+.action-cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+/* Info cards container - for persona/feature cards */
+.info-cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+/* Info card styling */
+.info-card {
+    border-radius: 8px;
+    padding: 1.5rem;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    background: var(--md-default-bg-color);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.info-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-color: var(--md-default-fg-color--light);
+}
+
+.info-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    color: var(--md-default-fg-color);
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.info-card p {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+    color: var(--md-default-fg-color--light);
+}
+
+.info-card a {
+    color: #DC4D01;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.info-card a:hover {
+    text-decoration: underline;
+}
+
+/* Base action card styling */
+.action-card {
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+    border: 2px solid;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.action-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Primary action card (blue) */
+.action-card.primary {
+    border-color: #4A90E2;
+    background: linear-gradient(135deg, #f5f9ff 0%, #e8f2ff 100%);
+}
+
+/* Secondary action card (green) */
+.action-card.secondary {
+    border-color: #50C878;
+    background: linear-gradient(135deg, #f5fff9 0%, #e8ffe8 100%);
+}
+
+/* Action card heading */
+.action-card h3 {
+    margin-top: 0;
+}
+
+.action-card.primary h3 {
+    color: #2c5aa0;
+}
+
+.action-card.secondary h3 {
+    color: #2d6e3f;
+}
+
+/* Action card paragraph */
+.action-card p {
+    margin: 1rem 0;
+}
+
+/* Action card button */
+.action-card .btn {
+    display: inline-block;
+    color: white !important;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none !important;
+    font-weight: bold;
+    transition: all 0.2s ease;
+}
+
+.action-card.primary .btn {
+    background: #4A90E2;
+}
+
+.action-card.primary .btn:hover {
+    background: #357ABD;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(74, 144, 226, 0.3);
+}
+
+.action-card.secondary .btn {
+    background: #50C878;
+}
+
+.action-card.secondary .btn:hover {
+    background: #3FA662;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(80, 200, 120, 0.3);
+}
+
+/* Standalone CTA button container */
+.cta-button-container {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+/* Standalone CTA button */
+.cta-button {
+    display: inline-block;
+    background: linear-gradient(135deg, #DC4D01, #FF6B35);
+    color: white !important;
+    padding: 1rem 2.5rem;
+    border-radius: 0.75rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 16px rgba(220, 77, 1, 0.3);
+    border: 2px solid transparent;
+}
+
+.cta-button:hover {
+    background: linear-gradient(135deg, #B83A00, #E55A2B);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(220, 77, 1, 0.5);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.cta-button:active {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(220, 77, 1, 0.4);
 }
 

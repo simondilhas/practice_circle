@@ -1,7 +1,7 @@
 site_name: The Practice Circle
 site_description: A network of people training attention, honesty, and compassion in ordinary life.
 site_author: The Practice Circle
-site_url: https://simondilhas.github.io/practice_circle
+site_url: https://thepracticecircle.org
 
 # Repository
 repo_name: simondilhas/practice_circle
@@ -125,4 +125,4 @@ extra:
   generator: false
 
 # Copyright/Footer
-copyright: <a href="/practice_circle/imprint/">Imprint</a> · <a href="/practice_circle/privacy-notice/">Privacy Policy</a> · <a href="/practice_circle/disclaimer/">Liability Notice</a>
+copyright: <a href="/imprint/">Imprint</a> · <a href="/privacy-notice/">Privacy Policy</a> · <a href="/disclaimer/">Liability Notice</a>

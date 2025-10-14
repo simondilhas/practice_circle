@@ -1,79 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/getting-started/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/disclaimer/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/facilitator/FACILITATOR_GUIDE/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/getting-started/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/facilitator/MENTORSHIIP/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/how_to_join/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/framework/CHARTA/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/imprint/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/framework/DECISION_MEETING_PROTOCOL/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/manifesto/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/framework/HOW_WE_CHANGE/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/privacy-notice/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/framework/INSPIRATIONAL_TRADITIONS/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_0_INTRO/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_1_FOUNDATION/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/finances/circle_finances/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_2_STABILISATION/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/finances/federation_finances/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_3_REFINEMENT/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/lifecycle/create_a_circle/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_4_TRANSITION/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/lifecycle/document_practices/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_5_INTEGRATION/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/lifecycle/evolve_the_circle/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_AUTHOR_NOTES/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/lifecycle/spread_the_practice/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_BUDDHIST_CONCEPTS/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/protocols/contribute_changes/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_STOIC_CONCEPTS/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/protocols/make_decisions/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_TAOIST_CONCEPTS/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/protocols/mentor_members/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
     <url>
-         <loc>https://simondilhas.github.io/practice_circle/practice/STANDING_APPENDIX_YOGIC_CONCEPTS/</loc>
-         <lastmod>2025-10-11</lastmod>
+         <loc>https://thepracticecircle.org/howto/organize/protocols/resolve_conflicts/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/organize/protocols/use_llm_assistance/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/organize/roles/facilitator/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/organize/roles/scribe/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/organize/roles/treasurer/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/practice_formats/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/0_intro/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/1_foundation/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/2_stabilisation/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/3_refinement/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/4_transition/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/5_integration/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/appendices/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/appendices/author_notes/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/appendices/buddhist_concepts/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/appendices/stoic_concepts/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/appendices/taoist_concepts/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/howto/practice/standing_meditation/appendices/yogic_concepts/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/research/INSPIRATIONAL_TRADITIONS/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/research/LITERATURE_REVIEW/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/research/PRACTICE_METHODOLOGY/</loc>
+         <lastmod>2025-10-14</lastmod>
+    </url>
+    <url>
+         <loc>https://thepracticecircle.org/research/papers/</loc>
+         <lastmod>2025-10-14</lastmod>
     </url>
 </urlset>
