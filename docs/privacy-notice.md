@@ -8,6 +8,22 @@ Data submitted through forms or accounts is transmitted securely and stored on t
 - [Softr Privacy Policy](https://www.softr.io/policy)
 - [Airtable Privacy Policy](https://www.airtable.com/privacy)
 
+## Website analytics
+This website uses [GoatCounter](https://www.goatcounter.com/) for privacy-friendly analytics.
+
+GoatCounter collects:
+- Page views and referrer information
+- Approximate location (country level only)
+- Browser and device type
+
+GoatCounter does **not** collect:
+- Personal information
+- IP addresses (anonymized immediately)
+- Cookies or tracking across websites
+- Any identifiable user data
+
+All analytics data is aggregated and anonymous. For more information, see the [GoatCounter Privacy Policy](https://www.goatcounter.com/help/privacy).
+
 ## Purpose of data use
 Personal data such as names, e-mail addresses, and profile information are used solely to operate user accounts and facilitate participation in circles.  
 No data is sold or shared with third parties outside the operation of this platform.
