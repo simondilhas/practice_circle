@@ -119,6 +119,8 @@ extra:
       link: https://github.com/simondilhas/practice_circle
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@ThePracticeCircle
+    - icon: fontawesome/solid/blog
+      link: https://dilhas.substack.com/s/the-practice-circle
   generator: false
 
 # Copyright/Footer
