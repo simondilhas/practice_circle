@@ -19,16 +19,18 @@ we practice another way: **clarity without dogma, community without control, fre
 ## How It Works
 
 Each Circle is:
-    - Small (around 10 people — larger circles split)
-    - Peer-led and self-organizing  
-    - Grounded in embodied practice, not ideology  
-    - Supported by shared documentation tools  
+
+- Small (around 10 people — larger circles split)
+- Peer-led and self-organizing  
+- Grounded in embodied practice, not ideology  
+- Supported by shared documentation tools  
 
 Typical session flow:
-    1. **Check-in**  
-    2. **Standing meditation**  
-    3. **Dialogue or theme exploration**  
-    4. **Short reflection and documentation**  
+
+1. **Check-in**  
+2. **Standing meditation**  
+3. **Dialogue or theme exploration**  
+4. **Short reflection and documentation**  
 
 Everyone contributes — by practicing, documenting, listening, speaking and questioning.  
 The circle is both **method and mirror**: we learn about ourselves by practicing together.
