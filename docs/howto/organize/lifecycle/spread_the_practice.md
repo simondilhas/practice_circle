@@ -30,13 +30,13 @@ We've created simple, printable flyers you can share:
 <div class="info-card">
 <h3>STOP Flyer (PDF)</h3>
 <p>Print and post where people pause and reflect.</p>
-<p><a href="/practice_circle/assets/flyers/STOP.pdf" download>Download PDF →</a></p>
+<p><a href="../../../assets/flyers/STOP.pdf" download>Download PDF →</a></p>
 </div>
 
 <div class="info-card">
 <h3>STOP Flyer (PNG)</h3>
 <p>Share digitally or print in high quality.</p>
-<p><a href="/practice_circle/assets/flyers/stop-1.png" download>Download Image →</a></p>
+<p><a href="../../../assets/flyers/stop-1.png" download>Download Image →</a></p>
 </div>
 
 </div>
@@ -80,14 +80,14 @@ When a circle reaches about 10 people, it's time to consider splitting into two 
 This keeps groups intimate enough for real dialogue and shared presence.
 
 **Ready to start a new circle?**  
-Follow the [Circle Creation Guide](organize/lifecycle/create_a_circle.md)
+Follow the [Circle Creation Guide](create_a_circle.md)
 
 ### Geographic Expansion
 
 If you're in a new city or region:
 - Check if circles already exist in your area (via the [app](https://practice-circle.softr.app))
 - If not, you can be the first
-- Use the [Starter Kit](organize/lifecycle/create_a_circle.md) to set up structure
+- Use the [Starter Kit](create_a_circle.md) to set up structure
 
 ---
 
@@ -96,7 +96,7 @@ If you're in a new city or region:
 ### Become a Facilitator
 
 Help new circles get started by learning facilitation:
-- Read the [Facilitator Guide](organize/roles/facilitator.md)
+- Read the [Facilitator Guide](../roles/facilitator.md)
 - Experience facilitating in your own circle first
 - Offer to support a new circle's first sessions
 
@@ -137,8 +137,8 @@ Share both what works and what's difficult. Honesty builds trust.
 ## Resources for Spreading
 
 - **[Postcard](https://www.canva.com/design/DAG1r-_0yEk/D-JzeWIXGkw9MK9sEsKKrQ/edit)** — Personal invitation template
-- **[Circle Starter Kit](organize/lifecycle/create_a_circle.md)** — Everything needed to form a new circle
-- **[Facilitator Guide](organize/roles/facilitator.md)** — Learn to guide sessions
+- **[Circle Starter Kit](create_a_circle.md)** — Everything needed to form a new circle
+- **[Facilitator Guide](../roles/facilitator.md)** — Learn to guide sessions
 - **[Practice Circle App](https://practice-circle.softr.app)** — Connect with the network
 
 ---

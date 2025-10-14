@@ -5,7 +5,7 @@ User data on this site is managed via the Softr platform (softr.io) and stored i
 
 These services act as data processors providing hosting, authentication, and database functionality.  
 Data submitted through forms or accounts is transmitted securely and stored on their servers according to their respective privacy policies:
-- [Softr Privacy Policy](https://www.softr.io/privacy-policy)
+- [Softr Privacy Policy](https://www.softr.io/policy)
 - [Airtable Privacy Policy](https://www.airtable.com/privacy)
 
 ## Purpose of data use

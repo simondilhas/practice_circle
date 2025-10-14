@@ -154,7 +154,7 @@ Keep it short. No commentary or questions yet.
 
 **1. Explain Standing Meditation (5 min)**
 
-Read or paraphrase from [Foundation Practice](../practice/STANDING_1_FOUNDATION.md):
+Read or paraphrase from [Foundation Practice](../../practice/standing_meditation/1_foundation.md):
 - Stand with feet shoulder-width apart
 - Arms relaxed at sides (or hands gently folded)
 - Eyes may be open (soft gaze downward) or closed
@@ -276,7 +276,7 @@ Once your circle is stable (typically after 3 months):
 
 **2. Request repository access** (if interested):
 - Circles are invited to participate in governance
-- See [How We Change](HOW_WE_CHANGE.md) for process
+- See [How We Change](evolve_the_circle.md) for process
 - One or more members from your circle can become reviewers/contributors
 
 **3. Share learnings**:
@@ -349,11 +349,11 @@ From [How We Change](evolve_the_circle.md):
 
 **Minimum required**:
 - [Manifesto](../../index.md)
-- [Standing Meditation Introduction](../practice/standing_meditation/0_intro.md)
+- [Standing Meditation Introduction](../../practice/standing_meditation/0_intro.md)
 
 **Recommended within first month**:
-- [How We Change](evolution.md)
-- [Decision Meeting Protocol](decision_making.md)
+- [How We Change](evolve_the_circle.md)
+- [Decision Meeting Protocol](../protocols/make_decisions.md)
 
 **Over time**:
 - Practice stages (Foundation through Integration)
@@ -416,7 +416,7 @@ You don't need to master everything before starting. Circles learn as they pract
 - [How We Change](evolve_the_circle.md) — Governance and change process
 - [Decision Meeting Protocol](../protocols/make_decisions.md) — How to make collective decisions
 - [Facilitator Guide](../roles/facilitator.md) — Detailed role guidance
-- [Standing Meditation](../practice/standing_meditation/0_intro.md) — Progression through standing practice
+- [Standing Meditation](../../practice/standing_meditation/0_intro.md) — Progression through standing practice
 - [GitHub Repository](https://github.com/simondilhas/practice_circle) — Central hub for all documentation
 
 ---

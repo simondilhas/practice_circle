@@ -79,7 +79,7 @@ It is **systematic training of attention through the body** — the most direct 
 
 The available research remains fragmented and underfunded, but its direction is clear: **prolonged, relaxed standing systematically regulates the nervous system, enhances proprioception and interoception, and supports cognitive clarity.** The field is young, but it points consistently toward the same insight: **attention through the body changes both.**
 
-*For detailed citations, methodology notes, and full study summaries, see the [Research Literature Review](../research/LITERATURE_REVIEW.md).*
+*For detailed citations, methodology notes, and full study summaries, see the [Research Literature Review](../../../research/LITERATURE_REVIEW.md).*
 
 ---
 

@@ -103,7 +103,7 @@ Be specific. Vague claims like "I feel more centered" are less useful than "I no
 ## Sharing Your Experience
 
 ### Personal Accounts in Documentation
-As seen in [STANDING_0_INTRO.md](../practice/STANDING_0_INTRO.md), honest accounts help others understand what practice looks like across different bodies and life circumstances.
+As seen in [STANDING_0_INTRO.md](../howto/practice/standing_meditation/0_intro.md), honest accounts help others understand what practice looks like across different bodies and life circumstances.
 
 If you wish to contribute a personal account:
 - Focus on observable changes over time
@@ -197,7 +197,7 @@ The goal is to understand **what it does, for whom, under what conditions** — 
 - [Standing Introduction](../howto/practice/standing_meditation/0_intro.md) — Personal account and practice foundations
 - [Literature Review](LITERATURE_REVIEW.md) — Scientific research on standing meditation
 - [How We Change](../howto/organize/lifecycle/evolve_the_circle.md) — Process for testing and integrating changes
-- [Documentation Guide](../howto/organize/documentation.md) — Documentation and research within circles
+- [Documentation Guide](../howto/organize/lifecycle/document_practices.md) — Documentation and research within circles
 
 ---
 

@@ -72,7 +72,7 @@ Practice remains meaningful only when it can be **observed, shared, and refined*
 I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
 This record allows both personal reflection and collective refinement — turning data into insight, and effort into shared learning. 
 
-→ [How to document the practice](howto/organize/document_practices.md)
+→ [How to document the practice](howto/organize/lifecycle/document_practices.md)
 
 
 ---

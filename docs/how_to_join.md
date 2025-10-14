@@ -45,8 +45,8 @@ Simon can:
 
 ## Still Unsure?
 
-If you’re curious but not ready to commit, you can:
-- Read the [How-To Guides](how-to-guides.md)  
+If you're curious but not ready to commit, you can:
+- Read the [How-To Guides](howto/index.md)  
 - Or simply reach out to Simon for a short conversation.
 
 ---
