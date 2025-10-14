@@ -1,50 +1,47 @@
 # Practice Circle  
 *A living network of small, self-organizing circles for presence, dialogue, and shared learning.*
 
-Every person who joins a Practice Circle is a **co-creator**.  
-We don’t follow leaders or fixed methods — we practice awareness, dialogue, and shared responsibility together.  
-Each circle evolves through the people who show up.
+> Small groups exploring awareness, dialogue, and shared responsibility — a framework for rebuilding meaning without belief.
 
 [Join a Circle](how_to_join.md)
 
 ---
 
-## Why Practice Circles?
+## Why This Exists
 
-Because awareness, listening, and shared power can’t be taught — they have to be practiced.
+Modern life rewards speed, not clarity.  
+We work faster, know more, and feel less.  
+The Practice Circle rebuilds that balance — through embodied awareness, shared reflection, and transparent collaboration.
 
-Each circle is:
-
-- Small (10 people, if bigger the circle is split in two)  
-- Self-organizing and peer-led  
-- Focused on lived experience, not ideology  
-- Supported by simple tools for documentation and reflection
-
-Together, these circles form a decentralized learning network — one that grows through shared practice, not hierarchy.
+Where religion once offered meaning but turned into hierarchy, and modern life replaced meaning with distraction,  
+we practice another way: **clarity without dogma, community without control, freedom with accountability.**
 
 ---
 
-## What Happens in a Circle
+## How It Works
 
+Each Circle is:
+- Small (around 10 people — larger circles split)
+- Peer-led and self-organizing  
+- Grounded in embodied practice, not ideology  
+- Supported by shared documentation tools  
 
-- Meet weekly or bi-weekly (online or local)  
-- Check-in
-- Begin with a shared practice of standing medidation
-- Explore an open question or theme  
-- Rotate facilitation — everyone leads sometimes  
-- Capture the practice in a shared repository  
-- Reflect together on how the process evolves
+Typical session flow:
+1. **Check-in**  
+2. **Standing meditation**  
+3. **Dialogue or theme exploration**  
+4. **Short reflection and documentation**  
 
-The circle is both **method and mirror** — we learn about ourselves by practicing together.
+Everyone contributes — by practicing, documenting, listening, speaking and questioning.  
+The circle is both **method and mirror**: we learn about ourselves by practicing together.
 
 ---
 
-## This Practice Is For
+## Who It’s For
 
 ### 1. The Overloaded Modern Individual  
-Feeling **disconnected, anxious, or exhausted** by the pace of modern life?  
-This practice offers a **grounded, embodied way to rebuild clarity, balance, and calm** —  
-a return to presence without retreating into old belief systems.  
+For those feeling **disconnected, anxious, or exhausted** by the pace of modern life.  
+This practice offers a **grounded, embodied way** to rebuild clarity, balance, and calm — without retreating into old belief systems.  
 
 ---
 
@@ -56,81 +53,58 @@ Here you’ll find a **transparent framework** for collaboration, documentation,
 ---
 
 ### 3. The Seeker Beyond Religion  
-Those looking for **spiritual depth and community** beyond traditional religion or commercial self-help.  
+Those seeking **spiritual depth and community** beyond traditional religion or commercial self-help.  
 The Practice Circle offers **meaning without dogma**, **structure without control**, and **freedom with accountability** —  
 a living practice instead of fixed belief.  
 
 ---
 
-In every circle, everyone contributes — by listening, speaking, documenting, and showing up fully.  
+## Why Now
 
-
----
-
-## Why Join Now
-
-We’re in the **early wave** — refining the language, rhythm, and structure of the Practice Circle.  
-By joining now, you can:
-
-- **Times won’t get quieter** — learn to stay grounded and clear amid uncertainty.  
-- **Systems won’t fix themselves** — help shape a way of working and relating that actually sustains people.  
-- **Meaning won’t return on its own** — rebuild depth and connection through shared, embodied practice.  
+- **Times won’t get quieter.** Learn to stay grounded amid uncertainty.  
+- **Systems won’t fix themselves.** Help shape ways of working that sustain people.  
+- **Meaning won’t return on its own.** Rebuild depth through shared, embodied practice.  
 
 This is the stage where the form is still fluid — and your participation truly shapes it.
+
+[Join a Circle](how_to_join.md)
 
 ---
 
 ## How to Join
 
-Choose your path:
-
 | Path | Description | |
 |------|--------------|--|
-| **Join a Circle** | Experience a living, co-created practice group | [Join a Circle](how_to_join.md) |
-| **Start a Circle** | Use our starter kit to form your own group | [Start a Circle](howto/organize/lifecycle/create_a_circle.md) |
-| **Multiply** | Help others start circles in your region | [Multiply the Practice](howto/organize/roles/facilitator.md) |
-
+| **Join a Circle** | Experience a living, co-created group | [Join a Circle](how_to_join.md) |
+| **Start a Circle** | Form your own practice group | [Start a Circle](howto/organize/lifecycle/create_a_circle.md) |
+| **Multiply** | Help others start circles | [Multiply the Practice](howto/organize/roles/facilitator.md) |
 
 ---
 
 ## The Practice Circle Ethos  
 
-**1. Practice** — grounding awareness in the body through direct experience, not belief.  
-**2. Documentation** — making practice visible so reflection becomes shared learning.  
-**3. Shared Decisions and Responsibility** — authority remains procedural, not personal; clarity and accountability hold power.  
-**4. Conflict Resolution Through Dialogue** — trust is protected by honesty, understanding, and mediation, not dominance.  
-**5. Evolution and Freedom** — the framework stays open to change; freedom safeguards integrity, and evolution protects life.  
+1. **Practice** — grounding awareness in the body through direct experience  
+2. **Documentation** — making practice visible so reflection becomes shared learning  
+3. **Shared Decisions** — clarity replaces hierarchy  
+4. **Conflict Through Dialogue** — honesty protects trust  
+5. **Evolution and Freedom** — structures stay open and adaptive  
 
-These principles hold the structure steady while allowing it to remain alive, honest, and adaptable.
+These principles hold the structure steady while allowing it to remain alive, honest, and flexible.
 
 ---
 
-## Who’s Behind the Initiative
+## Origins & People
 
-## Who’s Behind the Initiative
-
-- **Simon Dilhas** — Architect, project manager, and founder of a software consultancy — now initiator of the Practice Circle.  
-His work bridges structure and presence: how we can build systems that support awareness, accountability, and freedom rather than suppress them.
-
-The Practice Circle grew from personal necessity.  
-After years of overwork, tension, and disconnection, Simon returned to standing practice — not as a cure, but as a way to rebuild stability from the ground up.  
-The results were gradual and real: less anxiety, steadier focus, and a clearer sense of proportion in work and life.  
-
-This experience became the seed for a collective experiment — to explore how **individual practice and shared structure** can sustain each other.  
-
-The first circles are now forming — each participant becomes part of the story.  
-Your name could be here as well.
+**Simon Dilhas** — architect and project manager exploring how structure can support awareness, accountability, and freedom.  
+The first circles are now forming. Each participant becomes part of the story — your name could be here too.
 
 ---
 
 ## Learn More
 
-For those who want to dive deeper:
-
-- [Manifesto](manifesto.md)
-- [How-To Guides](howto/index.md) — create, host, and evolve circles  
-- [Practice Methodology](howto/practice/practice_formats.md) — the theory behind the practice  
-- [Inspirational Traditions](research/INSPIRATIONAL_TRADITIONS.md) — philosophical foundations  
+- [Manifesto](manifesto.md)  
+- [How-To Guides](howto/index.md)  
+- [Practice Methodology](howto/practice/practice_formats.md)  
 
 ---
 
