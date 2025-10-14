@@ -57,3 +57,9 @@ They help us write clearly, not think for us.
 
 > Practice remains human.  
 > The machine helps us see — not decide.
+
+---
+
+## Resources
+
+**[LLM Custom Prompts](llm_custom_prompts.md)** — Ready-to-use prompts for configuring custom GPTs and other language models to align with Practice Circle principles.

@@ -102,15 +102,25 @@ This is the stage where the form is still fluid — and your participation truly
 
 ---
 
-## The Practice Circle Ethos  
+## Our Five Commitments
 
-1. **Practice** — grounding awareness in the body through direct experience  
-2. **Documentation** — making practice visible so reflection becomes shared learning  
-3. **Shared Decisions** — clarity replaces hierarchy  
-4. **Conflict Through Dialogue** — honesty protects trust  
-5. **Evolution and Freedom** — structures stay open and adaptive  
+### 1. I Practice Every Day
+> Because It Unites Body and Mind, Cultivating Skillful Living
 
-These principles hold the structure steady while allowing it to remain alive, honest, and flexible.
+### 2. I Document My Practice
+> To Make It Visible and Enable Collective Improvement
+
+### 3. I Share Decisions, Responsibility, and Information
+> To Keep the Work Stable and Prevent Dependence on Strong Leaders
+
+### 4. I Commit to Conflict Resolution Through Dialogue
+> To Protect Trust and Prevent Corruption
+
+### 5. I Support Evolution and Freedom
+> To Keep the Circle Alive and Honest
+
+These commitments hold the structure steady while allowing it to remain alive, honest, and flexible.  
+[Read the full Manifesto →](manifesto.md)
 
 ---
 

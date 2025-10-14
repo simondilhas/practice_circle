@@ -105,6 +105,7 @@ nav:
         - Mentor Members: howto/organize/protocols/mentor_members.md
         - Contribute Changes: howto/organize/protocols/contribute_changes.md
         - Use LLM Assistance: howto/organize/protocols/use_llm_assistance.md
+        - LLM Custom Prompts: howto/organize/protocols/llm_custom_prompts.md
       - Financial Management:
         - Circle Finances: howto/organize/finances/circle_finances.md
         - Federation Finances: howto/organize/finances/federation_finances.md
@@ -113,6 +114,7 @@ nav:
     - Literature Review: research/LITERATURE_REVIEW.md
     - Inspirational Traditions: research/INSPIRATIONAL_TRADITIONS.md
   - The Practice Circle App: https://practice-circle.softr.app/login
+  - AI Custodian (GPT): https://chatgpt.com/g/g-68ee597597708191b5875c2a705d7117-the-practice-circle
 
 # Extra
 extra:
