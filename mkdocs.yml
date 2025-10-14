@@ -13,6 +13,7 @@ theme:
   logo: assets/images/fav.svg
   favicon: assets/images/fav.svg
   breadcrumbs: false
+  custom_dir: overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -113,8 +114,9 @@ nav:
     - Practice Methodology: research/PRACTICE_METHODOLOGY.md
     - Literature Review: research/LITERATURE_REVIEW.md
     - Inspirational Traditions: research/INSPIRATIONAL_TRADITIONS.md
-  - The Practice Circle App: https://practice-circle.softr.app/login
   - AI Custodian (GPT): https://chatgpt.com/g/g-68ee597597708191b5875c2a705d7117-the-practice-circle
+  - The Practice Circle App: https://practice-circle.softr.app/login
+
 
 # Extra
 extra:
