@@ -61,7 +61,6 @@ That's already the practice.</strong></p>
 <p>Draw a small circle with chalk — about 2–3 meters wide.<br>
 Add a few pairs of footprints on the line.<br>
 Anyone can stand there, together or alone.<br>
-(See <a href="how_to_circle.md">How to Make a Circle</a>)</p>
 
 <h4>3. Practice</h4>
 <p>Step onto one of the footprints.<br>
