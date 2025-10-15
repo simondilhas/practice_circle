@@ -104,20 +104,37 @@ This is the stage where the form is still fluid — and your participation truly
 
 ## Our Five Commitments
 
-### 1. I Practice Every Day
+### 1. I Practice
 > Because It Unites Body and Mind, Cultivating Skillful Living
 
-### 2. I Document My Practice
+Practice is any disciplined method that grounds awareness in the body and the present moment.  
+All members begin with daily standing practice — learning to root attention in stillness, balance, and breath.
+
+### 2. I Document
 > To Make It Visible and Enable Collective Improvement
 
-### 3. I Share Decisions, Responsibility, and Information
+I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
+This record allows both personal reflection and collective refinement, turning data into insight, and effort into shared learning.
+
+### 3. I Balance
 > To Keep the Work Stable and Prevent Dependence on Strong Leaders
 
-### 4. I Commit to Conflict Resolution Through Dialogue
+Integrity depends on tension between structure and conscience. I balance procedural authority and personal responsibility, ensuring that process serves people, not the other way around.  
+Authority is procedural, not personal. Clarity and documentation hold power, not individuals.
+
+### 4. I Engage
 > To Protect Trust and Prevent Corruption
 
-### 5. I Support Evolution and Freedom
+When conflict arises, I engage directly and with honesty through dialogue.  
+I seek understanding before judgment, and clarity before reaction.  
+Leaving remains an honorable option; freedom safeguards integrity for all.
+
+### 5. I Evolve
 > To Keep the Circle Alive and Honest
+
+I recognize that everything we build must remain open to change. I evolve with the circle, and the circle evolves with me.
+The framework evolves through testing, reflection, and collective consent — not through authority.  
+Freedom protects integrity, and evolution keeps the work alive.
 
 These commitments hold the structure steady while allowing it to remain alive, honest, and flexible.  
 [Read the full Manifesto →](manifesto.md)

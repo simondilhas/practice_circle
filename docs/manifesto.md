@@ -47,68 +47,67 @@ From these foundations arise our core commitments:
 
 ---
 
-### 1. I Practice Every Day
+### 1. I Practice
 > Because It Unites Body and Mind, Cultivating Skillful Living  
 
-Practice means any disciplined method that cultivates embodied awareness and attentive presence.  
-All members begin with **daily standing practice** as a direct, physical entry point into awareness —  
-learning to root attention in stillness, balance, and breath.  
-If standing is not possible, use sitting; if sitting is not possible, use lying down.  
-What matters is the uprightness of attention, not the posture itself.  
+Practice is any disciplined method that grounds awareness in the body and the present moment.
+All members begin with daily standing practice — learning to root attention in stillness, balance, and breath.
+If standing is not possible, use sitting or lying down; what matters is the uprightness of attention, not the posture itself.
 
-From this stable base, practice may expand into other forms that connect mind and body —  
-any method that trains presence and deepens clarity in relation to life and work.  
-Continuity, not variety, is the measure of progress.  
-Practice remains meaningful only when it can be **observed, shared, and refined**.  
+From this foundation, practice may expand into any form that strengthens presence and clarity in daily life.
+Continuity, not variety, is the measure of progress.
+Practice remains meaningful only when it can be observed, shared, and refined.
 
 → [How we practice](howto/practice/practice_formats.md)
 → [How to do standing](howto/practice/standing_meditation/)
 
 ---
 
-### 2. I Document My Practice
+### 2. I Document
 > To Make It Visible and Enable Collective Improvement 
 
 I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
-This record allows both personal reflection and collective refinement — turning data into insight, and effort into shared learning. 
+This record allows both personal reflection and collective refinement, turning data into insight, and effort into shared learning. 
 
 → [How to document the practice](howto/organize/lifecycle/document_practices.md)
 
 
 ---
 
-### 3. I Share Decisions, Responsibility, and Information
+### 3. I balance
 > To Keep the Work Stable and Prevent Dependence on Strong Leaders  
 
-I take part in collective decision-making, follow agreed procedures, and keep my work visible to others.  
-Authority is procedural, not personal; clarity and documentation hold power, not individuals.  
-By sharing decisions, accountability, and information, we prevent hierarchy, preserve trust, and ensure that the circle continues even when members change.  
+Integrity depends on tension between structure and conscience. I balance procedural authority and personal responsibility, ensuring that process serves people, not the other way around.
+
+I take part in collective decision-making, follow agreed procedures, and keep my work visible to others.
+Authority is procedural, not personal. Clarity and documentation hold power, not individuals.
+By sharing decisions, accountability, and information, we prevent hierarchy, preserve trust, and ensure that the circle continues even when members change.
 
 → [How to reach decisions](howto/organize/protocols/make_decisions.md)  
 
 ---
 
-### 4. I Commit to Conflict Resolution Through Dialogue
+### 4. I engage
 > To Protect Trust and Prevent Corruption
 
-When conflict arises, I address it directly and with honesty.  
-I seek understanding before judgment, clarity before reaction.  
-If resolution cannot be found within the circle, I support mediation by two peers from other circles.  
-Mediation seeks clarity, not victory.  
-Leaving is always an honorable option — freedom safeguards integrity.  
+When conflict arises, I engage directly and with honesty through dialogue.
+I seek understanding before judgment, and clarity before reaction.
+If resolution cannot be found within the circle, I invite mediation by two peers from other circles —
+a process that seeks clarity, not victory.
+Leaving remains an honorable option; freedom safeguards integrity for all.
+In all cases, I act to protect safety and dignity without causing unnecessary harm.
 
 → [How to resolve conflicts](howto/organize/protocols/resolve_conflicts.md)
 
 ---
 
-### 5. I Support Evolution and Freedom
+### 5. I evolve
 > To Keep the Circle Alive and Honest  
 
-I recognize that everything we build must remain open to change.  
-The framework evolves through testing, reflection, and collective consent, not through authority.  
-I contribute to revisions transparently and accept that others may continue differently.  
-Leaving the circle is always an honorable option;  
-freedom protects integrity, and evolution protects life.  
+I recognize that everything we build must remain open to change.
+The framework evolves through testing, reflection, and collective consent — not through authority.
+I contribute to revisions transparently and accept that others may continue differently.
+Freedom protects integrity, and evolution keeps the work alive.
 
 → [How we change](howto/organize/lifecycle/evolve_the_circle.md)
 
@@ -127,7 +126,7 @@ From this foundation, life becomes less reactive and more deliberate.
 Awareness creates space between stimulus and response — decisions are made with proportion rather than impulse.  
 Calm attention carries into daily work, conflict, and rest.
 
-### Strong Community, Shared Integrity  
+### Resilient Community, Shared Integrity  
 In relating to others, communication grows transparent and grounded.  
 Power becomes procedural rather than personal; the circle learns, reflects, and corrects.  
 Integrity is shared — each voice heard, each accountable to the whole.
