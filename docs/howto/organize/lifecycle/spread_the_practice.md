@@ -70,9 +70,31 @@ Keep it simple and honest:
 - "This might interest you if you're looking for..."
 - "No pressure — just thought you'd want to know this exists"
 
+## 3. Draw a Public Circle
+
+**1. Find a Quiet Place**  
+Stop. Stand still. Focus on your feet. Relax.  
+That's already the practice.
+
+**2. Make a Circle**  
+Draw a small circle with chalk — about 2–3 meters wide.  
+Add a few pairs of footprints on the line.  
+Anyone can stand there, together or alone.
+
+**3. Practice**  
+Step onto one of the footprints.  
+Stand still for a minute or two.  
+No talking, no phones. Just notice your breath and weight.  
+Then step away quietly.
+
+**4. Share**  
+If you want, take a photo from above or from a distance.  
+Write where it was and what you noticed.  
+You can share it online or document it on GitHub.
+
 ---
 
-## 3. Start New Circles
+## 4. Start New Circles
 
 ### When Your Circle Grows
 
@@ -91,29 +113,6 @@ If you're in a new city or region:
 
 ---
 
-## 4. Support Other Circles
-
-### Become a Facilitator
-
-Help new circles get started by learning facilitation:
-- Read the [Facilitator Guide](../roles/facilitator.md)
-- Experience facilitating in your own circle first
-- Offer to support a new circle's first sessions
-
-### Mentor New Circles
-
-Once your circle has practiced together for several months:
-- Share documentation and learnings
-- Answer questions from emerging circles
-- Contribute to the shared knowledge base
-
-### Cross-Circle Learning
-
-- Attend sessions at other circles occasionally
-- Share practices that worked well for your group
-- Stay connected through the Practice Circle network
-
----
 
 ## Principles of Spreading
 
