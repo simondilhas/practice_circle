@@ -4,7 +4,7 @@
 
 <div class="card" style="flex: 1; min-width: 300px; border: 2px solid #e1e5e9; border-radius: 12px; padding: 2rem; background: #f8f9fa; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
-<h2>🧠 For Thinkers</h2>
+<h2>For Thinkers</h2>
 
 <p><em>Start with understanding, then practice</em></p>
 
@@ -44,7 +44,7 @@ In The Practice Circle, understanding grows from experience — not the other wa
 
 <div class="card" style="flex: 1; min-width: 300px; border: 2px solid #e1e5e9; border-radius: 12px; padding: 2rem; background: #f8f9fa; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
-<h2>✋ For Doers</h2>
+<h2>For Doers</h2>
 
 <p><em>Start with doing, not reading</em></p>
 

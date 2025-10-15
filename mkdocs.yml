@@ -15,20 +15,10 @@ theme:
   breadcrumbs: false
   custom_dir: overrides
   palette:
-    # Palette toggle for light mode
+    # Light mode only
     - scheme: default
       primary: black
       accent: "#DC4D01"
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: black
-      accent: "#DC4D01"
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.sections
