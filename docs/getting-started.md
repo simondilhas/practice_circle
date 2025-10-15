@@ -48,31 +48,32 @@ In The Practice Circle, understanding grows from experience — not the other wa
 
 <p><em>Start with doing, not reading</em></p>
 
-<p><strong>Find a quiet spot. Stop. Stand still. Focus on your feet. Relax.<br>
+<h3>1. Find a Quiet Place</h3>
+<p><strong>Stop. Stand still. Focus on your feet. Relax.<br>
 That's already the practice.</strong></p>
 
-<h3>1. Make a Circle</h3>
+<h3>2. Make a Circle</h3>
 <p>Draw a small circle with chalk — about 2–3 meters wide.<br>
-Add five pairs of footprints on the line.<br>
+Add a few pairs of footprints on the line.<br>
 Anyone can stand there, together or alone.<br>
 (See <a href="how_to_circle.md">How to Make a Circle</a>)</p>
 
-<h3>2. Practice</h3>
+<h3>3. Practice</h3>
 <p>Step onto one of the footprints.<br>
 Stand still for a minute or two.<br>
 No talking, no phones. Just notice your breath and weight.<br>
 Then step away quietly.</p>
 
-<h3>3. Share (Optional)</h3>
+<h3>4. Share</h3>
 <p>If you want, take a photo from above or from a distance.<br>
 Write where it was and what you noticed.<br>
 You can share it online or document it on GitHub.</p>
 
-<h3>4. Learn More</h3>
+<h3>5. Learn More</h3>
 <p>If you want to understand the idea behind it, read the<br>
 <a href="manifesto.md">Manifesto</a>.</p>
 
-<h3>5. Contribute (Optional)</h3>
+<h3>6. Contribute (Optional)</h3>
 <p>Found a clearer way to explain or draw it?<br>
 Propose it on GitHub:<br>
 <a href="howto/organize/protocols/contribute_changes.md">How to Contribute Changes</a></p>
