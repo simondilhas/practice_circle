@@ -113,17 +113,17 @@ All members begin with daily standing practice — learning to root attention in
 ### 2. I Document my Practice
 > To Make It Visible and Enable Collective Improvement
 
-I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
-This record allows both personal reflection and collective refinement, turning data into insight, and effort into shared learning.
+I document what I do and observe directly — not my interpretations, but the raw experience itself.  
+This record allows both personal reflection and collective refinement, turning direct observation into shared understanding.
 
 ### 3. I Balance Procedural Authority and Personal Responsibility
-> To Keep the Work Stable and Prevent Dependence on Strong Leaders
+> To Prevent Corruption Blind Faith and Hero Worship
 
 Integrity depends on tension between structure and conscience. I balance procedural authority and personal responsibility, ensuring that process serves people, not the other way around.  
 Authority is procedural, not personal. Clarity and documentation hold power, not individuals.
 
 ### 4. I Engage Through Dialogue
-> To Protect Trust and Prevent Corruption
+> To Protect Trust and Resolve Conflict
 
 When conflict arises, I engage directly and with honesty through dialogue.  
 I seek understanding before judgment, and clarity before reaction.  
