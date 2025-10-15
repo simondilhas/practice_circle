@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="52.037292mm"
-   height="52.058445mm"
-   viewBox="0 0 52.037292 52.058445"
+   width="52.301876mm"
+   height="52.323029mm"
+   viewBox="0 0 52.301876 52.323029"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,10 +13,37 @@
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(-40.63132,-36.324376)">
-    <path
-       id="rect2"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 64.366547,60.094419 c 0,-1.895319 1.018406,-3.00462 2.283422,-3.00462 1.265016,0 2.283422,1.109301 2.283422,3.00462 0.06998,9.262113 -0.111749,18.526953 0.0342,27.788396 14.093559,0 23.201023,-11.446235 23.201022,-25.539794 0,-14.093559 -11.425087,-25.518646 -25.518646,-25.518646 -14.093559,0 -25.518646,11.425087 -25.518646,25.518646 -10e-7,14.093559 9.141663,25.518647 23.235222,25.518647 z" />
+     transform="translate(-13.226649,-9.1846496)">
+    <g
+       id="g1"
+       transform="translate(0.38980574,-4.6776689)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+         id="rect1-6-2-1-1-6-1"
+         width="52.037292"
+         height="52.058445"
+         x="12.969135"
+         y="13.99461" />
+      <path
+         id="path4-2-2-0-5-9-49"
+         style="fill:none;stroke:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.568445,54.714626 c -6.29729,-2.59733 -10.72951,-8.79699 -10.72951,-16.03186 0,-9.57366 7.76099,-17.33465 17.33467,-17.33465 9.57367,0 17.33466,7.76099 17.33466,17.33465 0,7.31696 -4.53337,13.57509 -10.94459,16.11887" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1.46007;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4-6-8-6-5-3-2"
+         width="2.4884321e-13"
+         height="13.583714"
+         x="35.915726"
+         y="49.447815"
+         transform="matrix(0.99971528,-0.02386123,0.03040141,0.99953777,0,0)" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1.51198;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4-9-1-9-3-4-7-0"
+         width="2.4321013e-13"
+         height="14.904112"
+         x="41.332172"
+         y="46.824173"
+         transform="matrix(0.99994063,0.01089622,-0.01101379,0.99993935,0,0)" />
+    </g>
   </g>
 </svg>
