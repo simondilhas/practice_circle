@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+---
+
+
 # Practice Circle  
 *A living network of small, self-organizing circles for presence, dialogue, and shared learning.*
 

@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+---
+
+
 > *This document is a provisional draft written before the formal establishment of the first circle.  
 > It defines the initial structure for collective refinement.  
 > Upon founding, the circle will review, amend, and formally adopt or reject each section.*
