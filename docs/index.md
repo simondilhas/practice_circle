@@ -110,26 +110,26 @@ This is the stage where the form is still fluid — and your participation truly
 Practice is any disciplined method that grounds awareness in the body and the present moment.  
 All members begin with daily standing practice — learning to root attention in stillness, balance, and breath.
 
-### 2. I Document
+### 2. I Document my Practice
 > To Make It Visible and Enable Collective Improvement
 
 I document what I do, what I notice, and what I learn — so that my process can be understood, questioned, and built upon.  
 This record allows both personal reflection and collective refinement, turning data into insight, and effort into shared learning.
 
-### 3. I Balance
+### 3. I Balance Procedural Authority and Personal Responsibility
 > To Keep the Work Stable and Prevent Dependence on Strong Leaders
 
 Integrity depends on tension between structure and conscience. I balance procedural authority and personal responsibility, ensuring that process serves people, not the other way around.  
 Authority is procedural, not personal. Clarity and documentation hold power, not individuals.
 
-### 4. I Engage
+### 4. I Engage Through Dialogue
 > To Protect Trust and Prevent Corruption
 
 When conflict arises, I engage directly and with honesty through dialogue.  
 I seek understanding before judgment, and clarity before reaction.  
 Leaving remains an honorable option; freedom safeguards integrity for all.
 
-### 5. I Evolve
+### 5. I Evolve and the Circle Evolves with Me
 > To Keep the Circle Alive and Honest
 
 I recognize that everything we build must remain open to change. I evolve with the circle, and the circle evolves with me.
