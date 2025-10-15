@@ -14,13 +14,13 @@ hide:
 <p><em>Start with reading, then practice</em></p>
 
 <h4>1. Manifesto — Why We Exist</h4>
-<p>Read the <a href="manifesto.md">Manifesto</a> to understand the reason for The Practice Circle and the principles that guide it.</p>
+<p>Read the <a href="manifesto.html">Manifesto</a> to understand the reason for The Practice Circle and the principles that guide it.</p>
 
 <h4>2. How-To Guides — Practicing and Organizing Together</h4>
-<p>Visit the <a href="howto/index.md">How-To Guides</a> to learn how circles practice, document, and make decisions through shared responsibility and clear procedures.</p>
+<p>Visit the <a href="howto/index.html">How-To Guides</a> to learn how circles practice, document, and make decisions through shared responsibility and clear procedures.</p>
 
 <h4>3. Practice — The Core Method</h4>
-<p>Begin with <a href="howto/practice/standing_meditation/0_intro.md">Standing Meditation</a>.<br>
+<p>Begin with <a href="howto/practice/standing_meditation/0_intro.html">Standing Meditation</a>.<br>
 This is the foundation — awareness rooted in the body.</p>
 
 <h4>4. Document — Make Your Practice Visible</h4>
@@ -37,7 +37,7 @@ Use the official app to start your journal: <a href="https://practice-circle.sof
 
 <h4>6. Contribute (Optional)</h4>
 <p>Found something unclear? See a typo? Have an idea for improvement?<br>
-Help shape these documents: <a href="howto/organize/protocols/contribute_changes.md">How to Contribute Changes</a><br>
+Help shape these documents: <a href="howto/organize/protocols/contribute_changes.html">How to Contribute Changes</a><br>
 No technical skills needed — we'll guide you through it.</p>
 
 <hr>
@@ -75,12 +75,12 @@ You can share it online or document it on GitHub.</p>
 
 <h4>5. Learn More</h4>
 <p>If you want to understand the idea behind it, read the<br>
-<a href="manifesto.md">Manifesto</a>.</p>
+<a href="manifesto.html">Manifesto</a>.</p>
 
 <h4>6. Contribute (Optional)</h4>
 <p>Found a clearer way to explain or draw it?<br>
 Propose it on GitHub:<br>
-<a href="howto/organize/protocols/contribute_changes.md">How to Contribute Changes</a></p>
+<a href="howto/organize/protocols/contribute_changes.html">How to Contribute Changes</a></p>
 
 <hr>
 
