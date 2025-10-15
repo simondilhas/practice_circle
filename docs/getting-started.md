@@ -1,12 +1,12 @@
 # Getting Started
 
-<div class="card-container" style="display: flex; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
+<div class="info-cards-container">
 
-<div class="card" style="flex: 1; min-width: 300px; border: 2px solid #e1e5e9; border-radius: 12px; padding: 2rem; background: #f8f9fa; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div class="info-card">
 
 <h2>For Thinkers</h2>
 
-<p><em>Start with understanding, then practice</em></p>
+<p><em>Start with reading, then practice</em></p>
 
 <h3>1. Manifesto — Why We Exist</h3>
 <p>Read the <a href="manifesto.md">Manifesto</a> to understand the reason for The Practice Circle and the principles that guide it.</p>
@@ -42,7 +42,7 @@ In The Practice Circle, understanding grows from experience — not the other wa
 
 </div>
 
-<div class="card" style="flex: 1; min-width: 300px; border: 2px solid #e1e5e9; border-radius: 12px; padding: 2rem; background: #f8f9fa; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div class="info-card">
 
 <h2>For Doers</h2>
 
