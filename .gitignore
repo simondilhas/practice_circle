@@ -21,3 +21,7 @@ venv/
 .env.test
 .env.production
 
+# Generated MkDocs site
+_site/
+site/
+

@@ -62,12 +62,6 @@ The circle is both **method and mirror**: we learn about ourselves by practicing
 <p>Those seeking spiritual depth and community beyond traditional religion or commercial self-help. The Practice Circle offers meaning without dogma, structure without control, and freedom with accountability — a living practice instead of fixed belief.</p>
 </div>
 
-<div class="info-card">
-<h3>You?</h3>
-<p>Tell us your reason</p>
-<p><a href="how_to_join/">Join →</a></p>
-</div>
-
 </div>
 
 ---
