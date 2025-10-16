@@ -19,6 +19,9 @@ hide:
 <h4>2. How-To Guides — Practicing and Organizing Together</h4>
 <p>Visit the <a href="/howto/index.html">How-To Guides</a> to learn how circles practice, document, and make decisions through shared responsibility and clear procedures.</p>
 
+<h4>2.5. Introduction Meeting — Welcoming New People</h4>
+<p>If you're planning to start a circle or welcome newcomers, use the <a href="/howto/organize/lifecycle/introduction_meeting.html">Introduction Meeting Script</a> — a complete framework for explaining the Practice Circle through embodied practice.</p>
+
 <h4>3. Practice — The Core Method</h4>
 <p>Begin with <a href="/howto/practice/standing_meditation/0_intro.html">Standing Meditation</a>.<br>
 This is the foundation — awareness rooted in the body.</p>

@@ -127,6 +127,8 @@ Once people have committed:
 
 The first session sets the tone. Keep it simple, honest, and aligned with the structure.
 
+> **💡 Introduction Meeting Script**: For a detailed, tested script that introduces new people to the Practice Circle, see the [Introduction Meeting Script](introduction_meeting.md). This script provides a complete framework for welcoming newcomers and explaining the circle's principles through embodied practice.
+
 ### Before People Arrive
 
 - Arrive early to set up the space

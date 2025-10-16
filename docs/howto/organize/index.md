@@ -15,6 +15,7 @@ These rotating responsibilities ensure shared leadership and prevent hierarchy:
 Guides for establishing, maintaining, and evolving your circle:
 
 - **[Create a Circle](lifecycle/create_a_circle.md)** — How to establish a new Practice Circle
+- **[Introduction Meeting Script](lifecycle/introduction_meeting.md)** — A complete script for welcoming newcomers and explaining circle principles through embodied practice
 - **[Evolve the Circle](lifecycle/evolve_the_circle.md)** — How the circle adapts, changes, and maintains integrity over time
 - **[Document Practices](lifecycle/document_practices.md)** — How to document practice and make work visible for collective learning
 

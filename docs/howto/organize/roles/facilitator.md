@@ -44,6 +44,8 @@ They do not teach or interpret. Their authority is procedural, not personal.
   "My name is … Today I'm here for …"
 - Remind everyone of duration, silence, and right to rest if needed.
 
+> **📋 For Introduction Sessions**: When facilitating for newcomers, consider using the [Introduction Meeting Script](../lifecycle/introduction_meeting.md) which provides a complete framework for welcoming new people and explaining the circle's principles through embodied practice.
+
 ### 3. Keep time
 - Maintain 40 minutes of standing meditation (or agreed duration).
 - Use a neutral timer sound (no gong apps with "spiritual" branding).
