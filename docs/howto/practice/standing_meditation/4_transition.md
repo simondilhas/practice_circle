@@ -15,7 +15,7 @@
 - Keep both feet flat on the floor.
 
 #### Weight Distribution
-- Settle **70 % of the weight on the front leg**, 30 % on the rear.  
+- Settle **70 % of the weight on the rear leg**, 30 % on the front.  
 - Spine remains vertical; do not lean forward.  
 - Feel the load pass through hip, knee, ankle into the ground.  
 - Switch sides after each round.
