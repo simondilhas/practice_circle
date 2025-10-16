@@ -88,6 +88,7 @@ nav:
         - Treasurer: howto/organize/roles/treasurer.md
       - Circle Lifecycle:
         - Create a Circle: howto/organize/lifecycle/create_a_circle.md
+        - Introduction Meeting Script: howto/organize/lifecycle/introduction_meeting.md
         - Evolve the Circle: howto/organize/lifecycle/evolve_the_circle.md
         - Document Practices: howto/organize/lifecycle/document_practices.md
       - Protocols:
