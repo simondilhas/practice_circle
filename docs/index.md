@@ -1,14 +1,15 @@
----
-template: home.html
----
+# The Practice Circle
 
-<script>
-window.location.replace('/manifesto/');
-</script>
+Welcome to The Practice Circle documentation.
 
-<meta http-equiv="refresh" content="0; url=/manifesto/">
-<link rel="canonical" href="/manifesto/">
+## Quick Start
 
-# Redirecting to Manifesto...
+- **[Read the Manifesto](manifesto.md)** - Our core principles and vision
+- **[Getting Started](getting-started.md)** - How to begin your journey
+- **[How to Join](howto/how_to_join.md)** - Join an existing circle
 
-If you are not redirected automatically, [click here to go to the Manifesto](/manifesto/).
+## What is The Practice Circle?
+
+A network of people training attention, honesty, and compassion in ordinary life through structured practice and mutual support.
+
+[**→ Start with the Manifesto**](manifesto.md)

@@ -57,7 +57,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: https://www.thepracticecircle.org
+  - Home: index.md
   - Manifesto: manifesto.md
   - Getting Started: getting-started.md
   - How-To Guides:
