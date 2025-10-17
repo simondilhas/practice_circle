@@ -56,7 +56,8 @@ To free the body from tension and learn to stand without strain.
 - Use light **visualizations** to help attention settle:
   - Imagine roots growing gently from the soles into the ground.  
   - Feel a thread lifting from the crown, lengthening the spine.  
-  - Picture breath moving like mist in and out of the lower abdomen.  
+  - Picture breath moving like mist in and out of the lower abdomen.
+  - Trace/scan your body from top to bottom and let the attention circle horizontally. The combination of the horizontal circle and the slow vertical downward movement build a spiral.
 - These images are only **tools for sensing alignment**, not beliefs or energy rituals.  
 - Drop them as soon as you can maintain posture and relaxation without them.
 
