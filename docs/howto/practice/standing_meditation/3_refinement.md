@@ -56,7 +56,7 @@ Deepen this split awareness until posture, breath, and attention unify into livi
 ---
 
 ### Routine
-- 30–60 minutes, 3–4 times weekly.
+- 30–60 minutes.
 - Always end with the arms low.
 - Document what you did and what it did to you — contribute to collective understanding.
 
