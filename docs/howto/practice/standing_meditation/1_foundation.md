@@ -96,5 +96,5 @@ Become aware of where you hold tension — and learn to let it dissolve.
 ---
 
 ### When to Explore Stage 2
-When standing for 15+ minutes feels natural rather than effortful, and warmth appears in your legs without forcing — try lifting your arms into the ball position for a few minutes.  
+When standing for 15+ minutes feels natural rather than effortful, try lifting your arms into the ball position for a few minutes.  
 If it feels curious rather than strained, Stage 2 is ready for you to explore.
