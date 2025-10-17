@@ -73,10 +73,10 @@ To free the body from tension and learn to stand without strain.
 
 
 ### Signs of Progress
-- Stable balance and warmth in legs.  
+- Stable balance.
+- Relaxation and better awareness of tension. 
 - Breath deepens naturally.  
-- Mind quiets without effort.
-
+- Mind quiets.
 ---
 
 ### 5. Common Errors
