@@ -11,7 +11,7 @@ Welcome to The Practice Circle documentation.
 - **[Visit the main overview page](https://www.thepracticecircle.org)** - Our main website
 - **[Read the Manifesto](manifesto.md)** - Our core principles and vision
 - **[Getting Started](getting-started.md)** - How to begin your journey
-- **[How to Join](howto/how_to_join.md)** - Join an existing circle
+- **[How to Join](howto/organize/protocols/how_to_join.md)** - Join an existing circle
 
 ## What is The Practice Circle?
 

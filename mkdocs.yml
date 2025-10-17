@@ -62,7 +62,6 @@ nav:
   - Getting Started: getting-started.md
   - How-To Guides:
     - Overview: howto/index.md
-    - How to Join: howto/how_to_join.md
     - Practice:
       - Overview: howto/practice/index.md
       - Standing Meditation:
@@ -92,6 +91,7 @@ nav:
         - Evolve the Circle: howto/organize/lifecycle/evolve_the_circle.md
         - Document Practices: howto/organize/lifecycle/document_practices.md
       - Protocols:
+        - How to Join: howto/organize/protocols/how_to_join.md
         - Make Decisions: howto/organize/protocols/make_decisions.md
         - Resolve Conflicts: howto/organize/protocols/resolve_conflicts.md
         - Mentor Members: howto/organize/protocols/mentor_members.md

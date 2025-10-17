@@ -19,9 +19,6 @@ hide:
 <h4>2. How-To Guides — Practicing and Organizing Together</h4>
 <p>Visit the <a href="/howto/index.html">How-To Guides</a> to learn how circles practice, document, and make decisions through shared responsibility and clear procedures.</p>
 
-<h4>2.5. Introduction Meeting — Welcoming New People</h4>
-<p>If you're planning to start a circle or welcome newcomers, use the <a href="/howto/organize/lifecycle/introduction_meeting.html">Introduction Meeting Script</a> — a complete framework for explaining the Practice Circle through embodied practice.</p>
-
 <h4>3. Practice — The Core Method</h4>
 <p>Begin with <a href="/howto/practice/standing_meditation/0_intro.html">Standing Meditation</a>.<br>
 This is the foundation — awareness rooted in the body.</p>
@@ -31,17 +28,7 @@ This is the foundation — awareness rooted in the body.</p>
 Use the official app to start your journal: <a href="https://practice-circle.softr.app/sign-up">Register now</a></p>
 
 <h4>5. Invite Others</h4>
-<p>for example by:</p>
-<ul>
-<li>Download the <a href="https://www.canva.com/design/DAG1r-_0yEk/D-JzeWIXGkw9MK9sEsKKrQ/edit">Postcard</a> and send it to someone you care about — maybe even by real mail.</li>
-<li>Creating a Meetup</li>
-<li>Drawing a circle</li>
-</ul>
-
-<h4>6. Contribute (Optional)</h4>
-<p>Found something unclear? See a typo? Have an idea for improvement?<br>
-Help shape these documents: <a href="/howto/organize/protocols/contribute_changes.html">How to Contribute Changes</a><br>
-No technical skills needed — we'll guide you through it.</p>
+<p>Download the <a href="https://www.canva.com/design/DAG1r-_0yEk/D-JzeWIXGkw9MK9sEsKKrQ/edit">Postcard</a> and send it to someone you care about — maybe even by real mail.</p>
 
 <hr>
 
@@ -61,29 +48,24 @@ In The Practice Circle, understanding grows from experience — not the other wa
 That's already the practice.</strong></p>
 
 <h4>2. Make a Circle</h4>
-<p>Draw a small circle with chalk — about 2–3 meters wide.<br>
+<p>Draw a small circle with chalk, stones or branches.<br>
 Add a few pairs of footprints on the line.<br>
-Anyone can stand there, together or alone.<br>
+Anyone can stand there, together or alone.</p>
 
 <h4>3. Practice</h4>
 <p>Step onto one of the footprints.<br>
-Stand still for a minute or two.<br>
+Stand still for a few minutes.<br>
 No talking, no phones. Just notice your breath and weight.<br>
 Then step away quietly.</p>
 
 <h4>4. Share</h4>
 <p>If you want, take a photo from above or from a distance.<br>
 Write where it was and what you noticed.<br>
-You can share it online or document it on GitHub.</p>
+You can share it online on social media or document it on GitHub.</p>
 
 <h4>5. Learn More</h4>
 <p>If you want to understand the idea behind it, read the<br>
 <a href="manifesto.html">Manifesto</a>.</p>
-
-<h4>6. Contribute (Optional)</h4>
-<p>Found a clearer way to explain or draw it?<br>
-Propose it on GitHub:<br>
-<a href="/howto/organize/protocols/contribute_changes.html">How to Contribute Changes</a></p>
 
 <hr>
 
