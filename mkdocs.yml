@@ -57,7 +57,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: https://www.thepracticecircle.org
   - Manifesto: manifesto.md
   - Getting Started: getting-started.md
   - How-To Guides:
@@ -105,6 +105,8 @@ nav:
     - Practice Methodology: research/PRACTICE_METHODOLOGY.md
     - Literature Review: research/LITERATURE_REVIEW.md
     - Inspirational Traditions: research/INSPIRATIONAL_TRADITIONS.md
+  - Network:
+    - Logo Design: network/logo_design.md
   - AI Custodian (GPT): https://chatgpt.com/g/g-68ee597597708191b5875c2a705d7117-the-practice-circle
   - The Practice Circle App: https://practice-circle.softr.app/login
 
