@@ -100,13 +100,15 @@ nav:
         - LLM Custom Prompts: howto/organize/protocols/llm_custom_prompts.md
       - Financial Management:
         - Circle Finances: howto/organize/finances/circle_finances.md
-        - Federation Finances: howto/organize/finances/federation_finances.md
   - Research:
     - Practice Methodology: research/PRACTICE_METHODOLOGY.md
     - Literature Review: research/LITERATURE_REVIEW.md
     - Inspirational Traditions: research/INSPIRATIONAL_TRADITIONS.md
   - Network:
+    - Overview: network/index.md
     - Logo Design: network/logo_design.md
+    - Outreach and Visibility Plan: network/outreach_and_visibility_plan.md
+    - Federation Finances: network/federation_finances.md
   - AI Custodian (GPT): https://chatgpt.com/g/g-68ee597597708191b5875c2a705d7117-the-practice-circle
   - The Practice Circle App: https://practice-circle.softr.app/login
 

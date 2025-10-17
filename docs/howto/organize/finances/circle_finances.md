@@ -53,7 +53,9 @@ Each circle adjusts according to context, size, and local costs — while mainta
   - Seed new circles  
   - Fund inter-circle work or events  
   - Support research and documentation  
-  - Provide inclusion grants for new members  
+  - Provide inclusion grants for new members
+
+For detailed information about federation-level financial management, see **[Federation Finances](../../network/federation_finances.md)**.  
 
 ---
 
