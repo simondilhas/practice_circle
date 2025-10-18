@@ -19,6 +19,16 @@ The foundational practice of the Practice Circle. All members begin with daily s
 
 ---
 
+## Complementary Practices
+
+Supporting practices that enhance and integrate with standing meditation, offering different entry points and recovery methods.
+
+### [Lying Meditation](lying_meditation.md)
+
+A restorative practice for grounding and integration. When standing practice generates excess energy or mental activity, lying meditation helps the body release tension and calm the nervous system.
+
+---
+
 ## Future Practices
 
 From the stable base of standing meditation, practice may expand into other forms that connect mind and body — any method that trains presence and deepens clarity in relation to life and work.
