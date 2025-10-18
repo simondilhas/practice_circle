@@ -11,6 +11,9 @@ The Network section contains shared resources and strategies for inter-circle wo
 ### Outreach and Visibility
 - **[Outreach and Visibility Plan](outreach_and_visibility_plan.md)** — A comprehensive approach to sharing the practice through multiple channels while maintaining authenticity and avoiding promotion.
 
+### Strategic Planning
+- **[Development Roadmap](development_roadmap.md)** — Strategic development phases from initial framework to network expansion, including current progress and next steps.
+
 ### Financial Coordination
 - **[Federation Finances](federation_finances.md)** — Collective resource management for shared infrastructure, research, and continuity across the network.
 
