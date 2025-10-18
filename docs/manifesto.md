@@ -60,32 +60,19 @@ From these foundations arise our core commitments:
 | **5. Commit to Evolution**  | **To Keep the Framework Alive and Honest.**           | I evolve and contribute to the Circle’s ongoing framework.                         |  I recognize that everything we build must remain open to change. The framework evolves through testing, reflection, and collective consent — not through authority. I contribute to revisions transparently and accept that others may continue differently. Freedom protects integrity, and evolution keeps the work alive.  <br><br> → [How we change](howto/organize/lifecycle/evolve_the_circle.md)                                                                                                                            |
 
 
-
 ## What This Creates — In the Body, Life, Community, and the World
 
-### Relaxed and Resilient Body  
-Practice begins in the body. Through standing meditation, breathing, and movement, tension releases and balance returns.  
-The nervous system settles; the body becomes a stable base for awareness, action, and further development.
+**In the Body**  
+Regular embodied practice improves physiological regulation. Studies on mindfulness and somatic awareness show measurable effects on heart-rate variability and stress reduction — the body shifts from reactivity to responsiveness.  
 
-### Skillful and Deliberate Living  
-From this foundation, life becomes less reactive and more deliberate.  
-Awareness creates space between stimulus and response — decisions are made with proportion rather than impulse.  
-Calm attention carries into daily work, conflict, and rest.
+**In Life**  
+With a regulated baseline, attention and decision-making stabilize. Evidence from cognitive and behavioral research links contemplative practice to improved emotional regulation and intentional action over habitual reaction.  
 
-### Resilient Community, Shared Integrity  
-In relating to others, communication grows transparent and grounded.  
-Power becomes procedural rather than personal; the circle learns, reflects, and corrects.  
-Integrity is shared — each voice heard, each accountable to the whole.
+**In Community**  
+Groups that emphasize transparent processes, shared authority, and accountability cultivate trust and adaptability. Research in organizational behavior and collective efficacy supports this structure as a basis for resilient collaboration.  
 
-### A Blueprint for a Different World  
-The circle becomes a living model of another way to organize human effort.  
-Authority rests on clarity, not charisma; structure replaces hierarchy.  
-When people change, the work continues — stable through transparency, adaptable through dialogue.  
-In a culture that demands leaders to follow, we demonstrate that cooperation, accountability, and freedom can sustain themselves.  
-
-A relaxed body supports a clear mind; clear minds form honest circles; honest circles model a freer world.  
-This is how practice becomes collective — and how freedom becomes sustainable.
-
+**In the World**  
+These shifts compound: regulated bodies enable deliberate lives; deliberate lives sustain coherent communities; coherent communities model systems grounded in clarity and responsibility. This framework becomes a living experiment in how practice can re-shape culture and thereby act as a counterweight to the accelerating, disembodied, and efficiency-driven tendencies that shape much of today’s culture.
 
 ---
 
