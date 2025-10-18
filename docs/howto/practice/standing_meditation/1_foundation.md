@@ -56,7 +56,8 @@ To free the body from tension and learn to stand without strain.
 - Use light **visualizations** to help attention settle:
   - Imagine roots growing gently from the soles into the ground.  
   - Feel a thread lifting from the crown, lengthening the spine.  
-  - Picture breath moving like mist in and out of the lower abdomen.  
+  - Picture breath moving like mist in and out of the lower abdomen.
+  - Trace/scan your body from top to bottom and let the attention circle horizontally. The combination of the horizontal circle and the slow vertical downward movement build a spiral.
 - These images are only **tools for sensing alignment**, not beliefs or energy rituals.  
 - Drop them as soon as you can maintain posture and relaxation without them.
 
@@ -72,10 +73,10 @@ To free the body from tension and learn to stand without strain.
 
 
 ### Signs of Progress
-- Stable balance and warmth in legs.  
+- Stable balance.
+- Relaxation and better awareness of tension. 
 - Breath deepens naturally.  
-- Mind quiets without effort.
-
+- Mind quiets.
 ---
 
 ### 5. Common Errors
@@ -95,5 +96,5 @@ Become aware of where you hold tension — and learn to let it dissolve.
 ---
 
 ### When to Explore Stage 2
-When standing for 15+ minutes feels natural rather than effortful, and warmth appears in your legs without forcing — try lifting your arms into the ball position for a few minutes.  
+When standing for 15+ minutes feels natural rather than effortful, try lifting your arms into the ball position for a few minutes.  
 If it feels curious rather than strained, Stage 2 is ready for you to explore.

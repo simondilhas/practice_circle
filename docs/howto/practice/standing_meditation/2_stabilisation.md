@@ -52,7 +52,7 @@ Transition from *relaxation under gravity* to *strength through relaxation.*
 - After several weeks in Stage 2, when standing with arms down feels stable, begin to **lift arms slowly** — as if buoyed up by water or air.  
 - Stop when hands are roughly at **lower chest or solar plexus height**, elbows rounded,  
   palms facing each other/body as though holding a large ball.  
-- Shoulder-width distance between hands; wrists stay soft.  
+- 5 to 20cm distance between hands; wrists stay soft.  
 - Maintain only as long as relaxation remains.  
 - If tension appears in shoulders or wrists, lower the arms and rest.
 
@@ -121,6 +121,7 @@ Trust the process: sensation is a side effect, not the goal.
 | Holding tension | Revisit Stage 1 looseners |
 | Over-breathing | Let breath find natural length |
 | Mental strain | Shift attention to soles of feet |
+| High energy, problems to sleep | Reduce time with raised hands, focus more on feet and belly |
 
 ---
 
