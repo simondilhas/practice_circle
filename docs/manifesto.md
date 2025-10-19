@@ -81,3 +81,4 @@ These shifts compound: regulated bodies enable deliberate lives; deliberate live
 Ready to explore further?
 Before exploring more theory or structure, take a few minutes to stand, breathe, and feel your weight on the ground. Feel the tensions in your body.
 Awareness begins with direct experience!
+
